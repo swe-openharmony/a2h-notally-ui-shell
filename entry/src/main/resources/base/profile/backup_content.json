@@ -1,0 +1,4 @@
+{
+  "android_xml_resource": "xml/backup_content.xml",
+  "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<full-backup-content>\n    <exclude\n        domain=\"sharedpref\"\n        path=\".\" />\n    <exclude\n        domain=\"root\"\n        path=\"./app_webview\" />\n    <exclude\n        domain=\"root\"\n        path=\"./app_textures\" />\n</full-backup-content>"
+}

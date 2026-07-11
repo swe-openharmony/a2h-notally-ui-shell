@@ -1,0 +1,288 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Sobre"
+    },
+    {
+      "name": "add_item",
+      "value": "Adicionar item"
+    },
+    {
+      "name": "add_label",
+      "value": "Adicionar etiqueta"
+    },
+    {
+      "name": "appearance",
+      "value": "Aparência"
+    },
+    {
+      "name": "archive",
+      "value": "Arquivar"
+    },
+    {
+      "name": "archived",
+      "value": "Arquivadas"
+    },
+    {
+      "name": "backup",
+      "value": "Backup"
+    },
+    {
+      "name": "bold",
+      "value": "Negrito"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancelar"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Não foi possível abrir o link"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Limpar formatação"
+    },
+    {
+      "name": "content_density",
+      "value": "Densidade do conteúdo"
+    },
+    {
+      "name": "create_new",
+      "value": "Nenhuma etiqueta ainda. Criar uma?"
+    },
+    {
+      "name": "dark",
+      "value": "Escuro"
+    },
+    {
+      "name": "date",
+      "value": "Data"
+    },
+    {
+      "name": "date_format",
+      "value": "Formato da data"
+    },
+    {
+      "name": "delete",
+      "value": "Apagar"
+    },
+    {
+      "name": "delete_all",
+      "value": "Apagar todas"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Apagar todas as notas?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Apagar para sempre"
+    },
+    {
+      "name": "delete_label",
+      "value": "Apagar etiqueta?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Apagar nota para sempre?"
+    },
+    {
+      "name": "deleted",
+      "value": "Apagadas"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Arrastar e largar"
+    },
+    {
+      "name": "edit",
+      "value": "Editar"
+    },
+    {
+      "name": "edit_label",
+      "value": "Editar etiqueta"
+    },
+    {
+      "name": "empty_list",
+      "value": "Lista vazia"
+    },
+    {
+      "name": "empty_note",
+      "value": "Nota vazia"
+    },
+    {
+      "name": "export",
+      "value": "Exportar"
+    },
+    {
+      "name": "export_backup",
+      "value": "Exportar backup"
+    },
+    {
+      "name": "follow_system",
+      "value": "Seguir o sistema"
+    },
+    {
+      "name": "grid",
+      "value": "Grade"
+    },
+    {
+      "name": "import_backup",
+      "value": "Importar backup"
+    },
+    {
+      "name": "italic",
+      "value": "Itálico"
+    },
+    {
+      "name": "item",
+      "value": "Item"
+    },
+    {
+      "name": "label_exists",
+      "value": "Essa etiqueta já existe"
+    },
+    {
+      "name": "labels",
+      "value": "Etiquetas"
+    },
+    {
+      "name": "libraries",
+      "value": "Bibliotecas"
+    },
+    {
+      "name": "light",
+      "value": "Claro"
+    },
+    {
+      "name": "link",
+      "value": "Link"
+    },
+    {
+      "name": "list",
+      "value": "Lista"
+    },
+    {
+      "name": "make_list",
+      "value": "Criar lista"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Máximo de itens para serem exibidos nas listas"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Máximo de linhas para serem exibidos nas notas"
+    },
+    {
+      "name": "monospace",
+      "value": "Monoespaçamento"
+    },
+    {
+      "name": "none",
+      "value": "Nenhum"
+    },
+    {
+      "name": "note",
+      "value": "Nota"
+    },
+    {
+      "name": "notes",
+      "value": "Notas"
+    },
+    {
+      "name": "open_link",
+      "value": "Abrir ligação"
+    },
+    {
+      "name": "pin",
+      "value": "Afixar"
+    },
+    {
+      "name": "pinned",
+      "value": "Afixado"
+    },
+    {
+      "name": "rate",
+      "value": "Avaliar esta aplicação"
+    },
+    {
+      "name": "restore",
+      "value": "Restaurar"
+    },
+    {
+      "name": "save",
+      "value": "Guardar"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Guardar no dispositivo"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Guardado no dispositivo"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Guardar no Notally"
+    },
+    {
+      "name": "search",
+      "value": "Pesquisar"
+    },
+    {
+      "name": "settings",
+      "value": "Definições"
+    },
+    {
+      "name": "share",
+      "value": "Partilhar"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Algo correu mal. Por favor, tente novamente."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Rasurado"
+    },
+    {
+      "name": "take_note",
+      "value": "Criar nota"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "title",
+      "value": "Título"
+    },
+    {
+      "name": "unarchive",
+      "value": "Desarquivar"
+    },
+    {
+      "name": "unpin",
+      "value": "Desafixar"
+    },
+    {
+      "name": "view",
+      "value": "Exibir"
+    },
+    {
+      "name": "view_file",
+      "value": "Ver ficheiro"
+    },
+    {
+      "name": "view_note",
+      "value": "Ver nota…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "As suas notas associadas a essa etiqueta não serão apagadas"
+    }
+  ]
+}

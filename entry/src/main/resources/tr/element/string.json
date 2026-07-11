@@ -1,0 +1,568 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Hakkında"
+    },
+    {
+      "name": "add_images",
+      "value": "Resimler ekle"
+    },
+    {
+      "name": "add_item",
+      "value": "Öge ekle"
+    },
+    {
+      "name": "add_label",
+      "value": "Etiket ekle"
+    },
+    {
+      "name": "adding_images",
+      "value": "Resimler ekleniyor"
+    },
+    {
+      "name": "appearance",
+      "value": "Dış Görünüş"
+    },
+    {
+      "name": "archive",
+      "value": "Arşivle"
+    },
+    {
+      "name": "archived",
+      "value": "Arşiv"
+    },
+    {
+      "name": "audio_recordings",
+      "value": "Ses Kayıtları"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Otomatik yedekleme"
+    },
+    {
+      "name": "backup",
+      "value": "Yedekleme"
+    },
+    {
+      "name": "bold",
+      "value": "Kalın"
+    },
+    {
+      "name": "calculating",
+      "value": "Hesaplanıyor…"
+    },
+    {
+      "name": "cancel",
+      "value": "İptal"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Klasör bulunamıyor. Taşınmış yada silinmiş olabilir"
+    },
+    {
+      "name": "cant_find_note",
+      "value": "Not bulunamadı. Silinmiş olabilir"
+    },
+    {
+      "name": "cant_load_image",
+      "value": "Resim yüklenemiyor. Taşınmış yada silinmiş olabilir"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Bağlantı açılmadı"
+    },
+    {
+      "name": "change_color",
+      "value": "Rengi değiştir"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Başka klasör seç"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Klasör seç"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Biçimlendirmeyi temizle"
+    },
+    {
+      "name": "content_density",
+      "value": "İçerik yoğunluğu"
+    },
+    {
+      "name": "continue_",
+      "value": "Devam et"
+    },
+    {
+      "name": "count",
+      "value": "%1$d / %2$d"
+    },
+    {
+      "name": "create_new",
+      "value": "Henüz etiket yok. Oluşturmaya ne dersin?"
+    },
+    {
+      "name": "daily",
+      "value": "Günlük"
+    },
+    {
+      "name": "dark",
+      "value": "Koyu"
+    },
+    {
+      "name": "date",
+      "value": "Tarih"
+    },
+    {
+      "name": "date_format",
+      "value": "Tarih biçimi"
+    },
+    {
+      "name": "delete",
+      "value": "Sil"
+    },
+    {
+      "name": "delete_all",
+      "value": "Hepsini sil"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Tüm notlar silinsin mi?"
+    },
+    {
+      "name": "delete_audio_recording_forever",
+      "value": "Ses kaydını kalıcı olarak sil?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Kalıcı olarak sil"
+    },
+    {
+      "name": "delete_image_forever",
+      "value": "Resmi kalıcı olarak sil?"
+    },
+    {
+      "name": "delete_label",
+      "value": "Etiket silinsin mi?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Notunuz tamamen silinsin mi?"
+    },
+    {
+      "name": "delete_selected_notes",
+      "value": "Seçili notlar silinsin mi?"
+    },
+    {
+      "name": "deleted",
+      "value": "Çöp Kutusu"
+    },
+    {
+      "name": "deleting_images",
+      "value": "Resimler siliniyor"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Otomatik yedeklemeyi devre dışı bırak"
+    },
+    {
+      "name": "discard",
+      "value": "At"
+    },
+    {
+      "name": "does_not_repeat",
+      "value": "Tekrar etmiyor"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Sürükleme Tutamacı"
+    },
+    {
+      "name": "edit",
+      "value": "Düzenle"
+    },
+    {
+      "name": "edit_label",
+      "value": "Etiketi düzenle"
+    },
+    {
+      "name": "empty_list",
+      "value": "Boş liste"
+    },
+    {
+      "name": "empty_note",
+      "value": "Boş not"
+    },
+    {
+      "name": "error_while_renaming_image",
+      "value": "Resim yeniden adlandırırken hata oluştu"
+    },
+    {
+      "name": "export",
+      "value": "Dışa aktar"
+    },
+    {
+      "name": "export_backup",
+      "value": "Dışarı aktar"
+    },
+    {
+      "name": "exporting_backup",
+      "value": "Dışarı aktarılıyor"
+    },
+    {
+      "name": "filter",
+      "value": "Süzgeç"
+    },
+    {
+      "name": "follow_system",
+      "value": "Sistem varsayılanı"
+    },
+    {
+      "name": "grid",
+      "value": "Izgara"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Resim biçimi desteklenmiyor"
+    },
+    {
+      "name": "import_backup",
+      "value": "İçeri aktar"
+    },
+    {
+      "name": "imported_backup",
+      "value": "İçeri aktarılmış yedek"
+    },
+    {
+      "name": "importing_backup",
+      "value": "İçeri aktarılıyor"
+    },
+    {
+      "name": "insert_an_sd_card_audio",
+      "value": "Ses kaydetmek için SD card takın"
+    },
+    {
+      "name": "insert_an_sd_card_images",
+      "value": "Resim eklemek icin SD card takın"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Bağlantıyi açmak için bir tarayıcı yükleyin"
+    },
+    {
+      "name": "install_an_email",
+      "value": "Geri bildirim göndermek için bir email uygulaması yükleyin"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Geçersiz yedek"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Geçersiz resim"
+    },
+    {
+      "name": "italic",
+      "value": "İtalik"
+    },
+    {
+      "name": "item",
+      "value": "Öge"
+    },
+    {
+      "name": "label_exists",
+      "value": "Etiket var"
+    },
+    {
+      "name": "labels",
+      "value": "Etiketler"
+    },
+    {
+      "name": "large",
+      "value": "Büyük"
+    },
+    {
+      "name": "libraries",
+      "value": "Kütüphaneler"
+    },
+    {
+      "name": "light",
+      "value": "Açık"
+    },
+    {
+      "name": "link",
+      "value": "Bağlantı"
+    },
+    {
+      "name": "list",
+      "value": "Liste"
+    },
+    {
+      "name": "make_a_copy",
+      "value": "Kopya oluştur"
+    },
+    {
+      "name": "make_list",
+      "value": "Liste yap"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Listede görüntülenecek azami öge sayısı"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Notta görüntülenecek azami satır sayısı"
+    },
+    {
+      "name": "max_lines_to_display_title",
+      "value": "Başlıkta görüntülenecek azami satır sayısı"
+    },
+    {
+      "name": "medium",
+      "value": "Orta"
+    },
+    {
+      "name": "monospace",
+      "value": "Sabit aralıklı"
+    },
+    {
+      "name": "monthly",
+      "value": "Aylık"
+    },
+    {
+      "name": "none",
+      "value": "Hiçbiri"
+    },
+    {
+      "name": "note",
+      "value": "Not"
+    },
+    {
+      "name": "notes",
+      "value": "Notlar"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Notlar telefonunun dahili depolama alanına her gün yedeklenecek.\\n\\nEğer güç tasarruf modu açıksa çalışmayabilir"
+    },
+    {
+      "name": "open_link",
+      "value": "Bağlantıyı aç"
+    },
+    {
+      "name": "others",
+      "value": "Diğerleri"
+    },
+    {
+      "name": "pause",
+      "value": "Bekle"
+    },
+    {
+      "name": "paused",
+      "value": "Duraklat"
+    },
+    {
+      "name": "pin",
+      "value": "Sabitle"
+    },
+    {
+      "name": "pinned",
+      "value": "Sabitlendi"
+    },
+    {
+      "name": "play",
+      "value": "Yürüt"
+    },
+    {
+      "name": "please_grant_notally_alarm",
+      "value": "Lütfen Notally’ye alarm kurma yetkisi verin"
+    },
+    {
+      "name": "please_grant_notally_audio",
+      "value": "Lütfen Notally’ye ses kaydetme yetkisi verin. Kayıtlar cihazınızdan dışarı çıkmayacak"
+    },
+    {
+      "name": "please_grant_notally_notification",
+      "value": "Lütfen Notally’ye bildirim gönderme yetkisi verin"
+    },
+    {
+      "name": "rate",
+      "value": "Uygulamayı değerlendir"
+    },
+    {
+      "name": "ready_to_record",
+      "value": "Kaydetmeye hazır"
+    },
+    {
+      "name": "record_audio",
+      "value": "Ses kaydet"
+    },
+    {
+      "name": "recording",
+      "value": "Kaydediliyor…"
+    },
+    {
+      "name": "repeats_daily",
+      "value": "%1$s, Günlük tekrar ediyor"
+    },
+    {
+      "name": "repeats_monthly",
+      "value": "%1$s, Aylık tekrar ediyor"
+    },
+    {
+      "name": "restore",
+      "value": "Geri yükle"
+    },
+    {
+      "name": "resume",
+      "value": "Devam et"
+    },
+    {
+      "name": "save",
+      "value": "Kaydet"
+    },
+    {
+      "name": "save_recording",
+      "value": "Ses kaydını kaydet?"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Cihaza kaydet"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Cihaza kaydedildi"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Notally’ye kaydedildi"
+    },
+    {
+      "name": "search",
+      "value": "Ara"
+    },
+    {
+      "name": "select_frequency",
+      "value": "Sıklık seçin"
+    },
+    {
+      "name": "select_labels",
+      "value": "Etiketleri seç"
+    },
+    {
+      "name": "select_note",
+      "value": "Not seç"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Geri bildirim gönder"
+    },
+    {
+      "name": "set_reminder",
+      "value": "Hatιrlatıcı ekle"
+    },
+    {
+      "name": "settings",
+      "value": "Ayarlar"
+    },
+    {
+      "name": "share",
+      "value": "Paylaş"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Tek not yada liste"
+    },
+    {
+      "name": "small",
+      "value": "Küçük"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Bir terslik oldu. Lütfen tekrar deneyin"
+    },
+    {
+      "name": "something_went_wrong_audio",
+      "value": "Bir şeyler ters gitti. Ses kaydı taşınmış yada silinmiş olabilir.\\n\\nHata : (%1$d, %2$d)"
+    },
+    {
+      "name": "start",
+      "value": "Başlat"
+    },
+    {
+      "name": "stop",
+      "value": "Dur"
+    },
+    {
+      "name": "strikethrough",
+      "value": "Üstü çizgili"
+    },
+    {
+      "name": "take_note",
+      "value": "Not al"
+    },
+    {
+      "name": "tap_for_more_options",
+      "value": "Daha fazla seçenek için bas"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Kurmak için bas"
+    },
+    {
+      "name": "text_size",
+      "value": "Yazı boyutu"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "time",
+      "value": "Saat"
+    },
+    {
+      "name": "title",
+      "value": "Başlık"
+    },
+    {
+      "name": "to_record_audio",
+      "value": "Ses kaydetmek için, Notally’ye mikrofona erişim izni verin"
+    },
+    {
+      "name": "unarchive",
+      "value": "Arşivden kaldır"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Bilinmeyen hata"
+    },
+    {
+      "name": "unknown_name",
+      "value": "Bilinmeyen ad"
+    },
+    {
+      "name": "unpin",
+      "value": "Sabitlemeyi kaldır"
+    },
+    {
+      "name": "view",
+      "value": "Görünüm"
+    },
+    {
+      "name": "view_file",
+      "value": "Dosyayı görüntüle"
+    },
+    {
+      "name": "view_note",
+      "value": "Notu önizle…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Bu etikete bağlanmış notlar silinmiyecek"
+    }
+  ]
+}

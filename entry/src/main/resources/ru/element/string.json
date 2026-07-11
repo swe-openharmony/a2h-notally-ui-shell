@@ -1,0 +1,300 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "О приложении"
+    },
+    {
+      "name": "add_item",
+      "value": "Добавить пункт"
+    },
+    {
+      "name": "add_label",
+      "value": "Добавить метку"
+    },
+    {
+      "name": "appearance",
+      "value": "Внешний вид"
+    },
+    {
+      "name": "archive",
+      "value": "Архивировать"
+    },
+    {
+      "name": "archived",
+      "value": "Архив"
+    },
+    {
+      "name": "backup",
+      "value": "Резервная копия"
+    },
+    {
+      "name": "bold",
+      "value": "Жирный"
+    },
+    {
+      "name": "cancel",
+      "value": "Отменить"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Невозможно открыть ссылку"
+    },
+    {
+      "name": "change_color",
+      "value": "Изменить цвет"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Стандартный стиль"
+    },
+    {
+      "name": "content_density",
+      "value": "Плотность контента"
+    },
+    {
+      "name": "create_new",
+      "value": "Еще нет меток, создать?"
+    },
+    {
+      "name": "dark",
+      "value": "Тёмная"
+    },
+    {
+      "name": "date",
+      "value": "Дата"
+    },
+    {
+      "name": "date_format",
+      "value": "Формат даты"
+    },
+    {
+      "name": "delete",
+      "value": "Удалить"
+    },
+    {
+      "name": "delete_all",
+      "value": "Удалить всё"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Удалить все заметки?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Удалить навсегда"
+    },
+    {
+      "name": "delete_label",
+      "value": "Удалить метку?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Удалить заметку навсегда?"
+    },
+    {
+      "name": "deleted",
+      "value": "Удалённые"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Перетащить"
+    },
+    {
+      "name": "edit",
+      "value": "Редактировать"
+    },
+    {
+      "name": "edit_label",
+      "value": "Изменить метку"
+    },
+    {
+      "name": "empty_list",
+      "value": "Пустой список"
+    },
+    {
+      "name": "empty_note",
+      "value": "Пустая заметка"
+    },
+    {
+      "name": "export",
+      "value": "Экспортировать"
+    },
+    {
+      "name": "export_backup",
+      "value": "Экспортировать"
+    },
+    {
+      "name": "filter",
+      "value": "Фильтры"
+    },
+    {
+      "name": "follow_system",
+      "value": "Как в системе"
+    },
+    {
+      "name": "grid",
+      "value": "Сетка"
+    },
+    {
+      "name": "import_backup",
+      "value": "Импортировать"
+    },
+    {
+      "name": "italic",
+      "value": "Курсив"
+    },
+    {
+      "name": "item",
+      "value": "Пункт"
+    },
+    {
+      "name": "label_exists",
+      "value": "Метка уже существует"
+    },
+    {
+      "name": "labels",
+      "value": "Метки"
+    },
+    {
+      "name": "libraries",
+      "value": "Библиотеки"
+    },
+    {
+      "name": "light",
+      "value": "Светлая"
+    },
+    {
+      "name": "link",
+      "value": "Ссылка"
+    },
+    {
+      "name": "list",
+      "value": "Список"
+    },
+    {
+      "name": "make_list",
+      "value": "Создать список"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Максимум отображаемых пунктов в списке"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Максимум отображаемых строк в заметке"
+    },
+    {
+      "name": "monospace",
+      "value": "Моноширинный"
+    },
+    {
+      "name": "none",
+      "value": "Отсутствует"
+    },
+    {
+      "name": "note",
+      "value": "Заметка"
+    },
+    {
+      "name": "notes",
+      "value": "Заметки"
+    },
+    {
+      "name": "open_link",
+      "value": "Открыть ссылку"
+    },
+    {
+      "name": "others",
+      "value": "Другие"
+    },
+    {
+      "name": "pin",
+      "value": "Закрепить"
+    },
+    {
+      "name": "pinned",
+      "value": "Закреплённые"
+    },
+    {
+      "name": "rate",
+      "value": "Оценить приложение"
+    },
+    {
+      "name": "restore",
+      "value": "Восстановить"
+    },
+    {
+      "name": "save",
+      "value": "Сохранить"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Сохранить на устройстве"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Сохранено на устройстве"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Сохранено в Notally"
+    },
+    {
+      "name": "search",
+      "value": "Поиск"
+    },
+    {
+      "name": "settings",
+      "value": "Настройки"
+    },
+    {
+      "name": "share",
+      "value": "Поделиться"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Что-то пошло не так. Пожалуйста, повторите попытку"
+    },
+    {
+      "name": "strikethrough",
+      "value": "Перечёркнутый"
+    },
+    {
+      "name": "take_note",
+      "value": "Создать заметку"
+    },
+    {
+      "name": "theme",
+      "value": "Тема"
+    },
+    {
+      "name": "title",
+      "value": "Заголовок"
+    },
+    {
+      "name": "unarchive",
+      "value": "Разархивировать"
+    },
+    {
+      "name": "unpin",
+      "value": "Открепить"
+    },
+    {
+      "name": "view",
+      "value": "Вид"
+    },
+    {
+      "name": "view_file",
+      "value": "Посмотреть файл"
+    },
+    {
+      "name": "view_note",
+      "value": "Посмотреть заметку…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Ваши заметки, связанные с этой меткой, не будут удалены"
+    }
+  ]
+}

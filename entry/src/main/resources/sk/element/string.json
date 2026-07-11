@@ -1,0 +1,264 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "O aplikácii"
+    },
+    {
+      "name": "add_item",
+      "value": "Pridať položku"
+    },
+    {
+      "name": "add_label",
+      "value": "Nový štítok"
+    },
+    {
+      "name": "appearance",
+      "value": "Vzhľad"
+    },
+    {
+      "name": "archive",
+      "value": "Archivovať"
+    },
+    {
+      "name": "archived",
+      "value": "Archivované"
+    },
+    {
+      "name": "backup",
+      "value": "Zálohovanie"
+    },
+    {
+      "name": "bold",
+      "value": "Tučné"
+    },
+    {
+      "name": "cancel",
+      "value": "Zrušiť"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Odkaz sa nedá otvoriť"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Odstrániť formátovanie"
+    },
+    {
+      "name": "content_density",
+      "value": "Hustota obsahu"
+    },
+    {
+      "name": "create_new",
+      "value": "Žiadne štítky. Vytvoriť nový?"
+    },
+    {
+      "name": "dark",
+      "value": "Tmavá"
+    },
+    {
+      "name": "date",
+      "value": "Dátum"
+    },
+    {
+      "name": "delete",
+      "value": "Vymazať"
+    },
+    {
+      "name": "delete_all",
+      "value": "Vymazať všetko"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Vymazať všetky poznámky?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Vymazať navždy"
+    },
+    {
+      "name": "delete_label",
+      "value": "Vymazať štítok?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Vymazať poznámku navždy?"
+    },
+    {
+      "name": "deleted",
+      "value": "Vymazané"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Rukoväť na uchopenie"
+    },
+    {
+      "name": "edit",
+      "value": "Upraviť"
+    },
+    {
+      "name": "edit_label",
+      "value": "Upraviť štítok"
+    },
+    {
+      "name": "empty_list",
+      "value": "Prázdny zoznam"
+    },
+    {
+      "name": "empty_note",
+      "value": "Prázdna poznámka"
+    },
+    {
+      "name": "export",
+      "value": "Exportovať"
+    },
+    {
+      "name": "follow_system",
+      "value": "Podľa systému"
+    },
+    {
+      "name": "grid",
+      "value": "Mriežka"
+    },
+    {
+      "name": "italic",
+      "value": "Kurzíva"
+    },
+    {
+      "name": "item",
+      "value": "Položka"
+    },
+    {
+      "name": "label_exists",
+      "value": "Štítok už existuje"
+    },
+    {
+      "name": "labels",
+      "value": "Štítky"
+    },
+    {
+      "name": "libraries",
+      "value": "Knižnice"
+    },
+    {
+      "name": "light",
+      "value": "Svetlá"
+    },
+    {
+      "name": "link",
+      "value": "Odkaz"
+    },
+    {
+      "name": "list",
+      "value": "Zoznam"
+    },
+    {
+      "name": "make_list",
+      "value": "Vytvoriť zoznam"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Max. počet položiek v zozname"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Max. počet riadkov v poznámke"
+    },
+    {
+      "name": "monospace",
+      "value": "Neproporcionálne"
+    },
+    {
+      "name": "note",
+      "value": "Poznámka"
+    },
+    {
+      "name": "notes",
+      "value": "Poznámky"
+    },
+    {
+      "name": "pin",
+      "value": "Pripnúť"
+    },
+    {
+      "name": "pinned",
+      "value": "Pripnuté"
+    },
+    {
+      "name": "rate",
+      "value": "Ohodnotiť túto aplikáciu"
+    },
+    {
+      "name": "restore",
+      "value": "Obnoviť"
+    },
+    {
+      "name": "save",
+      "value": "Uložiť"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Uložiť do zariadenia"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Uložené do zariadenia"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Uložené do Notally"
+    },
+    {
+      "name": "search",
+      "value": "Hľadať"
+    },
+    {
+      "name": "settings",
+      "value": "Nastavenia"
+    },
+    {
+      "name": "share",
+      "value": "Zdieľať"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Niečo sa pokazilo. Skúste to znova."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Prečiarknuté"
+    },
+    {
+      "name": "take_note",
+      "value": "Napísať poznámku"
+    },
+    {
+      "name": "theme",
+      "value": "Téma"
+    },
+    {
+      "name": "title",
+      "value": "Názov"
+    },
+    {
+      "name": "unarchive",
+      "value": "Zrušiť archiváciu"
+    },
+    {
+      "name": "unpin",
+      "value": "Odopnúť"
+    },
+    {
+      "name": "view",
+      "value": "Rozloženie"
+    },
+    {
+      "name": "view_note",
+      "value": "Zobraziť poznámku…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Vaše poznámky priradené k tomuto štítku nebudú vymazané"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "color": [
+    {
+      "name": "Blossom",
+      "value": "#ff6D394F"
+    },
+    {
+      "name": "Clay",
+      "value": "#ff4B443A"
+    },
+    {
+      "name": "Coral",
+      "value": "#ff76172D"
+    },
+    {
+      "name": "Default",
+      "value": "#ff121212"
+    },
+    {
+      "name": "Dusk",
+      "value": "#ff482E5B"
+    },
+    {
+      "name": "Flower",
+      "value": "#ff880E4F"
+    },
+    {
+      "name": "Fog",
+      "value": "#ff256476"
+    },
+    {
+      "name": "Mint",
+      "value": "#ff264D3B"
+    },
+    {
+      "name": "Orange",
+      "value": "#ff692A18"
+    },
+    {
+      "name": "Sage",
+      "value": "#ff0C635D"
+    },
+    {
+      "name": "Sand",
+      "value": "#ff7C4A03"
+    },
+    {
+      "name": "Storm",
+      "value": "#ff274255"
+    }
+  ]
+}

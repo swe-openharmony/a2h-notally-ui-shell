@@ -1,0 +1,6 @@
+{
+  "layered-image": {
+    "background": "$media:LightBlue500_bg",
+    "foreground": "$media:notally_foreground"
+  }
+}

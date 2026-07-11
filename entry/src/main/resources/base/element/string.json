@@ -1,0 +1,596 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "About"
+    },
+    {
+      "name": "add_images",
+      "value": "Add images"
+    },
+    {
+      "name": "add_item",
+      "value": "Add Item"
+    },
+    {
+      "name": "add_label",
+      "value": "Add label"
+    },
+    {
+      "name": "adding_images",
+      "value": "Adding images"
+    },
+    {
+      "name": "app_name",
+      "value": "Notally"
+    },
+    {
+      "name": "appearance",
+      "value": "Appearance"
+    },
+    {
+      "name": "archive",
+      "value": "Archive"
+    },
+    {
+      "name": "archived",
+      "value": "Archived"
+    },
+    {
+      "name": "audio_recordings",
+      "value": "Audio Recordings"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Auto backup"
+    },
+    {
+      "name": "backup",
+      "value": "Backup"
+    },
+    {
+      "name": "bold",
+      "value": "Bold"
+    },
+    {
+      "name": "calculating",
+      "value": "Calculating…"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Can’t find folder. It may have been moved or deleted"
+    },
+    {
+      "name": "cant_find_note",
+      "value": "Can’t find note. It may have been deleted"
+    },
+    {
+      "name": "cant_load_image",
+      "value": "Can’t load image. It may have been moved or deleted"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Can’t open link"
+    },
+    {
+      "name": "change_color",
+      "value": "Change color"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Choose another folder"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Choose folder"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Clear formatting"
+    },
+    {
+      "name": "content_density",
+      "value": "Content density"
+    },
+    {
+      "name": "continue_",
+      "value": "Continue"
+    },
+    {
+      "name": "count",
+      "value": "%1$d / %2$d"
+    },
+    {
+      "name": "create_new",
+      "value": "No labels yet. Create one?"
+    },
+    {
+      "name": "daily",
+      "value": "Daily"
+    },
+    {
+      "name": "dark",
+      "value": "Dark"
+    },
+    {
+      "name": "date",
+      "value": "Date"
+    },
+    {
+      "name": "date_format",
+      "value": "Date format"
+    },
+    {
+      "name": "delete",
+      "value": "Delete"
+    },
+    {
+      "name": "delete_all",
+      "value": "Delete all"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Delete all notes?"
+    },
+    {
+      "name": "delete_audio_recording_forever",
+      "value": "Delete audio recording forever?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Delete forever"
+    },
+    {
+      "name": "delete_image_forever",
+      "value": "Delete image forever?"
+    },
+    {
+      "name": "delete_label",
+      "value": "Delete label?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Delete note forever?"
+    },
+    {
+      "name": "delete_selected_notes",
+      "value": "Delete selected notes?"
+    },
+    {
+      "name": "deleted",
+      "value": "Deleted"
+    },
+    {
+      "name": "deleting_images",
+      "value": "Deleting images"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Disable auto backup"
+    },
+    {
+      "name": "discard",
+      "value": "Discard"
+    },
+    {
+      "name": "does_not_repeat",
+      "value": "Does not repeat"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Drag Handle"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "edit_label",
+      "value": "Edit label"
+    },
+    {
+      "name": "empty_list",
+      "value": "Empty list"
+    },
+    {
+      "name": "empty_note",
+      "value": "Empty note"
+    },
+    {
+      "name": "error_while_renaming_image",
+      "value": "Error while renaming image"
+    },
+    {
+      "name": "export",
+      "value": "Export"
+    },
+    {
+      "name": "export_backup",
+      "value": "Export backup"
+    },
+    {
+      "name": "exporting_backup",
+      "value": "Exporting backup"
+    },
+    {
+      "name": "filter",
+      "value": "Filter"
+    },
+    {
+      "name": "follow_system",
+      "value": "Follow system"
+    },
+    {
+      "name": "github",
+      "value": "GitHub"
+    },
+    {
+      "name": "grid",
+      "value": "Grid"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Image format not supported"
+    },
+    {
+      "name": "import_backup",
+      "value": "Import backup"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Imported backup"
+    },
+    {
+      "name": "importing_backup",
+      "value": "Importing backup"
+    },
+    {
+      "name": "insert_an_sd_card_audio",
+      "value": "Insert an SD card to record audio"
+    },
+    {
+      "name": "insert_an_sd_card_images",
+      "value": "Insert an SD card to add images"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Install a browser to open this link"
+    },
+    {
+      "name": "install_an_email",
+      "value": "Install an email app to send feedback"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Invalid backup"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Invalid image"
+    },
+    {
+      "name": "italic",
+      "value": "Italic"
+    },
+    {
+      "name": "item",
+      "value": "Item"
+    },
+    {
+      "name": "label_exists",
+      "value": "Label exists"
+    },
+    {
+      "name": "labels",
+      "value": "Labels"
+    },
+    {
+      "name": "large",
+      "value": "Large"
+    },
+    {
+      "name": "libraries",
+      "value": "Libraries"
+    },
+    {
+      "name": "light",
+      "value": "Light"
+    },
+    {
+      "name": "link",
+      "value": "Link"
+    },
+    {
+      "name": "list",
+      "value": "List"
+    },
+    {
+      "name": "make_a_copy",
+      "value": "Make a copy"
+    },
+    {
+      "name": "make_list",
+      "value": "Make list"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Max items to display in list"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Max lines to display in note"
+    },
+    {
+      "name": "max_lines_to_display_title",
+      "value": "Max lines to display in title"
+    },
+    {
+      "name": "medium",
+      "value": "Medium"
+    },
+    {
+      "name": "monospace",
+      "value": "Monospace"
+    },
+    {
+      "name": "monthly",
+      "value": "Monthly"
+    },
+    {
+      "name": "next",
+      "value": "Next"
+    },
+    {
+      "name": "none",
+      "value": "None"
+    },
+    {
+      "name": "note",
+      "value": "Note"
+    },
+    {
+      "name": "notes",
+      "value": "Notes"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Notes will be backed up to your phone’s internal storage everyday.\\n\\nThis may not work if you have power saving mode enabled"
+    },
+    {
+      "name": "open_link",
+      "value": "Open link"
+    },
+    {
+      "name": "others",
+      "value": "Others"
+    },
+    {
+      "name": "pause",
+      "value": "Pause"
+    },
+    {
+      "name": "paused",
+      "value": "Paused"
+    },
+    {
+      "name": "pin",
+      "value": "Pin"
+    },
+    {
+      "name": "pinned",
+      "value": "Pinned"
+    },
+    {
+      "name": "play",
+      "value": "Play"
+    },
+    {
+      "name": "please_grant_notally_alarm",
+      "value": "Please grant Notally the permission to set alarms"
+    },
+    {
+      "name": "please_grant_notally_audio",
+      "value": "Please grant Notally the permission to record audio. Recordings never leave your device"
+    },
+    {
+      "name": "please_grant_notally_notification",
+      "value": "Please grant Notally the permission to send notifications"
+    },
+    {
+      "name": "previous",
+      "value": "Previous"
+    },
+    {
+      "name": "rate",
+      "value": "Rate this app"
+    },
+    {
+      "name": "ready_to_record",
+      "value": "Ready to record"
+    },
+    {
+      "name": "record_audio",
+      "value": "Record audio"
+    },
+    {
+      "name": "recording",
+      "value": "Recording…"
+    },
+    {
+      "name": "repeats_daily",
+      "value": "%1$s, Repeats daily"
+    },
+    {
+      "name": "repeats_monthly",
+      "value": "%1$s, Repeats monthly"
+    },
+    {
+      "name": "restore",
+      "value": "Restore"
+    },
+    {
+      "name": "resume",
+      "value": "Resume"
+    },
+    {
+      "name": "save",
+      "value": "Save"
+    },
+    {
+      "name": "save_recording",
+      "value": "Save recording?"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Save to device"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Saved to device"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Saved to Notally"
+    },
+    {
+      "name": "search",
+      "value": "Search"
+    },
+    {
+      "name": "select_frequency",
+      "value": "Select frequency"
+    },
+    {
+      "name": "select_labels",
+      "value": "Select labels"
+    },
+    {
+      "name": "select_note",
+      "value": "Select note"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Send feedback"
+    },
+    {
+      "name": "set_reminder",
+      "value": "Set reminder"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "share",
+      "value": "Share"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Single note or list"
+    },
+    {
+      "name": "small",
+      "value": "Small"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Something went wrong. Please try again."
+    },
+    {
+      "name": "something_went_wrong_audio",
+      "value": "Something went wrong. The audio recording may have been moved or deleted.\\n\\nError : (%1$d, %2$d)"
+    },
+    {
+      "name": "start",
+      "value": "Start"
+    },
+    {
+      "name": "stop",
+      "value": "Stop"
+    },
+    {
+      "name": "strikethrough",
+      "value": "Strikethrough"
+    },
+    {
+      "name": "take_note",
+      "value": "Take note"
+    },
+    {
+      "name": "tap_for_more_options",
+      "value": "Tap for more options"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Tap to set up"
+    },
+    {
+      "name": "text_size",
+      "value": "Text size"
+    },
+    {
+      "name": "theme",
+      "value": "Theme"
+    },
+    {
+      "name": "time",
+      "value": "Time"
+    },
+    {
+      "name": "title",
+      "value": "Title"
+    },
+    {
+      "name": "to_record_audio",
+      "value": "To record audio, allow Notally access to your microphone. Tap Settings > Permissions and turn Microphone on"
+    },
+    {
+      "name": "unarchive",
+      "value": "Unarchive"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Unknown error"
+    },
+    {
+      "name": "unknown_name",
+      "value": "Unknown name"
+    },
+    {
+      "name": "unpin",
+      "value": "Unpin"
+    },
+    {
+      "name": "view",
+      "value": "View"
+    },
+    {
+      "name": "view_file",
+      "value": "View file"
+    },
+    {
+      "name": "view_note",
+      "value": "View note"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Your notes attached to this label will not be deleted"
+    },
+    {
+      "name": "module_desc",
+      "value": "Notally HarmonyOS module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Notally"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Notally"
+    }
+  ]
+}

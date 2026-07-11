@@ -1,0 +1,564 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "O aplikaci"
+    },
+    {
+      "name": "add_images",
+      "value": "Přidat obrázky"
+    },
+    {
+      "name": "add_item",
+      "value": "Přidat položku"
+    },
+    {
+      "name": "add_label",
+      "value": "Nový štítek"
+    },
+    {
+      "name": "adding_images",
+      "value": "Přidávání obrázků"
+    },
+    {
+      "name": "appearance",
+      "value": "Vzhled"
+    },
+    {
+      "name": "archive",
+      "value": "Archivovat"
+    },
+    {
+      "name": "archived",
+      "value": "Archivované"
+    },
+    {
+      "name": "audio_recordings",
+      "value": "Zvukové nahrávky"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Automatická záloha"
+    },
+    {
+      "name": "backup",
+      "value": "Zálohování"
+    },
+    {
+      "name": "bold",
+      "value": "Tučně"
+    },
+    {
+      "name": "calculating",
+      "value": "Probíhá výpočet…"
+    },
+    {
+      "name": "cancel",
+      "value": "Zrušit"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Složka nebyla nalezena. Možná byla přesunuta nebo smazána."
+    },
+    {
+      "name": "cant_find_note",
+      "value": "Poznámka nenalezena. Pravděpodobně byla smazána"
+    },
+    {
+      "name": "cant_load_image",
+      "value": "Nelze načíst obrázek. Možná byl přesunut nebo odstraněn"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Odkaz nelze otevřit"
+    },
+    {
+      "name": "change_color",
+      "value": "Změnit barvu"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Vybrat jinou složku"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Vybrat složku"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Odstranit formátování"
+    },
+    {
+      "name": "content_density",
+      "value": "Kompaktnost obsahu"
+    },
+    {
+      "name": "continue_",
+      "value": "Pokračovat"
+    },
+    {
+      "name": "create_new",
+      "value": "Žádné štítky. Vytvořit nový?"
+    },
+    {
+      "name": "daily",
+      "value": "Denně"
+    },
+    {
+      "name": "dark",
+      "value": "Tmavé"
+    },
+    {
+      "name": "date",
+      "value": "Datum"
+    },
+    {
+      "name": "date_format",
+      "value": "Formát data"
+    },
+    {
+      "name": "delete",
+      "value": "Smazat"
+    },
+    {
+      "name": "delete_all",
+      "value": "Smazat vše"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Smazat všechny poznámky?"
+    },
+    {
+      "name": "delete_audio_recording_forever",
+      "value": "Trvale smazat nahrávku?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Smazat navždy"
+    },
+    {
+      "name": "delete_image_forever",
+      "value": "Smazat obrázek?"
+    },
+    {
+      "name": "delete_label",
+      "value": "Smazat štítek?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Smazat poznámku?"
+    },
+    {
+      "name": "delete_selected_notes",
+      "value": "Smazat vybrané poznámky?"
+    },
+    {
+      "name": "deleted",
+      "value": "Smazané"
+    },
+    {
+      "name": "deleting_images",
+      "value": "Mazání obrázků"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Zakázat automatickou zálohu"
+    },
+    {
+      "name": "discard",
+      "value": "Zahodit"
+    },
+    {
+      "name": "does_not_repeat",
+      "value": "Bez opakování"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Chytni a přetáhni"
+    },
+    {
+      "name": "edit",
+      "value": "Upravit"
+    },
+    {
+      "name": "edit_label",
+      "value": "Upravit štítek"
+    },
+    {
+      "name": "empty_list",
+      "value": "Prázdný seznam"
+    },
+    {
+      "name": "empty_note",
+      "value": "Prázdná poznámka"
+    },
+    {
+      "name": "error_while_renaming_image",
+      "value": "Chyba při přejmenování obrázku"
+    },
+    {
+      "name": "export",
+      "value": "Exportovat"
+    },
+    {
+      "name": "export_backup",
+      "value": "Exportovat zálohu"
+    },
+    {
+      "name": "exporting_backup",
+      "value": "Vytváří se záloha"
+    },
+    {
+      "name": "filter",
+      "value": "Filtrovat"
+    },
+    {
+      "name": "follow_system",
+      "value": "Podle systému"
+    },
+    {
+      "name": "grid",
+      "value": "Mřížka"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Formát obrázku není podporován"
+    },
+    {
+      "name": "import_backup",
+      "value": "Importovat zálohu"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Záloha importována"
+    },
+    {
+      "name": "importing_backup",
+      "value": "Importuje se záloha"
+    },
+    {
+      "name": "insert_an_sd_card_audio",
+      "value": "Chcete-li nahrávat zvuk, vložte SD kartu"
+    },
+    {
+      "name": "insert_an_sd_card_images",
+      "value": "Vložte kartu SD a přidejte obrázky"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Pro otevření odkazu nainstalujte webový prohlížeč"
+    },
+    {
+      "name": "install_an_email",
+      "value": "Pro odeslání zpětné vazby nainstalujte e-mailového klienta"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Neplatný soubor zálohy"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Neplatný obrázek"
+    },
+    {
+      "name": "italic",
+      "value": "Kurzíva"
+    },
+    {
+      "name": "item",
+      "value": "Položka"
+    },
+    {
+      "name": "label_exists",
+      "value": "Štítek již existuje"
+    },
+    {
+      "name": "labels",
+      "value": "Štítky"
+    },
+    {
+      "name": "large",
+      "value": "Velké"
+    },
+    {
+      "name": "libraries",
+      "value": "Knihovny"
+    },
+    {
+      "name": "light",
+      "value": "Světlé"
+    },
+    {
+      "name": "link",
+      "value": "Odkaz"
+    },
+    {
+      "name": "list",
+      "value": "Seznam"
+    },
+    {
+      "name": "make_a_copy",
+      "value": "Vytvořit kopii"
+    },
+    {
+      "name": "make_list",
+      "value": "Vytvořit seznam"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Max. počet položek v seznamu"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Max. počet položek v poznámce"
+    },
+    {
+      "name": "max_lines_to_display_title",
+      "value": "Max. počet řádků v názvu poznámky"
+    },
+    {
+      "name": "medium",
+      "value": "Střední"
+    },
+    {
+      "name": "monospace",
+      "value": "Neproporcionální"
+    },
+    {
+      "name": "monthly",
+      "value": "Měsíčně"
+    },
+    {
+      "name": "none",
+      "value": "Žádné"
+    },
+    {
+      "name": "note",
+      "value": "Poznámka"
+    },
+    {
+      "name": "notes",
+      "value": "Poznámky"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Poznámky budou každý den zálohovány do interního uložiště telefonu.\\n\\nPokud máte zapnutý úsporný režim, nemusí to fungovat."
+    },
+    {
+      "name": "open_link",
+      "value": "Otevřít odkaz"
+    },
+    {
+      "name": "others",
+      "value": "Jiné"
+    },
+    {
+      "name": "pause",
+      "value": "Pauza"
+    },
+    {
+      "name": "paused",
+      "value": "Pozastaveno"
+    },
+    {
+      "name": "pin",
+      "value": "Připnout"
+    },
+    {
+      "name": "pinned",
+      "value": "Připnuté"
+    },
+    {
+      "name": "play",
+      "value": "Přehrát"
+    },
+    {
+      "name": "please_grant_notally_alarm",
+      "value": "Udělte prosím Notally oprávnění nastavovat alarmy"
+    },
+    {
+      "name": "please_grant_notally_audio",
+      "value": "Udělte prosím Notally povolení k nahrávání zvuku. Nahrávky nikdy neopustí vaše zařízení"
+    },
+    {
+      "name": "please_grant_notally_notification",
+      "value": "Udělte prosím Notally oprávnění k zasílání upozornění"
+    },
+    {
+      "name": "rate",
+      "value": "Ohodnotit aplikaci"
+    },
+    {
+      "name": "ready_to_record",
+      "value": "Připraveno k nahrávání"
+    },
+    {
+      "name": "record_audio",
+      "value": "Zvuková nahrávka"
+    },
+    {
+      "name": "recording",
+      "value": "Nahrávání…"
+    },
+    {
+      "name": "repeats_daily",
+      "value": "%1$s, Opakuje se denně"
+    },
+    {
+      "name": "repeats_monthly",
+      "value": "%1$s, Opakuje se měsíčně"
+    },
+    {
+      "name": "restore",
+      "value": "Obnovit"
+    },
+    {
+      "name": "resume",
+      "value": "Pokračovat"
+    },
+    {
+      "name": "save",
+      "value": "Uložit"
+    },
+    {
+      "name": "save_recording",
+      "value": "Uložit nahrávku?"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Uložit do zařízení"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Uloženo do zařízení"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Uloženo do Notally"
+    },
+    {
+      "name": "search",
+      "value": "Hledat"
+    },
+    {
+      "name": "select_frequency",
+      "value": "Opakování"
+    },
+    {
+      "name": "select_labels",
+      "value": "Vybrat štítky"
+    },
+    {
+      "name": "select_note",
+      "value": "Vybrat poznámku"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Odeslat zpětnou vazbu"
+    },
+    {
+      "name": "set_reminder",
+      "value": "Přidat upomínku"
+    },
+    {
+      "name": "settings",
+      "value": "Nastavení"
+    },
+    {
+      "name": "share",
+      "value": "Sdílet"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Poznámka nebo seznam"
+    },
+    {
+      "name": "small",
+      "value": "Malé"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Něco se pokazilo. Zkuste to znovu."
+    },
+    {
+      "name": "something_went_wrong_audio",
+      "value": "Něco se pokazilo. Zvuková nahrávka mohla být přesunuta nebo smazána.\\n\\nChyba: (%1$d, %2$d)"
+    },
+    {
+      "name": "start",
+      "value": "Spustit"
+    },
+    {
+      "name": "stop",
+      "value": "Zastavit"
+    },
+    {
+      "name": "strikethrough",
+      "value": "Přeškrtnuté"
+    },
+    {
+      "name": "take_note",
+      "value": "Napsat poznámku"
+    },
+    {
+      "name": "tap_for_more_options",
+      "value": "Zobrazit více možností"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Nastavit klepnutím sem"
+    },
+    {
+      "name": "text_size",
+      "value": "Velikost písma"
+    },
+    {
+      "name": "theme",
+      "value": "Téma"
+    },
+    {
+      "name": "time",
+      "value": "Čas"
+    },
+    {
+      "name": "title",
+      "value": "Název"
+    },
+    {
+      "name": "to_record_audio",
+      "value": "Chcete-li nahrávat zvuk, povolte Notally přístup ke svému mikrofonu. Klepněte na Nastavení > Oprávnění a povolte Mikrofon"
+    },
+    {
+      "name": "unarchive",
+      "value": "Zrušit archivaci"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Neznámá chyba"
+    },
+    {
+      "name": "unknown_name",
+      "value": "Neznámý název"
+    },
+    {
+      "name": "unpin",
+      "value": "Odepnout"
+    },
+    {
+      "name": "view",
+      "value": "Rozložení"
+    },
+    {
+      "name": "view_file",
+      "value": "Zobrazit soubor"
+    },
+    {
+      "name": "view_note",
+      "value": "Zobrazit poznámku…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Vaše poznámky přiřazené k tomuto štítku nebudou smazány"
+    }
+  ]
+}

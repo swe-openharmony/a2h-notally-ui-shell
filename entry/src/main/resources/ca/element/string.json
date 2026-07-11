@@ -1,0 +1,264 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Quant a"
+    },
+    {
+      "name": "add_item",
+      "value": "Afegir element"
+    },
+    {
+      "name": "add_label",
+      "value": "Afegir una etiqueta"
+    },
+    {
+      "name": "appearance",
+      "value": "Aparença"
+    },
+    {
+      "name": "archive",
+      "value": "Arxivar"
+    },
+    {
+      "name": "archived",
+      "value": "Arxivat"
+    },
+    {
+      "name": "backup",
+      "value": "Còpia de seguretat"
+    },
+    {
+      "name": "bold",
+      "value": "Negreta"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel·lar"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "No es pot obrir l'enllaç"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Netejar la formatació"
+    },
+    {
+      "name": "content_density",
+      "value": "Densitat del contingut"
+    },
+    {
+      "name": "create_new",
+      "value": "Encara no hi ha etiquetes. Crear-ne una?"
+    },
+    {
+      "name": "dark",
+      "value": "Fosc"
+    },
+    {
+      "name": "date",
+      "value": "Data"
+    },
+    {
+      "name": "delete",
+      "value": "Esborrar"
+    },
+    {
+      "name": "delete_all",
+      "value": "Suprimeix-ho tot"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Suprimir totes les notes?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Esborrar per sempre"
+    },
+    {
+      "name": "delete_label",
+      "value": "Esborrar etiqueta?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Esborrar nota per sempre?"
+    },
+    {
+      "name": "deleted",
+      "value": "Eliminat"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Arrossega la nansa"
+    },
+    {
+      "name": "edit",
+      "value": "Editar"
+    },
+    {
+      "name": "edit_label",
+      "value": "Editar etiqueta"
+    },
+    {
+      "name": "empty_list",
+      "value": "Llista buida"
+    },
+    {
+      "name": "empty_note",
+      "value": "Nota buida"
+    },
+    {
+      "name": "export",
+      "value": "Exportar"
+    },
+    {
+      "name": "follow_system",
+      "value": "Segueix el sistema"
+    },
+    {
+      "name": "grid",
+      "value": "Quadrícula"
+    },
+    {
+      "name": "italic",
+      "value": "Cursiva"
+    },
+    {
+      "name": "item",
+      "value": "Element"
+    },
+    {
+      "name": "label_exists",
+      "value": "L'etiqueta ja existeix"
+    },
+    {
+      "name": "labels",
+      "value": "Etiquetes"
+    },
+    {
+      "name": "libraries",
+      "value": "Biblioteques"
+    },
+    {
+      "name": "light",
+      "value": "Clar"
+    },
+    {
+      "name": "link",
+      "value": "Enllaç"
+    },
+    {
+      "name": "list",
+      "value": "Llista"
+    },
+    {
+      "name": "make_list",
+      "value": "Fer una llista"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Nombre màxim d'elements a mostrar a la llista"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Màxim de línies a mostrar a la nota"
+    },
+    {
+      "name": "monospace",
+      "value": "Monoespai"
+    },
+    {
+      "name": "note",
+      "value": "Nota"
+    },
+    {
+      "name": "notes",
+      "value": "Notes"
+    },
+    {
+      "name": "pin",
+      "value": "Fixar"
+    },
+    {
+      "name": "pinned",
+      "value": "Fixada"
+    },
+    {
+      "name": "rate",
+      "value": "Valora aquesta aplicació"
+    },
+    {
+      "name": "restore",
+      "value": "Restaurar"
+    },
+    {
+      "name": "save",
+      "value": "Desar"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Desar al dispositiu"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Desat al dispositiu"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Desat a Notally"
+    },
+    {
+      "name": "search",
+      "value": "Cercar"
+    },
+    {
+      "name": "settings",
+      "value": "Configuració"
+    },
+    {
+      "name": "share",
+      "value": "Comparteix"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Alguna cosa ha anat malament. Torna-ho a provar."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Ratllat"
+    },
+    {
+      "name": "take_note",
+      "value": "Fer una nota"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "title",
+      "value": "Títol"
+    },
+    {
+      "name": "unarchive",
+      "value": "Desarxivar"
+    },
+    {
+      "name": "unpin",
+      "value": "Desfixar"
+    },
+    {
+      "name": "view",
+      "value": "Visualitzar"
+    },
+    {
+      "name": "view_note",
+      "value": "Visualitzar la nota…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Les notes associades a aquesta etiqueta no s'esborraran"
+    }
+  ]
+}

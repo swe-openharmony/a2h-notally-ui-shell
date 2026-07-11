@@ -1,0 +1,17 @@
+{
+  "plural": [
+    {
+      "name": "cant_add_images",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Can’t add %d image"
+        },
+        {
+          "quantity": "other",
+          "value": "Can’t add %d images"
+        }
+      ]
+    }
+  ]
+}

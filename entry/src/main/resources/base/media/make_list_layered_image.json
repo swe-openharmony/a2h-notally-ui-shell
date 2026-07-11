@@ -1,0 +1,6 @@
+{
+  "layered-image": {
+    "background": "$media:Grey100_bg",
+    "foreground": "$media:make_list_foreground"
+  }
+}

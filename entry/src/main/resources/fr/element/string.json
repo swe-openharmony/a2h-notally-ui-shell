@@ -1,0 +1,448 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "À propos"
+    },
+    {
+      "name": "add_images",
+      "value": "Ajouter des images"
+    },
+    {
+      "name": "add_item",
+      "value": "Ajouter un élément"
+    },
+    {
+      "name": "add_label",
+      "value": "Ajouter une étiquette"
+    },
+    {
+      "name": "adding_images",
+      "value": "Ajout des images"
+    },
+    {
+      "name": "appearance",
+      "value": "Apparence"
+    },
+    {
+      "name": "archive",
+      "value": "Archiver"
+    },
+    {
+      "name": "archived",
+      "value": "Éléments archivés"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Sauvegarde automatique"
+    },
+    {
+      "name": "backup",
+      "value": "Sauvegarde"
+    },
+    {
+      "name": "bold",
+      "value": "Gras"
+    },
+    {
+      "name": "calculating",
+      "value": "Calcul…"
+    },
+    {
+      "name": "cancel",
+      "value": "Annuler"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Impossible de trouver le dossier. Il a peut-être été déplacé ou supprimé."
+    },
+    {
+      "name": "cant_find_note",
+      "value": "Impossible de trouver la note. Elle a peut-être été supprimée."
+    },
+    {
+      "name": "cant_load_image",
+      "value": "Impossible de charger l'image. Elle a peut-être été déplacée ou supprimée."
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Ouverture du lien impossible"
+    },
+    {
+      "name": "change_color",
+      "value": "Changer la couleur"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Choisir un autre dossier"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Choisir un dossier"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Supprimer le formatage"
+    },
+    {
+      "name": "content_density",
+      "value": "Densité d'affichage"
+    },
+    {
+      "name": "continue_",
+      "value": "Continuer"
+    },
+    {
+      "name": "create_new",
+      "value": "Il n'existe pas encore d'étiquettes. En créer une ?"
+    },
+    {
+      "name": "dark",
+      "value": "Sombre"
+    },
+    {
+      "name": "date",
+      "value": "Date"
+    },
+    {
+      "name": "date_format",
+      "value": "Format de la date"
+    },
+    {
+      "name": "delete",
+      "value": "Supprimer"
+    },
+    {
+      "name": "delete_all",
+      "value": "Tout supprimer"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Supprimer toutes les notes ?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Supprimer définitivement"
+    },
+    {
+      "name": "delete_image_forever",
+      "value": "Supprimer l'image définitivement ?"
+    },
+    {
+      "name": "delete_label",
+      "value": "Supprimer l'étiquette ?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Supprimer la note définitivement ?"
+    },
+    {
+      "name": "delete_selected_notes",
+      "value": "Supprimer les notes sélectionnées ?"
+    },
+    {
+      "name": "deleted",
+      "value": "Éléments supprimés"
+    },
+    {
+      "name": "deleting_images",
+      "value": "Suppression des images"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Désactiver la sauvegarde automatique"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Poignée de glissement"
+    },
+    {
+      "name": "edit",
+      "value": "Modifier"
+    },
+    {
+      "name": "edit_label",
+      "value": "Modifier l'étiquette"
+    },
+    {
+      "name": "empty_list",
+      "value": "Liste vide"
+    },
+    {
+      "name": "empty_note",
+      "value": "Note vide"
+    },
+    {
+      "name": "error_while_renaming_image",
+      "value": "Erreur lors du renommage de l'image"
+    },
+    {
+      "name": "export",
+      "value": "Exporter"
+    },
+    {
+      "name": "export_backup",
+      "value": "Exporter la sauvegarde"
+    },
+    {
+      "name": "exporting_backup",
+      "value": "Exportation de la sauvegarde"
+    },
+    {
+      "name": "filter",
+      "value": "Filtrer"
+    },
+    {
+      "name": "follow_system",
+      "value": "En fonction du système"
+    },
+    {
+      "name": "grid",
+      "value": "Grille"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Format d'image non supporté"
+    },
+    {
+      "name": "import_backup",
+      "value": "Importer une sauvegarde"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Sauvegarde importée"
+    },
+    {
+      "name": "importing_backup",
+      "value": "Importation de la sauvegarde"
+    },
+    {
+      "name": "insert_an_sd_card_images",
+      "value": "Insérez une carte SD pour ajouter des images"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Installez un navigateur pour ouvrir ce lien"
+    },
+    {
+      "name": "install_an_email",
+      "value": "Installez une application de courriel pour envoyer des commentaires"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Sauvegarde invalide"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Image invalide"
+    },
+    {
+      "name": "italic",
+      "value": "Italique"
+    },
+    {
+      "name": "item",
+      "value": "Élément"
+    },
+    {
+      "name": "label_exists",
+      "value": "L'étiquette existe déjà"
+    },
+    {
+      "name": "labels",
+      "value": "Étiquettes"
+    },
+    {
+      "name": "large",
+      "value": "Grande"
+    },
+    {
+      "name": "libraries",
+      "value": "Bibliothèques"
+    },
+    {
+      "name": "light",
+      "value": "Lumineux"
+    },
+    {
+      "name": "link",
+      "value": "Lien"
+    },
+    {
+      "name": "list",
+      "value": "Liste"
+    },
+    {
+      "name": "make_list",
+      "value": "Créer une liste"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Nombre maximum d'éléments à afficher dans une liste"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Nombre maximum de lignes à afficher dans une note"
+    },
+    {
+      "name": "max_lines_to_display_title",
+      "value": "Nombre maximum de lignes à afficher pour un titre"
+    },
+    {
+      "name": "medium",
+      "value": "Moyenne"
+    },
+    {
+      "name": "monospace",
+      "value": "Chasse fixe"
+    },
+    {
+      "name": "none",
+      "value": "Aucun"
+    },
+    {
+      "name": "note",
+      "value": "Note"
+    },
+    {
+      "name": "notes",
+      "value": "Notes"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Les notes seront sauvegardées dans le stockage interne de votre téléphone tous les jours.\\n\\nCela peut ne pas fonctionner si le mode d'économie d'énergie est activé."
+    },
+    {
+      "name": "open_link",
+      "value": "Ouvrir le lien"
+    },
+    {
+      "name": "others",
+      "value": "Autres"
+    },
+    {
+      "name": "pin",
+      "value": "Épingler"
+    },
+    {
+      "name": "pinned",
+      "value": "Épinglé"
+    },
+    {
+      "name": "please_grant_notally_notification",
+      "value": "Veuillez accordez à Notally l'autorisation d'envoyer des notifications."
+    },
+    {
+      "name": "rate",
+      "value": "Noter cette application"
+    },
+    {
+      "name": "restore",
+      "value": "Restaurer"
+    },
+    {
+      "name": "save",
+      "value": "Sauvegarder"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Sauvegarder sur l'appareil"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Sauvegardé sur l'appareil"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Sauvegardé dans Notally"
+    },
+    {
+      "name": "search",
+      "value": "Rechercher"
+    },
+    {
+      "name": "select_note",
+      "value": "Sélectionnez une note"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Envoyer des commentaires"
+    },
+    {
+      "name": "settings",
+      "value": "Paramètres"
+    },
+    {
+      "name": "share",
+      "value": "Partager"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Note ou liste unique"
+    },
+    {
+      "name": "small",
+      "value": "Petite"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Quelque chose a mal tourné. Veuillez réessayer."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Barré"
+    },
+    {
+      "name": "take_note",
+      "value": "Prendre des notes"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Cliquer pour régler"
+    },
+    {
+      "name": "text_size",
+      "value": "Taille du texte"
+    },
+    {
+      "name": "theme",
+      "value": "Thème"
+    },
+    {
+      "name": "title",
+      "value": "Titre"
+    },
+    {
+      "name": "unarchive",
+      "value": "Restaurer"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Erreur inconnue"
+    },
+    {
+      "name": "unknown_name",
+      "value": "Nom inconnu"
+    },
+    {
+      "name": "unpin",
+      "value": "Détacher"
+    },
+    {
+      "name": "view",
+      "value": "Vue"
+    },
+    {
+      "name": "view_file",
+      "value": "Voir le fichier"
+    },
+    {
+      "name": "view_note",
+      "value": "Voir la note…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Vos notes associées à cette étiquette ne seront pas supprimées"
+    }
+  ]
+}

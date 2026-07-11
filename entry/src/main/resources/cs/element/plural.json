@@ -1,0 +1,25 @@
+{
+  "plural": [
+    {
+      "name": "cant_add_images",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Nepodařilo se přidat %d obrázek"
+        },
+        {
+          "quantity": "few",
+          "value": "Nepodařilo se přidat %d obrázky"
+        },
+        {
+          "quantity": "many",
+          "value": "Nepodařilo se přidat %d obrázků"
+        },
+        {
+          "quantity": "other",
+          "value": "Nepodařilo se přidat %d obrázků"
+        }
+      ]
+    }
+  ]
+}

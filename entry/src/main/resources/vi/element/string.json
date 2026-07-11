@@ -1,0 +1,556 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Giới thiệu"
+    },
+    {
+      "name": "add_images",
+      "value": "Thêm ảnh"
+    },
+    {
+      "name": "add_item",
+      "value": "Thêm nội dung"
+    },
+    {
+      "name": "add_label",
+      "value": "Thêm nhãn"
+    },
+    {
+      "name": "adding_images",
+      "value": "Đang thêm ảnh"
+    },
+    {
+      "name": "appearance",
+      "value": "Giao diện"
+    },
+    {
+      "name": "archive",
+      "value": "Lưu trữ"
+    },
+    {
+      "name": "archived",
+      "value": "Lưu trữ"
+    },
+    {
+      "name": "audio_recordings",
+      "value": "Ghi âm"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Sao lưu tự động"
+    },
+    {
+      "name": "backup",
+      "value": "Sao lưu"
+    },
+    {
+      "name": "bold",
+      "value": "Đậm"
+    },
+    {
+      "name": "calculating",
+      "value": "Đang xử lý…"
+    },
+    {
+      "name": "cancel",
+      "value": "Hủy"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Không tìm thấy thư mục. Có lẽ nó đã bị đổi tên hoặc xóa"
+    },
+    {
+      "name": "cant_find_note",
+      "value": "Không tìm thấy ghi chú. Có lẽ nó đã bị xóa"
+    },
+    {
+      "name": "cant_load_image",
+      "value": "Không thể tải ảnh. Có lẽ nó đã bị đổi tên hoặc xóa"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Không thể mở liên kết"
+    },
+    {
+      "name": "change_color",
+      "value": "Đổi màu"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Chọn thư mục khác"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Chọn thư mục"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Xóa định dạng"
+    },
+    {
+      "name": "content_density",
+      "value": "Mật độ hiển thị nội dung"
+    },
+    {
+      "name": "continue_",
+      "value": "Tiếp tục"
+    },
+    {
+      "name": "create_new",
+      "value": "Chưa có nhãn nào. Thử tạo mới?"
+    },
+    {
+      "name": "daily",
+      "value": "Hằng ngày"
+    },
+    {
+      "name": "dark",
+      "value": "Tối"
+    },
+    {
+      "name": "date",
+      "value": "Ngày"
+    },
+    {
+      "name": "date_format",
+      "value": "Định dạng thời gian"
+    },
+    {
+      "name": "delete",
+      "value": "Xóa"
+    },
+    {
+      "name": "delete_all",
+      "value": "Xóa toàn bộ"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Xóa toàn bộ ghi chú?"
+    },
+    {
+      "name": "delete_audio_recording_forever",
+      "value": "Xóa bản ghi âm?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Xóa vĩnh viễn"
+    },
+    {
+      "name": "delete_image_forever",
+      "value": "Xóa vĩnh viễn ảnh?"
+    },
+    {
+      "name": "delete_label",
+      "value": "Xóa nhãn?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Xóa vĩnh viễn ghi chú?"
+    },
+    {
+      "name": "delete_selected_notes",
+      "value": "Xóa những ghi chú đã chọn?"
+    },
+    {
+      "name": "deleted",
+      "value": "Thùng rác"
+    },
+    {
+      "name": "deleting_images",
+      "value": "Đang xóa ảnh"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Tắt sao lưu tự động"
+    },
+    {
+      "name": "discard",
+      "value": "Bỏ qua"
+    },
+    {
+      "name": "does_not_repeat",
+      "value": "Không lặp lại"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Kéo thả"
+    },
+    {
+      "name": "edit",
+      "value": "Sửa"
+    },
+    {
+      "name": "edit_label",
+      "value": "Đổi nhãn"
+    },
+    {
+      "name": "empty_list",
+      "value": "Liệt kê trống"
+    },
+    {
+      "name": "empty_note",
+      "value": "Ghi chú trống"
+    },
+    {
+      "name": "error_while_renaming_image",
+      "value": "Xảy ra lỗi khi đổi tên ảnh"
+    },
+    {
+      "name": "export",
+      "value": "Xuất"
+    },
+    {
+      "name": "export_backup",
+      "value": "Xuất dữ liệu"
+    },
+    {
+      "name": "exporting_backup",
+      "value": "Đã xuất bản sao lưu"
+    },
+    {
+      "name": "filter",
+      "value": "Lọc"
+    },
+    {
+      "name": "follow_system",
+      "value": "Mặc định hệ thống"
+    },
+    {
+      "name": "grid",
+      "value": "Lưới"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Định dạng không hỗ trợ"
+    },
+    {
+      "name": "import_backup",
+      "value": "Nhập dữ liệu"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Đã nhập bản sao lưu"
+    },
+    {
+      "name": "insert_an_sd_card_audio",
+      "value": "Gắn thẻ SD trước"
+    },
+    {
+      "name": "insert_an_sd_card_images",
+      "value": "Gắn thẻ SD trước"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Cài đặt một trình duyệt để mở link này"
+    },
+    {
+      "name": "install_an_email",
+      "value": "Cài đặt một ứng dụng email để gửi phản hồi"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Bản sao lưu không hợp lệ"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Ảnh không hợp lệ"
+    },
+    {
+      "name": "italic",
+      "value": "Nghiêng"
+    },
+    {
+      "name": "item",
+      "value": "Liệt kê"
+    },
+    {
+      "name": "label_exists",
+      "value": "Danh sách nhãn sử dụng"
+    },
+    {
+      "name": "labels",
+      "value": "Nhãn"
+    },
+    {
+      "name": "large",
+      "value": "Lớn"
+    },
+    {
+      "name": "libraries",
+      "value": "Thư viện sử dụng"
+    },
+    {
+      "name": "light",
+      "value": "Sáng"
+    },
+    {
+      "name": "link",
+      "value": "Liên kết"
+    },
+    {
+      "name": "list",
+      "value": "Danh sách"
+    },
+    {
+      "name": "make_a_copy",
+      "value": "Tạo bản sao"
+    },
+    {
+      "name": "make_list",
+      "value": "Liệt kê"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Số hàng liệt kê tối đa"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Số hàng ghi chú tối đa"
+    },
+    {
+      "name": "max_lines_to_display_title",
+      "value": "Số hàng tựa đề tối đa"
+    },
+    {
+      "name": "medium",
+      "value": "Vừa"
+    },
+    {
+      "name": "monospace",
+      "value": "Monospace"
+    },
+    {
+      "name": "monthly",
+      "value": "Hằng tháng"
+    },
+    {
+      "name": "none",
+      "value": "Ẩn"
+    },
+    {
+      "name": "note",
+      "value": "Ghi chú"
+    },
+    {
+      "name": "notes",
+      "value": "Ghi chú"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Ghi chú sẽ được lưu vào bộ nhớ trong của điện thoại.\\n\\nTính năng sẽ không hoạt động nếu bạn bật tiết kiệm pin"
+    },
+    {
+      "name": "open_link",
+      "value": "Mở liên kết"
+    },
+    {
+      "name": "others",
+      "value": "Khác"
+    },
+    {
+      "name": "pause",
+      "value": "Tạm dừng"
+    },
+    {
+      "name": "paused",
+      "value": "Đã dừng"
+    },
+    {
+      "name": "pin",
+      "value": "Ghim"
+    },
+    {
+      "name": "pinned",
+      "value": "Đã ghim"
+    },
+    {
+      "name": "play",
+      "value": "Phát"
+    },
+    {
+      "name": "please_grant_notally_alarm",
+      "value": "Xin cho phép Notally quyền gửi báo thức"
+    },
+    {
+      "name": "please_grant_notally_audio",
+      "value": "Xin cho phép Notally ghi âm. Những bản ghi sẽ lưu ở điện thoại của bạn"
+    },
+    {
+      "name": "please_grant_notally_notification",
+      "value": "Xin cho phép Notally quyền gửi thông báo"
+    },
+    {
+      "name": "rate",
+      "value": "Đánh giá app"
+    },
+    {
+      "name": "ready_to_record",
+      "value": "Sẵn sàng ghi âm"
+    },
+    {
+      "name": "record_audio",
+      "value": "Ghi âm"
+    },
+    {
+      "name": "recording",
+      "value": "Đang ghi âm…"
+    },
+    {
+      "name": "repeats_daily",
+      "value": "%1$s, Lặp lại hàng ngày"
+    },
+    {
+      "name": "repeats_monthly",
+      "value": "%1$s, Lặp lại hàng tháng"
+    },
+    {
+      "name": "restore",
+      "value": "Khôi phục"
+    },
+    {
+      "name": "resume",
+      "value": "Tiếp tục"
+    },
+    {
+      "name": "save",
+      "value": "Lưu"
+    },
+    {
+      "name": "save_recording",
+      "value": "Lưu bản ghi âm?"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Lưu vào thiết bị"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Đã lưu vào thiết bị"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Đã lưu trong Notally"
+    },
+    {
+      "name": "search",
+      "value": "Tìm kiếm"
+    },
+    {
+      "name": "select_frequency",
+      "value": "Chọn tần suất"
+    },
+    {
+      "name": "select_note",
+      "value": "Chọn ghi chú"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Gửi phản hồi"
+    },
+    {
+      "name": "set_reminder",
+      "value": "Nhắc nhở"
+    },
+    {
+      "name": "settings",
+      "value": "Cài đặt"
+    },
+    {
+      "name": "share",
+      "value": "Chia sẻ"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Ghi chú hoặc liệt kê"
+    },
+    {
+      "name": "small",
+      "value": "Nhỏ"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Có lỗi xảy ra. Vui lòng thử lại."
+    },
+    {
+      "name": "something_went_wrong_audio",
+      "value": "Xảy ra lỗi. Bản ghi âm đã bị xóa hoặc di chuyển.\\n\\nLỗi : (%1$d, %2$d)"
+    },
+    {
+      "name": "start",
+      "value": "Bắt đầu"
+    },
+    {
+      "name": "stop",
+      "value": "Ngừng"
+    },
+    {
+      "name": "strikethrough",
+      "value": "Gạch giữa"
+    },
+    {
+      "name": "take_note",
+      "value": "Ghi chú"
+    },
+    {
+      "name": "tap_for_more_options",
+      "value": "Nhấn để thêm tùy chọn"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Thiết lập"
+    },
+    {
+      "name": "text_size",
+      "value": "Cỡ chữ"
+    },
+    {
+      "name": "theme",
+      "value": "Chủ đề"
+    },
+    {
+      "name": "time",
+      "value": "Thời điểm"
+    },
+    {
+      "name": "title",
+      "value": "Tựa đề"
+    },
+    {
+      "name": "to_record_audio",
+      "value": "Xin cho phép Notally quyền truy cập microphone. Nhấn Cài đặt > Quyền và bật Microphone lên"
+    },
+    {
+      "name": "unarchive",
+      "value": "Bỏ lưu trữ"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Không rõ lỗi"
+    },
+    {
+      "name": "unknown_name",
+      "value": "Không rõ tên"
+    },
+    {
+      "name": "unpin",
+      "value": "Bỏ ghim"
+    },
+    {
+      "name": "view",
+      "value": "Kiểu xem"
+    },
+    {
+      "name": "view_file",
+      "value": "Xem tập tin"
+    },
+    {
+      "name": "view_note",
+      "value": "Xem ghi chú…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Những ghi chú có sử dụng nhãn này sẽ không bị xóa."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "plural": [
+    {
+      "name": "cant_add_images",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d tane resim eklenemiyor"
+        },
+        {
+          "quantity": "other",
+          "value": "%d tane resim eklenemiyor"
+        }
+      ]
+    }
+  ]
+}
