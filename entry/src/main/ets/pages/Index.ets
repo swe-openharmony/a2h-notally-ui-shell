@@ -30,12 +30,16 @@ struct Index {
   @State notes: NoteCard[] = []
   @State labels: string[] = []
   @State selectedNoteId: string = ''
+  @State selectedNoteIds: string[] = []
   @State editingNoteId: string = ''
   @State editorKind: string = 'text'
   @State editorTitleDraft: string = ''
   @State editorBodyDraft: string = ''
   @State editorItems: ChecklistItem[] = []
   @State editorItemDraft: string = ''
+  @State editorPinActive: boolean = false
+  @State editingChecklistIndex: number = -1
+  @State editingChecklistDraft: string = ''
   @State searchText: string = ''
   @State labelDraft: string = ''
   @State activeDialog: string = ''
@@ -55,9 +59,7 @@ struct Index {
       return true
     }
     if (this.isActionMode()) {
-      this.selectedNoteId = ''
-      this.activeDialog = ''
-      this.setState('page_0036_notes_after_action_back')
+      this.clearSelection()
       return true
     }
     return false
@@ -773,7 +775,7 @@ struct Index {
         .height(48)
         .justifyContent(FlexAlign.Center)
         .key('editor_back_save')
-        .onClick(() => this.saveEditor())
+        .onClick(() => this.closeEditorShell())
         Blank().layoutWeight(1)
         Row() {
           Image($r('app.media.pin'))
@@ -953,15 +955,42 @@ struct Index {
           .key(keyName + '_checkbox_unchecked')
           .onClick(() => this.toggleSavedEditorItem(index))
       }
-      Text(text)
-        .fontSize(17)
-        .fontColor('#222222')
-        .layoutWeight(1)
+      if (this.editingChecklistIndex === index) {
+        TextInput({ text: this.editingChecklistDraft, placeholder: 'Item' })
+          .fontSize(17)
+          .fontColor('#222222')
+          .layoutWeight(1)
+          .backgroundColor('#FFFFFF')
+          .key(keyName + '_edit_input')
+          .onChange((value: string) => {
+            this.editingChecklistDraft = value
+          })
+      } else {
+        Text(text)
+          .fontSize(17)
+          .fontColor('#222222')
+          .layoutWeight(1)
+      }
+      Image($r('app.media.edit'))
+        .width(22)
+        .height(22)
+        .fillColor('#666666')
+        .margin({ left: 8 })
+        .key(keyName + '_edit')
+        .onClick(() => this.beginSavedEditorItemEdit(index))
+      Image($r('app.media.delete'))
+        .width(22)
+        .height(22)
+        .fillColor('#666666')
+        .margin({ left: 10 })
+        .key(keyName + '_delete')
+        .onClick(() => this.deleteSavedEditorItem(index))
       Image($r('app.media.drag_handle'))
         .width(24)
         .height(24)
         .fillColor('#777777')
         .margin({ left: 8, right: 14 })
+        .key(keyName + '_drag_handle')
     }
     .height(58)
     .width('100%')
@@ -1223,7 +1252,7 @@ struct Index {
   @Builder
   ActionMenu() {
     Column() {
-      ForEach(this.menuRows, (item: string) => {
+      ForEach(this.actionMenuRows(), (item: string) => {
         Row() {
           Text(item)
             .fontSize(16)
@@ -1373,7 +1402,17 @@ struct Index {
           'density',
           'A deliberately long title that wraps across several lines for density settings',
           'A deliberately long note body that wraps across several lines so the maximum note line preference has a visible effect on the card.',
-          'notes')
+          'notes'),
+        this.makeTextNote(
+          'deleted_sample',
+          'Deleted Sample Note',
+          'Deleted sample body alpha',
+          'deleted'),
+        this.makeTextNote(
+          'archived_sample',
+          'Archived Sample Note',
+          'Archived sample body alpha',
+          'archived')
       ]
     }
     if (this.labels.length === 0) {
@@ -1436,7 +1475,7 @@ struct Index {
 
   private currentTitle(): string {
     if (this.isActionMode()) {
-      return '1'
+      return this.selectedCount().toString()
     }
     if (this.isSettings()) {
       return 'Settings'
@@ -1487,7 +1526,7 @@ struct Index {
   }
 
   private isSelectedCard(note: NoteCard): boolean {
-    return this.isActionMode() && this.selectedNoteId === note.id
+    return this.isActionMode() && this.selectedNoteIds.indexOf(note.id) >= 0
   }
 
   private drawerIcon(row: string): Resource {
@@ -1561,7 +1600,21 @@ struct Index {
     if (title === 'Make a copy') {
       return 'action_menu_make_copy'
     }
+    if (title === 'Delete forever') {
+      return 'action_menu_delete_forever'
+    }
     return 'action_menu_' + title.toLowerCase()
+  }
+
+  private actionMenuRows(): string[] {
+    const folder = this.currentFolder()
+    if (folder === 'deleted') {
+      return ['Restore', 'Delete forever']
+    }
+    if (folder === 'archived') {
+      return ['Unarchive', 'Delete']
+    }
+    return this.menuRows
   }
 
   private searchQuery(): string {
@@ -1735,6 +1788,12 @@ struct Index {
   }
 
   private currentFolder(): string {
+    if (this.isActionMode() && this.selectedNoteId.length > 0) {
+      const selected = this.findNote(this.selectedNoteId)
+      if (selected) {
+        return selected.folder
+      }
+    }
     if (this.phaseState.indexOf('deleted') >= 0) {
       return 'deleted'
     }
@@ -1770,6 +1829,17 @@ struct Index {
     this.setState('page_0000_notes_initial')
   }
 
+  private selectedCount(): number {
+    return this.selectedNoteIds.length > 0 ? this.selectedNoteIds.length : (this.selectedNoteId.length > 0 ? 1 : 0)
+  }
+
+  private clearSelection() {
+    this.selectedNoteId = ''
+    this.selectedNoteIds = []
+    this.activeDialog = ''
+    this.setState('page_0036_notes_after_action_back')
+  }
+
   private openNewEditor(list: boolean) {
     this.editingNoteId = ''
     this.editorKind = list ? 'list' : 'text'
@@ -1777,6 +1847,9 @@ struct Index {
     this.editorBodyDraft = ''
     this.editorItems = []
     this.editorItemDraft = ''
+    this.editorPinActive = false
+    this.editingChecklistIndex = -1
+    this.editingChecklistDraft = ''
     this.setState(list ? 'page_0017_make_list_new' : 'page_0014_take_note_new')
   }
 
@@ -1791,6 +1864,9 @@ struct Index {
     this.editorBodyDraft = note.body
     this.editorItems = this.copyItems(note.items)
     this.editorItemDraft = ''
+    this.editorPinActive = false
+    this.editingChecklistIndex = -1
+    this.editingChecklistDraft = ''
     this.setState(note.list ? 'page_0017_make_list_new' : 'page_0015_take_note_filled')
   }
 
@@ -1835,16 +1911,30 @@ struct Index {
     // the checked-state mutation and persistence.
   }
 
-  private toggleEditorPin() {
-    if (this.editingNoteId.length === 0) {
+  private beginSavedEditorItemEdit(index: number) {
+    if (index < 0 || index >= this.editorItems.length) {
       return
     }
-    this.toggleNotePinned(this.editingNoteId)
+    this.editingChecklistIndex = index
+    this.editingChecklistDraft = this.editorItems[index].text
+  }
+
+  private deleteSavedEditorItem(index: number) {
+    // Public action only; the benchmark implementation owns model deletion.
+  }
+
+  private closeEditorShell() {
+    this.editingNoteId = ''
+    this.editorPinActive = false
+    this.setState('page_0000_notes_initial')
+  }
+
+  private toggleEditorPin() {
+    this.editorPinActive = !this.editorPinActive
   }
 
   private editorPinned(): boolean {
-    const note: NoteCard | undefined = this.findNote(this.editingNoteId)
-    return note !== undefined && note.pinned
+    return this.editorPinActive
   }
 
   private openEditorMenu() {
@@ -1853,17 +1943,25 @@ struct Index {
 
   private enterSelection(id: string) {
     this.selectedNoteId = id
+    this.selectedNoteIds = [id]
     this.setState('page_0035_action_mode_one_selected')
   }
 
   private toggleSelection(id: string) {
-    this.selectedNoteId = this.selectedNoteId === id ? '' : id
-    this.setState(this.selectedNoteId.length > 0 ? 'page_0035_action_mode_one_selected' : 'page_0036_notes_after_action_back')
+    const index = this.selectedNoteIds.indexOf(id)
+    if (index >= 0) {
+      this.selectedNoteIds = this.selectedNoteIds.slice(0, index).concat(this.selectedNoteIds.slice(index + 1))
+    } else {
+      this.selectedNoteIds = this.selectedNoteIds.concat([id])
+    }
+    this.selectedNoteId = this.selectedNoteIds.length > 0 ? this.selectedNoteIds[0] : ''
+    this.setState(this.selectedNoteIds.length > 0 ? 'page_0035_action_mode_one_selected' : 'page_0036_notes_after_action_back')
   }
 
   private openActionMenu() {
     if (this.selectedNoteId.length === 0) {
       this.selectedNoteId = this.firstVisibleNoteId()
+      this.selectedNoteIds = [this.selectedNoteId]
     }
     this.setState('page_0037_action_mode_more_menu')
   }
@@ -1875,20 +1973,27 @@ struct Index {
     if (item === 'Archive') {
       this.moveNote(id, 'archived')
       this.selectedNoteId = ''
+      this.selectedNoteIds = []
       this.setState('page_0038_notes_after_archive_action')
     } else if (item === 'Delete') {
       this.moveNote(id, 'deleted')
       this.selectedNoteId = ''
+      this.selectedNoteIds = []
       this.setState('page_0004_deleted_empty')
     } else if (item === 'Make a copy') {
       this.copyNote(id)
       this.selectedNoteId = ''
+      this.selectedNoteIds = []
       this.setState('page_0036_notes_after_action_back')
     } else if (item === 'Change color') {
       this.activeDialog = 'color'
       this.setState('page_0035_action_mode_one_selected')
     } else if (item === 'Labels') {
       this.openLabelPicker(fromEditor ? 'editor' : 'selection')
+    } else if (item === 'Delete forever' || item === 'Restore') {
+      this.setState('page_0004_deleted_empty')
+    } else if (item === 'Unarchive') {
+      this.setState('page_0006_archived_empty')
     } else {
       this.setState('page_0036_notes_after_action_back')
     }
@@ -1901,8 +2006,10 @@ struct Index {
   }
 
   private applySelectedColor(color: string) {
-    const id = this.selectedNoteId.length > 0 ? this.selectedNoteId : this.firstVisibleNoteId()
-    this.setNoteColor(id, color)
+    const ids = this.selectedNoteIds.length > 0 ? this.selectedNoteIds : [this.selectedNoteId.length > 0 ? this.selectedNoteId : this.firstVisibleNoteId()]
+    ids.forEach((id: string) => {
+      this.setNoteColor(id, color)
+    })
     this.activeDialog = ''
     this.setState('page_0035_action_mode_one_selected')
   }
