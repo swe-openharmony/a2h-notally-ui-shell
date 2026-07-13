@@ -1395,8 +1395,7 @@ struct Index {
       this.notes = [
         sampleText,
         this.makeListNote('groceries', 'Sample Checklist', [
-          this.makeItem('Alpha item', false),
-          this.makeItem('Beta item', false)
+          this.makeItem('Groceries', false)
         ], 'notes'),
         this.makeTextNote(
           'density',
