@@ -1,0 +1,280 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Omkring"
+    },
+    {
+      "name": "add_item",
+      "value": "Tilføj emne"
+    },
+    {
+      "name": "add_label",
+      "value": "Tilføj etikette"
+    },
+    {
+      "name": "appearance",
+      "value": "Udseende"
+    },
+    {
+      "name": "archive",
+      "value": "Arkivér"
+    },
+    {
+      "name": "archived",
+      "value": "Arkiveret"
+    },
+    {
+      "name": "backup",
+      "value": "Backup"
+    },
+    {
+      "name": "bold",
+      "value": "Fed"
+    },
+    {
+      "name": "cancel",
+      "value": "Annullér"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Kan ikke åbne link"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Ryd formatering"
+    },
+    {
+      "name": "content_density",
+      "value": "Indhold densitet"
+    },
+    {
+      "name": "create_new",
+      "value": "Ingen etiketter endnu. Opret en?"
+    },
+    {
+      "name": "dark",
+      "value": "Mørkt"
+    },
+    {
+      "name": "date",
+      "value": "Dato"
+    },
+    {
+      "name": "delete",
+      "value": "Slet"
+    },
+    {
+      "name": "delete_all",
+      "value": "Slet alle"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Slet alle noter?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Slet for altid"
+    },
+    {
+      "name": "delete_label",
+      "value": "Slet etikette?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Slet note for altid?"
+    },
+    {
+      "name": "deleted",
+      "value": "Slettet"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Træk håndtag"
+    },
+    {
+      "name": "edit",
+      "value": "Redigér"
+    },
+    {
+      "name": "edit_label",
+      "value": "Redigér etikette"
+    },
+    {
+      "name": "empty_list",
+      "value": "Tom liste"
+    },
+    {
+      "name": "empty_note",
+      "value": "Tom note"
+    },
+    {
+      "name": "export",
+      "value": "Eksportér"
+    },
+    {
+      "name": "export_backup",
+      "value": "Eksportér backup"
+    },
+    {
+      "name": "follow_system",
+      "value": "Systemstandard"
+    },
+    {
+      "name": "grid",
+      "value": "Gitter"
+    },
+    {
+      "name": "import_backup",
+      "value": "Importér backup"
+    },
+    {
+      "name": "italic",
+      "value": "Kursiv"
+    },
+    {
+      "name": "item",
+      "value": "Emne"
+    },
+    {
+      "name": "label_exists",
+      "value": "Etikette eksisterer"
+    },
+    {
+      "name": "labels",
+      "value": "Etiketter"
+    },
+    {
+      "name": "libraries",
+      "value": "Biblioteker"
+    },
+    {
+      "name": "light",
+      "value": "Lyst"
+    },
+    {
+      "name": "link",
+      "value": "Link"
+    },
+    {
+      "name": "list",
+      "value": "Liste"
+    },
+    {
+      "name": "make_list",
+      "value": "Opret liste"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Maks. emner der vises i liste"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Maks. linjer der vises i note"
+    },
+    {
+      "name": "monospace",
+      "value": "Monomellemrum"
+    },
+    {
+      "name": "note",
+      "value": "Note"
+    },
+    {
+      "name": "notes",
+      "value": "Noter"
+    },
+    {
+      "name": "open_link",
+      "value": "Åben link"
+    },
+    {
+      "name": "pin",
+      "value": "Fastgør"
+    },
+    {
+      "name": "pinned",
+      "value": "Fastgjort"
+    },
+    {
+      "name": "rate",
+      "value": "Vurdér denne app"
+    },
+    {
+      "name": "restore",
+      "value": "Gendan"
+    },
+    {
+      "name": "save",
+      "value": "Gem"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Gem på enhed"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Gemt på enheden"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Gemt i Notally"
+    },
+    {
+      "name": "search",
+      "value": "Søg"
+    },
+    {
+      "name": "settings",
+      "value": "Indstillinger"
+    },
+    {
+      "name": "share",
+      "value": "Del"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Noget gik galt. Prøv igen."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Gennemstreget"
+    },
+    {
+      "name": "take_note",
+      "value": "Tag note"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "title",
+      "value": "Titel"
+    },
+    {
+      "name": "unarchive",
+      "value": "Fjern fra arkiv"
+    },
+    {
+      "name": "unpin",
+      "value": "Frigør"
+    },
+    {
+      "name": "view",
+      "value": "Visning"
+    },
+    {
+      "name": "view_file",
+      "value": "Se fil"
+    },
+    {
+      "name": "view_note",
+      "value": "Se note…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Dine noter tilknyttet denne etikette vil ikke blive slettet"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "O aplikaciji"
+    },
+    {
+      "name": "add_images",
+      "value": "Dodaj slike"
+    },
+    {
+      "name": "add_item",
+      "value": "Dodaj element seznama"
+    },
+    {
+      "name": "add_label",
+      "value": "Ustvari novo oznako"
+    },
+    {
+      "name": "adding_images",
+      "value": "Dodajanje slik"
+    },
+    {
+      "name": "appearance",
+      "value": "Videz"
+    },
+    {
+      "name": "archive",
+      "value": "Arhiviraj"
+    },
+    {
+      "name": "archived",
+      "value": "Arhiv"
+    },
+    {
+      "name": "audio_recordings",
+      "value": "Zvočni posnetki"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Samodejno kopiranje"
+    },
+    {
+      "name": "backup",
+      "value": "Varnostno kopiranje"
+    },
+    {
+      "name": "bold",
+      "value": "Krepko"
+    },
+    {
+      "name": "calculating",
+      "value": "Izračun…"
+    },
+    {
+      "name": "cancel",
+      "value": "Prekliči"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Mapa ne obstaja. Morda je bila premaknjena ali izbrisana."
+    },
+    {
+      "name": "cant_find_note",
+      "value": "Zapisek ne obstaja. Morda je bil izbrisan."
+    },
+    {
+      "name": "cant_load_image",
+      "value": "Slike ni mogoče odpreti. Morda je bila premaknjena ali izbrisana."
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Povezave ni mogoče odpreti"
+    },
+    {
+      "name": "change_color",
+      "value": "Spremeni barvo"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Izberite drugo mapo"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Izberite mapo"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Počisti oblikovanje"
+    },
+    {
+      "name": "content_density",
+      "value": "Gostota vsebine"
+    },
+    {
+      "name": "continue_",
+      "value": "Nadaljuj"
+    },
+    {
+      "name": "create_new",
+      "value": "Nimate oznak. Ustvari novo?"
+    },
+    {
+      "name": "daily",
+      "value": "Dnevno"
+    },
+    {
+      "name": "dark",
+      "value": "Temno"
+    },
+    {
+      "name": "date",
+      "value": "Datum"
+    },
+    {
+      "name": "date_format",
+      "value": "Zapis datuma"
+    },
+    {
+      "name": "delete",
+      "value": "Izbriši"
+    },
+    {
+      "name": "delete_all",
+      "value": "Izbriši vse"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Izbriši vse zapiske?"
+    },
+    {
+      "name": "delete_audio_recording_forever",
+      "value": "Dokončno izbriši posnetek?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Dokončno izbriši"
+    },
+    {
+      "name": "delete_image_forever",
+      "value": "Dokončno izbriši sliko?"
+    },
+    {
+      "name": "delete_label",
+      "value": "Izbriši oznako?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Dokončno izbriši zapisek?"
+    },
+    {
+      "name": "delete_selected_notes",
+      "value": "Izbriši izbrane zapiske?"
+    },
+    {
+      "name": "deleted",
+      "value": "Smetnjak"
+    },
+    {
+      "name": "deleting_images",
+      "value": "Brisanje slik"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Onemogoči samodejno kopiranje"
+    },
+    {
+      "name": "discard",
+      "value": "Zavrzi"
+    },
+    {
+      "name": "does_not_repeat",
+      "value": "Se ne ponavlja"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Ročica za vlečenje"
+    },
+    {
+      "name": "edit",
+      "value": "Uredi"
+    },
+    {
+      "name": "edit_label",
+      "value": "Uredi oznako"
+    },
+    {
+      "name": "empty_list",
+      "value": "Prazen seznam"
+    },
+    {
+      "name": "empty_note",
+      "value": "Prazen zapisek"
+    },
+    {
+      "name": "error_while_renaming_image",
+      "value": "Napaka pri preimenovanju slike"
+    },
+    {
+      "name": "export",
+      "value": "Izvozi"
+    },
+    {
+      "name": "export_backup",
+      "value": "Izvozi kopijo podatkov"
+    },
+    {
+      "name": "exporting_backup",
+      "value": "Izvažanje varnostne kopije"
+    },
+    {
+      "name": "filter",
+      "value": "Filter"
+    },
+    {
+      "name": "follow_system",
+      "value": "Privzeto v sistemu"
+    },
+    {
+      "name": "grid",
+      "value": "Mreža"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Ta vrsta slike ni podprta"
+    },
+    {
+      "name": "import_backup",
+      "value": "Uvozi kopijo podatkov"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Varnostna kopija je bila uvožena"
+    },
+    {
+      "name": "importing_backup",
+      "value": "Uvažanje varnostne kopije"
+    },
+    {
+      "name": "insert_an_sd_card_audio",
+      "value": "Za snemanje zvoka vstavite kartico SD"
+    },
+    {
+      "name": "insert_an_sd_card_images",
+      "value": "Za dodajanje slik vstavite kartico SD"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Za odpiranje povezave potrebujete brskalnik."
+    },
+    {
+      "name": "install_an_email",
+      "value": "Za pošiljanje povratnih informacij potrebujete odjemalca e-pošte."
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Neveljavna varnostna kopija"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Neveljavna slika"
+    },
+    {
+      "name": "italic",
+      "value": "Ležeče"
+    },
+    {
+      "name": "item",
+      "value": "Element"
+    },
+    {
+      "name": "label_exists",
+      "value": "Oznaka že obstaja"
+    },
+    {
+      "name": "labels",
+      "value": "Oznake"
+    },
+    {
+      "name": "large",
+      "value": "Velika"
+    },
+    {
+      "name": "libraries",
+      "value": "Knjižnice"
+    },
+    {
+      "name": "light",
+      "value": "Svetlo"
+    },
+    {
+      "name": "link",
+      "value": "Povezava"
+    },
+    {
+      "name": "list",
+      "value": "Seznam"
+    },
+    {
+      "name": "make_a_copy",
+      "value": "Podvoji"
+    },
+    {
+      "name": "make_list",
+      "value": "Nov seznam"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Največje število prikazanih elementov v seznamih"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Največje število prikazanih vrstic v zapiskih"
+    },
+    {
+      "name": "max_lines_to_display_title",
+      "value": "Največje število prikazanih vrstic v naslovih zapiskov"
+    },
+    {
+      "name": "medium",
+      "value": "Srednja"
+    },
+    {
+      "name": "monospace",
+      "value": "Enoprostorno besedilo"
+    },
+    {
+      "name": "monthly",
+      "value": "Mesečno"
+    },
+    {
+      "name": "none",
+      "value": "Brez"
+    },
+    {
+      "name": "note",
+      "value": "Zapisek"
+    },
+    {
+      "name": "notes",
+      "value": "Zapiski"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Zapiski bodo dnevno varnostno kopirani v notranji pomnilnik vaše naprave.\\n\\nKopiranje morda ne bo delovalo v kolikor ste omogočili varčevanje z energijo baterije."
+    },
+    {
+      "name": "open_link",
+      "value": "Odpri povezavo"
+    },
+    {
+      "name": "others",
+      "value": "Drugi"
+    },
+    {
+      "name": "pause",
+      "value": "Premor"
+    },
+    {
+      "name": "paused",
+      "value": "Zaustavljeno"
+    },
+    {
+      "name": "pin",
+      "value": "Pripni"
+    },
+    {
+      "name": "pinned",
+      "value": "Pripeto"
+    },
+    {
+      "name": "play",
+      "value": "Predvajaj"
+    },
+    {
+      "name": "please_grant_notally_alarm",
+      "value": "Dovolite aplikaciji Notally da nastavlja opomnike"
+    },
+    {
+      "name": "please_grant_notally_audio",
+      "value": "Dovolite aplikaciji Notally da ustvarja zvočne posnetke. Posnetki nikoli ne zapustijo vaše naprave."
+    },
+    {
+      "name": "please_grant_notally_notification",
+      "value": "Dovolite aplikaciji Notally da vam pošilja obvestila."
+    },
+    {
+      "name": "rate",
+      "value": "Oceni aplikacijo"
+    },
+    {
+      "name": "ready_to_record",
+      "value": "Pripravljen na snemanje"
+    },
+    {
+      "name": "record_audio",
+      "value": "Zvočni zapis"
+    },
+    {
+      "name": "recording",
+      "value": "Snemanje…"
+    },
+    {
+      "name": "repeats_daily",
+      "value": "%1$s, dnevno"
+    },
+    {
+      "name": "repeats_monthly",
+      "value": "%1$s, mesečno"
+    },
+    {
+      "name": "restore",
+      "value": "Obnovi"
+    },
+    {
+      "name": "resume",
+      "value": "Nadaljuj"
+    },
+    {
+      "name": "save",
+      "value": "Shrani"
+    },
+    {
+      "name": "save_recording",
+      "value": "Shrani posnetek?"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Shrani v napravo"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Shranjeno v napravo"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Shranjeno v Notally"
+    },
+    {
+      "name": "search",
+      "value": "Iskanje"
+    },
+    {
+      "name": "select_frequency",
+      "value": "Ponavljanje"
+    },
+    {
+      "name": "select_labels",
+      "value": "Izberi oznake"
+    },
+    {
+      "name": "select_note",
+      "value": "Izbira zapiska"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Pošlji povratne informacije"
+    },
+    {
+      "name": "set_reminder",
+      "value": "Opomnik"
+    },
+    {
+      "name": "settings",
+      "value": "Nastavitve"
+    },
+    {
+      "name": "share",
+      "value": "Deli"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Posamezen zapisek ali seznam"
+    },
+    {
+      "name": "small",
+      "value": "Majhna"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Prišlo je do napake. Prosimo poskusite ponovno."
+    },
+    {
+      "name": "something_went_wrong_audio",
+      "value": "Nekaj je šlo narobe. Zvočni posnetek je bil premaknjen ali izbrisan.\\n\\nNapaka: (%1$d, %2$d)"
+    },
+    {
+      "name": "start",
+      "value": "Začni"
+    },
+    {
+      "name": "stop",
+      "value": "Ustavi"
+    },
+    {
+      "name": "strikethrough",
+      "value": "Prečrtano"
+    },
+    {
+      "name": "take_note",
+      "value": "Nov zapisek"
+    },
+    {
+      "name": "tap_for_more_options",
+      "value": "Pritisnite za več možnosti"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Pritisnite za nastavitev"
+    },
+    {
+      "name": "text_size",
+      "value": "Velikost pisave"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "time",
+      "value": "Ura"
+    },
+    {
+      "name": "title",
+      "value": "Naslov"
+    },
+    {
+      "name": "to_record_audio",
+      "value": "Za snemanje zvoka dovolite aplikaciji Notally dostop do mikrofona vaše naprave. Pojdite v Nastavitve -> Dovoljenja -> in omogočite mikrofon."
+    },
+    {
+      "name": "unarchive",
+      "value": "Vzemi iz arhiva"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Neznana napaka"
+    },
+    {
+      "name": "unknown_name",
+      "value": "Neznano ime"
+    },
+    {
+      "name": "unpin",
+      "value": "Odpni"
+    },
+    {
+      "name": "view",
+      "value": "Pogled"
+    },
+    {
+      "name": "view_file",
+      "value": "Ogled datoteke"
+    },
+    {
+      "name": "view_note",
+      "value": "Ogled zapiska"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Zapiski povezani z oznako ne bodo izbrisani."
+    }
+  ]
+}

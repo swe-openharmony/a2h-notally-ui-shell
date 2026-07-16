@@ -1,0 +1,524 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Über"
+    },
+    {
+      "name": "add_images",
+      "value": "Bilder hinzufügen"
+    },
+    {
+      "name": "add_item",
+      "value": "Eintrag hinzufügen"
+    },
+    {
+      "name": "add_label",
+      "value": "Label hinzufügen"
+    },
+    {
+      "name": "adding_images",
+      "value": "Bilder hinzufügen"
+    },
+    {
+      "name": "appearance",
+      "value": "Erscheinungsbild"
+    },
+    {
+      "name": "archive",
+      "value": "Archivieren"
+    },
+    {
+      "name": "archived",
+      "value": "Archiv"
+    },
+    {
+      "name": "audio_recordings",
+      "value": "Audioaufnahmen"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Automatische Sicherung"
+    },
+    {
+      "name": "backup",
+      "value": "Sicherung"
+    },
+    {
+      "name": "bold",
+      "value": "Fett"
+    },
+    {
+      "name": "calculating",
+      "value": "Berechne…"
+    },
+    {
+      "name": "cancel",
+      "value": "Abbrechen"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Kann den Ordner nicht finden. Er kann verschoben oder gelöscht worden sein"
+    },
+    {
+      "name": "cant_find_note",
+      "value": "Kann Notiz nicht finden. Vielleicht wurde sie gelöscht"
+    },
+    {
+      "name": "cant_load_image",
+      "value": "Bild kann nicht geladen werden. Es kann verschoben oder gelöscht worden sein"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Link konnte nicht geöffnet werden"
+    },
+    {
+      "name": "change_color",
+      "value": "Farbe ändern"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Anderen Ordner wählen"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Ordner wählen"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Normal"
+    },
+    {
+      "name": "content_density",
+      "value": "Notizvorschau"
+    },
+    {
+      "name": "continue_",
+      "value": "Weiter"
+    },
+    {
+      "name": "create_new",
+      "value": "Keine Label vorhanden. Tippen, um ein neues Label zu erstellen."
+    },
+    {
+      "name": "dark",
+      "value": "Dunkel"
+    },
+    {
+      "name": "date",
+      "value": "Datum"
+    },
+    {
+      "name": "date_format",
+      "value": "Datumsformat"
+    },
+    {
+      "name": "delete",
+      "value": "Löschen"
+    },
+    {
+      "name": "delete_all",
+      "value": "Alles löschen"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Alle Notizen löschen?"
+    },
+    {
+      "name": "delete_audio_recording_forever",
+      "value": "Audioaufnahme für endgültig löschen?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Endgültig löschen"
+    },
+    {
+      "name": "delete_image_forever",
+      "value": "Bild endgültig löschen?"
+    },
+    {
+      "name": "delete_label",
+      "value": "Label löschen?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Notiz endgültig löschen?"
+    },
+    {
+      "name": "delete_selected_notes",
+      "value": "Ausgewählte Notizen löschen?"
+    },
+    {
+      "name": "deleted",
+      "value": "Papierkorb"
+    },
+    {
+      "name": "deleting_images",
+      "value": "Bilder löschen"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Automatische Sicherung deaktivieren"
+    },
+    {
+      "name": "discard",
+      "value": "Verwerfen"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Ziehgriff"
+    },
+    {
+      "name": "edit",
+      "value": "Bearbeiten"
+    },
+    {
+      "name": "edit_label",
+      "value": "Label bearbeiten"
+    },
+    {
+      "name": "empty_list",
+      "value": "Leere Liste"
+    },
+    {
+      "name": "empty_note",
+      "value": "Leere Notiz"
+    },
+    {
+      "name": "error_while_renaming_image",
+      "value": "Fehler beim Umbenennen des Bildes"
+    },
+    {
+      "name": "export",
+      "value": "Exportieren"
+    },
+    {
+      "name": "export_backup",
+      "value": "Notizen sichern"
+    },
+    {
+      "name": "exporting_backup",
+      "value": "Exportieren der Sicherung"
+    },
+    {
+      "name": "filter",
+      "value": "Filtern"
+    },
+    {
+      "name": "follow_system",
+      "value": "Systemeinstellung folgen"
+    },
+    {
+      "name": "grid",
+      "value": "Rasteransicht"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Bildformat nicht unterstützt"
+    },
+    {
+      "name": "import_backup",
+      "value": "Notizen wiederherstellen"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Importierte Sicherung"
+    },
+    {
+      "name": "importing_backup",
+      "value": "Importieren der Sicherung"
+    },
+    {
+      "name": "insert_an_sd_card_audio",
+      "value": "SD-Karte für Audioaufnahmen einsetzen"
+    },
+    {
+      "name": "insert_an_sd_card_images",
+      "value": "SD-Karte einlegen, um Bilder hinzuzufügen"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Installiere einen Browser, um diesen Link zu öffnen"
+    },
+    {
+      "name": "install_an_email",
+      "value": "Installiere eine E-Mail-App zum Senden von Feedback"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Ungültige Sicherung"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Ungültiges Bild"
+    },
+    {
+      "name": "italic",
+      "value": "Kursiv"
+    },
+    {
+      "name": "item",
+      "value": "Eintrag"
+    },
+    {
+      "name": "label_exists",
+      "value": "Label existiert bereits"
+    },
+    {
+      "name": "labels",
+      "value": "Labels"
+    },
+    {
+      "name": "large",
+      "value": "Groß"
+    },
+    {
+      "name": "libraries",
+      "value": "Bibliotheken"
+    },
+    {
+      "name": "light",
+      "value": "Hell"
+    },
+    {
+      "name": "link",
+      "value": "Link erstellen"
+    },
+    {
+      "name": "list",
+      "value": "Listenansicht"
+    },
+    {
+      "name": "make_list",
+      "value": "Liste erstellen"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Maximal angezeigte Listeneinträge"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Maximal angezeigte Zeilen"
+    },
+    {
+      "name": "max_lines_to_display_title",
+      "value": "Maximal angezeigte Zeilen im Titel"
+    },
+    {
+      "name": "medium",
+      "value": "Mittel"
+    },
+    {
+      "name": "monospace",
+      "value": "Monospace"
+    },
+    {
+      "name": "none",
+      "value": "Keines"
+    },
+    {
+      "name": "note",
+      "value": "Notiz"
+    },
+    {
+      "name": "notes",
+      "value": "Notizen"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Notizen werden täglich auf dem internen Speicher deines Telefons gesichert.\\n\\nDies funktioniert möglicherweise nicht, wenn du den Energiesparmodus aktiviert hast."
+    },
+    {
+      "name": "open_link",
+      "value": "Link öffnen"
+    },
+    {
+      "name": "others",
+      "value": "Andere"
+    },
+    {
+      "name": "pause",
+      "value": "Pausieren"
+    },
+    {
+      "name": "paused",
+      "value": "Pausiert"
+    },
+    {
+      "name": "pin",
+      "value": "Anpinnen"
+    },
+    {
+      "name": "pinned",
+      "value": "Angepinnt"
+    },
+    {
+      "name": "play",
+      "value": "Abspielen"
+    },
+    {
+      "name": "please_grant_notally_audio",
+      "value": "Bitte erteile Notally die Berechtigung zur Audioaufnahme. Die Aufnahmen verlassen niemals dein Gerät"
+    },
+    {
+      "name": "please_grant_notally_notification",
+      "value": "Bitte erteile Notally die Berechtigung, Benachrichtigungen zu senden."
+    },
+    {
+      "name": "rate",
+      "value": "App bewerten"
+    },
+    {
+      "name": "ready_to_record",
+      "value": "Bereit zur Aufnahme"
+    },
+    {
+      "name": "record_audio",
+      "value": "Audio aufnehmen"
+    },
+    {
+      "name": "recording",
+      "value": "Aufnehmen…"
+    },
+    {
+      "name": "restore",
+      "value": "Wiederherstellen"
+    },
+    {
+      "name": "resume",
+      "value": "Fortsetzen"
+    },
+    {
+      "name": "save",
+      "value": "Speichern"
+    },
+    {
+      "name": "save_recording",
+      "value": "Aufnahme speichern?"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Speichern"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Auf dem Gerät gespeichert"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "In Notally gespeichert"
+    },
+    {
+      "name": "search",
+      "value": "Suchen"
+    },
+    {
+      "name": "select_labels",
+      "value": "Label auswählen"
+    },
+    {
+      "name": "select_note",
+      "value": "Notiz auswählen"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Feedback senden"
+    },
+    {
+      "name": "settings",
+      "value": "Einstellungen"
+    },
+    {
+      "name": "share",
+      "value": "Teilen"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Einzelne Notiz oder Liste"
+    },
+    {
+      "name": "small",
+      "value": "Klein"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Etwas ist schief gelaufen. Bitte erneut versuchen."
+    },
+    {
+      "name": "something_went_wrong_audio",
+      "value": "Etwas ist schief gelaufen. Die Audioaufnahme wurde möglicherweise verschoben oder gelöscht.\\n\\nFehler : (%1$d, %2$d)"
+    },
+    {
+      "name": "start",
+      "value": "Starten"
+    },
+    {
+      "name": "stop",
+      "value": "Stoppen"
+    },
+    {
+      "name": "strikethrough",
+      "value": "Durchstreichen"
+    },
+    {
+      "name": "take_note",
+      "value": "Notiz erstellen"
+    },
+    {
+      "name": "tap_for_more_options",
+      "value": "Antippen für weitere Optionen"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Zum Einrichten antippen"
+    },
+    {
+      "name": "text_size",
+      "value": "Textgröße"
+    },
+    {
+      "name": "theme",
+      "value": "Design"
+    },
+    {
+      "name": "title",
+      "value": "Titel"
+    },
+    {
+      "name": "to_record_audio",
+      "value": "Um Audio aufzunehmen, erlaube Notally den Zugriff auf dein Mikrofon. Tippe auf Einstellungen > Berechtigungen und schalte Mikrofon ein"
+    },
+    {
+      "name": "unarchive",
+      "value": "Archivierung aufheben"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Unbekannter Fehler"
+    },
+    {
+      "name": "unknown_name",
+      "value": "Unbekannter Name"
+    },
+    {
+      "name": "unpin",
+      "value": "Loslösen"
+    },
+    {
+      "name": "view",
+      "value": "Ansicht"
+    },
+    {
+      "name": "view_file",
+      "value": "Datei öffnen"
+    },
+    {
+      "name": "view_note",
+      "value": "Notiz ansehen"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Notizen, welche dieses Label verwenden, werden nicht gelöscht."
+    }
+  ]
+}

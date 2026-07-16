@@ -1,0 +1,564 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Over"
+    },
+    {
+      "name": "add_images",
+      "value": "Afbeeldingen toevoegen"
+    },
+    {
+      "name": "add_item",
+      "value": "Voeg item toe"
+    },
+    {
+      "name": "add_label",
+      "value": "Label toevoegen"
+    },
+    {
+      "name": "adding_images",
+      "value": "Afbeeldingen toevoegen"
+    },
+    {
+      "name": "appearance",
+      "value": "Uiterlijk"
+    },
+    {
+      "name": "archive",
+      "value": "Archiveren"
+    },
+    {
+      "name": "archived",
+      "value": "Gearchiveerd"
+    },
+    {
+      "name": "audio_recordings",
+      "value": "Geluidsopnames"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Automatische backup"
+    },
+    {
+      "name": "backup",
+      "value": "Backup"
+    },
+    {
+      "name": "bold",
+      "value": "Vetgedrukt"
+    },
+    {
+      "name": "calculating",
+      "value": "Berekenen…"
+    },
+    {
+      "name": "cancel",
+      "value": "Annuleren"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Kan de map niet vinden. Mogelijk is deze verplaatst of verwijderd"
+    },
+    {
+      "name": "cant_find_note",
+      "value": "Kan notitie niet vinden. Misschien is deze verwijderd"
+    },
+    {
+      "name": "cant_load_image",
+      "value": "Afbeelding kan niet geladen worden. Misschien is deze verplaatst of verwijderd"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Kan link niet openen"
+    },
+    {
+      "name": "change_color",
+      "value": "Wijzig kleur"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Kies een andere map"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Kies een map"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Opmaak verwijderen"
+    },
+    {
+      "name": "content_density",
+      "value": "Inhoudsdichtheid"
+    },
+    {
+      "name": "continue_",
+      "value": "Doorgaan"
+    },
+    {
+      "name": "create_new",
+      "value": "Er zijn nog geen labels. Nieuw label toevoegen?"
+    },
+    {
+      "name": "daily",
+      "value": "Dagelijks"
+    },
+    {
+      "name": "dark",
+      "value": "Donker"
+    },
+    {
+      "name": "date",
+      "value": "Datum"
+    },
+    {
+      "name": "date_format",
+      "value": "Datum weergave"
+    },
+    {
+      "name": "delete",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "delete_all",
+      "value": "Alles verwijderen"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Alle notities verwijderen?"
+    },
+    {
+      "name": "delete_audio_recording_forever",
+      "value": "Opname definitief verwijderen?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Definitief verwijderen"
+    },
+    {
+      "name": "delete_image_forever",
+      "value": "Afbeelding definitief verwijderen?"
+    },
+    {
+      "name": "delete_label",
+      "value": "Label verwijderen?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Notitie definitief verwijderen?"
+    },
+    {
+      "name": "delete_selected_notes",
+      "value": "Geselecteerde notities verwijderen?"
+    },
+    {
+      "name": "deleted",
+      "value": "Verwijderd"
+    },
+    {
+      "name": "deleting_images",
+      "value": "Afbeeldingen verwijderen"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Deactiveer automatische back-up"
+    },
+    {
+      "name": "discard",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "does_not_repeat",
+      "value": "Wordt niet herhaald"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Handvat"
+    },
+    {
+      "name": "edit",
+      "value": "Bewerken"
+    },
+    {
+      "name": "edit_label",
+      "value": "Bewerk label"
+    },
+    {
+      "name": "empty_list",
+      "value": "Lege lijst"
+    },
+    {
+      "name": "empty_note",
+      "value": "Lege notitie"
+    },
+    {
+      "name": "error_while_renaming_image",
+      "value": "Foutmelding tijdens hernoemen afbeelding"
+    },
+    {
+      "name": "export",
+      "value": "Exporteren"
+    },
+    {
+      "name": "export_backup",
+      "value": "Backup exporteren"
+    },
+    {
+      "name": "exporting_backup",
+      "value": "Backup aan het exporteren"
+    },
+    {
+      "name": "filter",
+      "value": "Filteren"
+    },
+    {
+      "name": "follow_system",
+      "value": "Systeem instellingen"
+    },
+    {
+      "name": "grid",
+      "value": "Raster"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Afbeelding formaat wordt niet ondersteund"
+    },
+    {
+      "name": "import_backup",
+      "value": "Backup importeren"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Backup geïmporteerd"
+    },
+    {
+      "name": "importing_backup",
+      "value": "Backup aan het importeren"
+    },
+    {
+      "name": "insert_an_sd_card_audio",
+      "value": "Plaats een SD kaart om geluid op te nemen"
+    },
+    {
+      "name": "insert_an_sd_card_images",
+      "value": "Plaats een SD kaart om afbeeldingen toe te voegen"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Installeer een web browser om deze link te openen"
+    },
+    {
+      "name": "install_an_email",
+      "value": "Installeer een email app om de feedback te versturen"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Backup ongeldig"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Afbeelding ongeldig"
+    },
+    {
+      "name": "italic",
+      "value": "Cursief"
+    },
+    {
+      "name": "item",
+      "value": "Item"
+    },
+    {
+      "name": "label_exists",
+      "value": "Label bestaat al"
+    },
+    {
+      "name": "labels",
+      "value": "Labels"
+    },
+    {
+      "name": "large",
+      "value": "Groot"
+    },
+    {
+      "name": "libraries",
+      "value": "Bibliotheken"
+    },
+    {
+      "name": "light",
+      "value": "Licht"
+    },
+    {
+      "name": "link",
+      "value": "Link"
+    },
+    {
+      "name": "list",
+      "value": "Lijst"
+    },
+    {
+      "name": "make_a_copy",
+      "value": "Maak een kopie"
+    },
+    {
+      "name": "make_list",
+      "value": "Maak een lijst"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Maximum aantal items dat in de lijst kan worden weergegeven"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Maximum aantal regels in de notitie weergeven"
+    },
+    {
+      "name": "max_lines_to_display_title",
+      "value": "Maximum aantal regel in de titel weergeven"
+    },
+    {
+      "name": "medium",
+      "value": "Gemiddeld"
+    },
+    {
+      "name": "monospace",
+      "value": "Monospace"
+    },
+    {
+      "name": "monthly",
+      "value": "Maandelijks"
+    },
+    {
+      "name": "none",
+      "value": "Geen"
+    },
+    {
+      "name": "note",
+      "value": "Notitie"
+    },
+    {
+      "name": "notes",
+      "value": "Notities"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Notities worden elke dag gebackupped op het interne opslagmedium in uw apparaat.\\n\\nMogelijk werkt dit niet wanneer energie besparing is geactiveerd"
+    },
+    {
+      "name": "open_link",
+      "value": "Open link"
+    },
+    {
+      "name": "others",
+      "value": "Anders"
+    },
+    {
+      "name": "pause",
+      "value": "Pauzeren"
+    },
+    {
+      "name": "paused",
+      "value": "Gepauzeerd"
+    },
+    {
+      "name": "pin",
+      "value": "Vastmaken"
+    },
+    {
+      "name": "pinned",
+      "value": "Vastgemaakt"
+    },
+    {
+      "name": "play",
+      "value": "Afspelen"
+    },
+    {
+      "name": "please_grant_notally_alarm",
+      "value": "Geef Notally a.u.b. toegang om alarmen in te stellen"
+    },
+    {
+      "name": "please_grant_notally_audio",
+      "value": "Geef a.u.b. Notally toestemming om geluid op te nemen. Opnames zullen nooit het apparaat verlaten"
+    },
+    {
+      "name": "please_grant_notally_notification",
+      "value": "Geef Notally a.u.b de toestemming om meldingen te versturen"
+    },
+    {
+      "name": "rate",
+      "value": "Beoordeel deze app"
+    },
+    {
+      "name": "ready_to_record",
+      "value": "Gereed om op te nemen"
+    },
+    {
+      "name": "record_audio",
+      "value": "Geluid openemen"
+    },
+    {
+      "name": "recording",
+      "value": "Opnemen…"
+    },
+    {
+      "name": "repeats_daily",
+      "value": "%1$s, Dagelijks herhalen"
+    },
+    {
+      "name": "repeats_monthly",
+      "value": "%1$s, Maandelijks herhalen"
+    },
+    {
+      "name": "restore",
+      "value": "Herstellen"
+    },
+    {
+      "name": "resume",
+      "value": "Doorgaan"
+    },
+    {
+      "name": "save",
+      "value": "Opslaan"
+    },
+    {
+      "name": "save_recording",
+      "value": "Opname opslaan?"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Opslaan op apparaat"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Opgeslagen op apparaat"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Opgeslagen in Notally"
+    },
+    {
+      "name": "search",
+      "value": "Zoeken"
+    },
+    {
+      "name": "select_frequency",
+      "value": "Selecteer frequentie"
+    },
+    {
+      "name": "select_labels",
+      "value": "Selecteer labels"
+    },
+    {
+      "name": "select_note",
+      "value": "Selecteer notitie"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Stuur feedback"
+    },
+    {
+      "name": "set_reminder",
+      "value": "Herinnering instellen"
+    },
+    {
+      "name": "settings",
+      "value": "Instellingen"
+    },
+    {
+      "name": "share",
+      "value": "Delen"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Enkele notitie of lijst"
+    },
+    {
+      "name": "small",
+      "value": "Klein"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Er is iets fout gegaan. Probeer het opnieuw."
+    },
+    {
+      "name": "something_went_wrong_audio",
+      "value": "Er ging iets mis. De geluidsopname is mogelijk verplaatst of verwijderd.\\n\\nError : (%1$d, %2$d)"
+    },
+    {
+      "name": "start",
+      "value": "Starten"
+    },
+    {
+      "name": "stop",
+      "value": "Stoppen"
+    },
+    {
+      "name": "strikethrough",
+      "value": "Doorgestreept"
+    },
+    {
+      "name": "take_note",
+      "value": "Maak een Notitie"
+    },
+    {
+      "name": "tap_for_more_options",
+      "value": "Aanraken voor meer opties"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Tap om te configureren"
+    },
+    {
+      "name": "text_size",
+      "value": "Text grootte"
+    },
+    {
+      "name": "theme",
+      "value": "Thema"
+    },
+    {
+      "name": "time",
+      "value": "Tijd"
+    },
+    {
+      "name": "title",
+      "value": "Titel"
+    },
+    {
+      "name": "to_record_audio",
+      "value": "Om geluid op te nemen, sta Notally toe om de microfoon te gebruiken. Ga naar Instellingen > Toegang en zet de microfoon aan"
+    },
+    {
+      "name": "unarchive",
+      "value": "Actualiseren"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Onbekende foutmelding"
+    },
+    {
+      "name": "unknown_name",
+      "value": "Onbekende naam"
+    },
+    {
+      "name": "unpin",
+      "value": "Losmaken"
+    },
+    {
+      "name": "view",
+      "value": "Weergave"
+    },
+    {
+      "name": "view_file",
+      "value": "Bekijk bestand"
+    },
+    {
+      "name": "view_note",
+      "value": "Notitie bekijken"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Notities die aan dit label zijn gekoppeld, worden niet verwijderd"
+    }
+  ]
+}

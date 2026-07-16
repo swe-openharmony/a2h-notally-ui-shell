@@ -1,0 +1,384 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Despre"
+    },
+    {
+      "name": "add_images",
+      "value": "Adaugă imagini"
+    },
+    {
+      "name": "add_item",
+      "value": "Adaugă articol"
+    },
+    {
+      "name": "add_label",
+      "value": "Adaugă eticheta"
+    },
+    {
+      "name": "appearance",
+      "value": "Aspect"
+    },
+    {
+      "name": "archive",
+      "value": "Arhivă"
+    },
+    {
+      "name": "archived",
+      "value": "Arhivat"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Backup automat"
+    },
+    {
+      "name": "backup",
+      "value": "Backup"
+    },
+    {
+      "name": "bold",
+      "value": "Bold"
+    },
+    {
+      "name": "cancel",
+      "value": "Anulare"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Nu găsesc dosarul. E posibil să fie mutat sau șters"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Nu se poate deschide link-ul"
+    },
+    {
+      "name": "change_color",
+      "value": "Schimbă culoarea"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Alegeți un alt dosar"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Alegeți dosarul"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Formatare clară"
+    },
+    {
+      "name": "content_density",
+      "value": "Densitatea conținutului"
+    },
+    {
+      "name": "create_new",
+      "value": "Încă nu există etichete. Creați una?"
+    },
+    {
+      "name": "dark",
+      "value": "Întunecat"
+    },
+    {
+      "name": "date",
+      "value": "Date"
+    },
+    {
+      "name": "date_format",
+      "value": "Formatul datei"
+    },
+    {
+      "name": "delete",
+      "value": "Şterge"
+    },
+    {
+      "name": "delete_all",
+      "value": "Șterge tot"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Ștergeți toate notele?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Ștergeţi permanent"
+    },
+    {
+      "name": "delete_label",
+      "value": "Ștergeți eticheta?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Ștergeți nota definitiv?"
+    },
+    {
+      "name": "deleted",
+      "value": "Șterse"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Dezactivați backup-ul automat"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Trage mânerul"
+    },
+    {
+      "name": "edit",
+      "value": "Editează"
+    },
+    {
+      "name": "edit_label",
+      "value": "Editează eticheta"
+    },
+    {
+      "name": "empty_list",
+      "value": "Lista goală"
+    },
+    {
+      "name": "empty_note",
+      "value": "Nota goală"
+    },
+    {
+      "name": "export",
+      "value": "Exportați"
+    },
+    {
+      "name": "export_backup",
+      "value": "Exportă backup-ul"
+    },
+    {
+      "name": "filter",
+      "value": "Filtru"
+    },
+    {
+      "name": "follow_system",
+      "value": "Urmează sistemul"
+    },
+    {
+      "name": "grid",
+      "value": "Grilă"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Formatul imaginii nu este acceptat"
+    },
+    {
+      "name": "import_backup",
+      "value": "Importă backup-ul"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Backup importat"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Instalați un browser pentru a deschide acest link"
+    },
+    {
+      "name": "install_an_email",
+      "value": "Instalați o aplicație de e-mail pentru a trimite feedback"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Backup invalid"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Imagine invalidă"
+    },
+    {
+      "name": "italic",
+      "value": "Italic"
+    },
+    {
+      "name": "item",
+      "value": "Articol"
+    },
+    {
+      "name": "label_exists",
+      "value": "Eticheta există"
+    },
+    {
+      "name": "labels",
+      "value": "Etichete"
+    },
+    {
+      "name": "large",
+      "value": "Mare"
+    },
+    {
+      "name": "libraries",
+      "value": "Librării"
+    },
+    {
+      "name": "light",
+      "value": "Luminos"
+    },
+    {
+      "name": "link",
+      "value": "Link"
+    },
+    {
+      "name": "list",
+      "value": "Listă"
+    },
+    {
+      "name": "make_list",
+      "value": "Fă o listă"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Număr maxim de articole de afișat în listă"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Linii maxime de afișat în notă"
+    },
+    {
+      "name": "medium",
+      "value": "Mediu"
+    },
+    {
+      "name": "monospace",
+      "value": "Monospațiu"
+    },
+    {
+      "name": "none",
+      "value": "Nici unul"
+    },
+    {
+      "name": "note",
+      "value": "Notă"
+    },
+    {
+      "name": "notes",
+      "value": "Notiţe"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Notele vor fi salvate în memoria internă a telefonului dvs. în fiecare zi.\\n\\nEste posibil ca aceasta să nu funcționeze dacă aveți modul \"Power saving\" activat."
+    },
+    {
+      "name": "open_link",
+      "value": "Deschide link-ul"
+    },
+    {
+      "name": "others",
+      "value": "Altele"
+    },
+    {
+      "name": "pin",
+      "value": "Fixaţi"
+    },
+    {
+      "name": "pinned",
+      "value": "Fixat"
+    },
+    {
+      "name": "rate",
+      "value": "Evaluați această aplicație"
+    },
+    {
+      "name": "restore",
+      "value": "Restaurare"
+    },
+    {
+      "name": "save",
+      "value": "Salvează"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Salvează pe dispozitiv"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Salvat pe dispozitiv"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Salvat pe Notally"
+    },
+    {
+      "name": "search",
+      "value": "Căutare"
+    },
+    {
+      "name": "select_note",
+      "value": "Selectați nota"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Trimite feedback"
+    },
+    {
+      "name": "settings",
+      "value": "Setări"
+    },
+    {
+      "name": "share",
+      "value": "Trimite"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Notă unică"
+    },
+    {
+      "name": "small",
+      "value": "Mic"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Ceva a mers nu cum trebuie. Vă rog să încercați din nou."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Tăietură oblică"
+    },
+    {
+      "name": "take_note",
+      "value": "Ia nota"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Apasă pentru a seta"
+    },
+    {
+      "name": "text_size",
+      "value": "Mărimea textului"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "title",
+      "value": "Titlu"
+    },
+    {
+      "name": "unarchive",
+      "value": "Dezarhivă"
+    },
+    {
+      "name": "unpin",
+      "value": "Defixaţi"
+    },
+    {
+      "name": "view",
+      "value": "Vezi"
+    },
+    {
+      "name": "view_file",
+      "value": "Vezi fișierul"
+    },
+    {
+      "name": "view_note",
+      "value": "Vezi nota…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Notele atașate la această etichetă nu vor fi șterse"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "android_xml_resource": "xml/provider_paths.xml",
+  "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<paths>\n    <cache-path\n        name=\"exported\"\n        path=\"/exported\" />\n    <files-path\n        name=\"logs\"\n        path=\"/logs\" />\n    <external-media-path\n        name=\"images\"\n        path=\"/Images\" />\n    <external-media-path\n        name=\"audios\"\n        path=\"/Audios\" />\n</paths>"
+}

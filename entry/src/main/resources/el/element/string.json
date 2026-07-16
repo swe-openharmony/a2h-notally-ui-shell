@@ -1,0 +1,292 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Σχετικά με"
+    },
+    {
+      "name": "add_item",
+      "value": "Προσθήκη αντικειμένου"
+    },
+    {
+      "name": "add_label",
+      "value": "Προσθήκη ετικέτας"
+    },
+    {
+      "name": "appearance",
+      "value": "Εμφάνιση"
+    },
+    {
+      "name": "archive",
+      "value": "Αρχειοθέτηση"
+    },
+    {
+      "name": "archived",
+      "value": "Αρχείο"
+    },
+    {
+      "name": "backup",
+      "value": "Αντίγραφο Ασφαλείας"
+    },
+    {
+      "name": "bold",
+      "value": "Έντονα"
+    },
+    {
+      "name": "cancel",
+      "value": "Ακύρωση"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Αδύνατο το άνοιγμα συνδέσμου"
+    },
+    {
+      "name": "change_color",
+      "value": "Αλλαγή χρώματος"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Απαλοιφή μορφοποίησης"
+    },
+    {
+      "name": "content_density",
+      "value": "Πυκνότητα περιεχομένου"
+    },
+    {
+      "name": "create_new",
+      "value": "Καμία ετικέτα. Δημιουργία μίας;"
+    },
+    {
+      "name": "dark",
+      "value": "Μαύρο"
+    },
+    {
+      "name": "date",
+      "value": "Ημερομηνία"
+    },
+    {
+      "name": "date_format",
+      "value": "Μορφή ημερομηνίας"
+    },
+    {
+      "name": "delete",
+      "value": "Διαγραφή"
+    },
+    {
+      "name": "delete_all",
+      "value": "Διαγραφή όλων"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Διαγραφή όλων των σημειώσεων;"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Οριστική διαγραφή"
+    },
+    {
+      "name": "delete_label",
+      "value": "Διαγραφή ετικέτας;"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Οριστική διαγραφή σημείωσης;"
+    },
+    {
+      "name": "deleted",
+      "value": "Διαγραμμένα"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Λαβή Σύρσης"
+    },
+    {
+      "name": "edit",
+      "value": "Επεξεργασία"
+    },
+    {
+      "name": "edit_label",
+      "value": "Επεξεργασία ετικέτας"
+    },
+    {
+      "name": "empty_list",
+      "value": "Κενή λίστα"
+    },
+    {
+      "name": "empty_note",
+      "value": "Κενή σημείωση"
+    },
+    {
+      "name": "export",
+      "value": "Εξαγωγή"
+    },
+    {
+      "name": "export_backup",
+      "value": "Εξαγωγή Αντιγράφου Ασφαλείας"
+    },
+    {
+      "name": "follow_system",
+      "value": "Ακολούθηση συστήματος"
+    },
+    {
+      "name": "grid",
+      "value": "Πλέγμα"
+    },
+    {
+      "name": "import_backup",
+      "value": "Εισαγωγή Αντιγράφου Ασφαλείας"
+    },
+    {
+      "name": "italic",
+      "value": "Πλάγια"
+    },
+    {
+      "name": "item",
+      "value": "Αντικείμενο"
+    },
+    {
+      "name": "label_exists",
+      "value": "Η ετικέτα υπάρχει"
+    },
+    {
+      "name": "labels",
+      "value": "Ετικέτες"
+    },
+    {
+      "name": "libraries",
+      "value": "Βιβλιοθήκες"
+    },
+    {
+      "name": "light",
+      "value": "Φωτεινό"
+    },
+    {
+      "name": "link",
+      "value": "Σύνδεση"
+    },
+    {
+      "name": "list",
+      "value": "Λίστα"
+    },
+    {
+      "name": "make_list",
+      "value": "Δημιουργία λίστας"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Μέγιστος αριθμός αντικειμένων που θα εμφανίζονται στην λίστα"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Μέγιστος αριθμός σειρών που θα εμφανίζονται στις σημειώσεις"
+    },
+    {
+      "name": "none",
+      "value": "Καμία"
+    },
+    {
+      "name": "note",
+      "value": "Σημείωση"
+    },
+    {
+      "name": "notes",
+      "value": "Σημειώσεις"
+    },
+    {
+      "name": "open_link",
+      "value": "Άνοιγμα συνδέσμου"
+    },
+    {
+      "name": "others",
+      "value": "Επιπλέον"
+    },
+    {
+      "name": "pin",
+      "value": "Καρφίτσωμα"
+    },
+    {
+      "name": "pinned",
+      "value": "Καρφιτσωμένα"
+    },
+    {
+      "name": "rate",
+      "value": "Βαθμολογήστε την εφαρμογή"
+    },
+    {
+      "name": "restore",
+      "value": "Επαναφορά"
+    },
+    {
+      "name": "save",
+      "value": "Αποθήκευση"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Αποθήκευση στην συσκευή"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Αποθηκεύτηκε στην συσκευή"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Αποθηκεύτηκε στο Notally"
+    },
+    {
+      "name": "search",
+      "value": "Αναζήτηση"
+    },
+    {
+      "name": "settings",
+      "value": "Ρυθμίσεις"
+    },
+    {
+      "name": "share",
+      "value": "Κοινοποίηση"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Κάτι πήγε στραβά. Παρακαλώ προσπαθήστε ξανά."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Διακριτή Διαγραφή"
+    },
+    {
+      "name": "take_note",
+      "value": "Δημιουργία σημείωσης"
+    },
+    {
+      "name": "theme",
+      "value": "Θέμα"
+    },
+    {
+      "name": "title",
+      "value": "Τίτλος"
+    },
+    {
+      "name": "unarchive",
+      "value": "Μεταφορά στις <<Σημειώσεις>>"
+    },
+    {
+      "name": "unpin",
+      "value": "Ξεκαρφίτσωμα"
+    },
+    {
+      "name": "view",
+      "value": "Προβολή"
+    },
+    {
+      "name": "view_file",
+      "value": "Εμφάνιση αρχείου"
+    },
+    {
+      "name": "view_note",
+      "value": "Προβολή σημείωσης"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Οι συσχετισμένες σημειώσεις με αυτή την ετικέτα δεν θα διαγραφούν"
+    }
+  ]
+}

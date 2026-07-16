@@ -1,0 +1,440 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Om"
+    },
+    {
+      "name": "add_images",
+      "value": "Legg til bilder"
+    },
+    {
+      "name": "add_item",
+      "value": "Legg til element"
+    },
+    {
+      "name": "add_label",
+      "value": "Legg til etikett"
+    },
+    {
+      "name": "adding_images",
+      "value": "Legger til bilder"
+    },
+    {
+      "name": "appearance",
+      "value": "Utseende"
+    },
+    {
+      "name": "archive",
+      "value": "Arkivér"
+    },
+    {
+      "name": "archived",
+      "value": "Arkiv"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Sikkerhetskopiér automatisk"
+    },
+    {
+      "name": "backup",
+      "value": "Sikkerhetskopiering"
+    },
+    {
+      "name": "bold",
+      "value": "Fet"
+    },
+    {
+      "name": "calculating",
+      "value": "Beregner…"
+    },
+    {
+      "name": "cancel",
+      "value": "Avbryt"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Finner ikke mappen. Den kan ha blitt flyttet eller slettet"
+    },
+    {
+      "name": "cant_find_note",
+      "value": "Finner ikke notat. Den kan ha blitt slettet"
+    },
+    {
+      "name": "cant_load_image",
+      "value": "Kan ikke laste inn bildet. Det kan ha blitt flyttet eller slettet"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Kan ikke åpne lenken"
+    },
+    {
+      "name": "change_color",
+      "value": "Endre farge"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Velg en annen mappe"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Velg mappe"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Fjern formatering"
+    },
+    {
+      "name": "content_density",
+      "value": "Innholdstetthet"
+    },
+    {
+      "name": "continue_",
+      "value": "Fortsett"
+    },
+    {
+      "name": "create_new",
+      "value": "Ingen etiketter. Vil du opprette en?"
+    },
+    {
+      "name": "dark",
+      "value": "Mørkt"
+    },
+    {
+      "name": "date",
+      "value": "Dato"
+    },
+    {
+      "name": "date_format",
+      "value": "Datoformat"
+    },
+    {
+      "name": "delete",
+      "value": "Slett"
+    },
+    {
+      "name": "delete_all",
+      "value": "Slett alle"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Vil du slette alle notatene?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Slett for godt"
+    },
+    {
+      "name": "delete_image_forever",
+      "value": "Vil du slette bildet for godt?"
+    },
+    {
+      "name": "delete_label",
+      "value": "Vil du slette etiketten?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Vil du slette notatet for godt?"
+    },
+    {
+      "name": "deleted",
+      "value": "Papirkurv"
+    },
+    {
+      "name": "deleting_images",
+      "value": "Sletter bilder"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Slå av automatisk sikkerhetskopiering"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Drahåndtak"
+    },
+    {
+      "name": "edit",
+      "value": "Rediger"
+    },
+    {
+      "name": "edit_label",
+      "value": "Rediger etikett"
+    },
+    {
+      "name": "empty_list",
+      "value": "Tom liste"
+    },
+    {
+      "name": "empty_note",
+      "value": "Tomt notat"
+    },
+    {
+      "name": "error_while_renaming_image",
+      "value": "Feil under endring av bildenavn"
+    },
+    {
+      "name": "export",
+      "value": "Eksportér"
+    },
+    {
+      "name": "export_backup",
+      "value": "Eksportér sikkerhetskopi"
+    },
+    {
+      "name": "exporting_backup",
+      "value": "Eksporterer sikkerhetskopi"
+    },
+    {
+      "name": "filter",
+      "value": "Filtrér"
+    },
+    {
+      "name": "follow_system",
+      "value": "Følg systemet"
+    },
+    {
+      "name": "grid",
+      "value": "Rutenett"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Bildeformatet er ikke støttet"
+    },
+    {
+      "name": "import_backup",
+      "value": "Importér sikkerhetskopi"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Importert sikkerhetskopi"
+    },
+    {
+      "name": "importing_backup",
+      "value": "Importerer sikkerhetskopi"
+    },
+    {
+      "name": "insert_an_sd_card_images",
+      "value": "Sett inn et SD-kort for å legge til bilder"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Installer en nettleser for å åpne lenken"
+    },
+    {
+      "name": "install_an_email",
+      "value": "Installer en e-postapp for å sende en tilbakemelding"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Ugyldig sikkerhetskopi"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Ugyldig bilde"
+    },
+    {
+      "name": "italic",
+      "value": "Kursiv"
+    },
+    {
+      "name": "item",
+      "value": "Element"
+    },
+    {
+      "name": "label_exists",
+      "value": "Etiketten finnes allerede"
+    },
+    {
+      "name": "labels",
+      "value": "Etiketter"
+    },
+    {
+      "name": "large",
+      "value": "Stor"
+    },
+    {
+      "name": "libraries",
+      "value": "Tredjepartsbiblioteker"
+    },
+    {
+      "name": "light",
+      "value": "Lyst"
+    },
+    {
+      "name": "link",
+      "value": "Lenke"
+    },
+    {
+      "name": "list",
+      "value": "Liste"
+    },
+    {
+      "name": "make_list",
+      "value": "Lag en liste"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Maks antall elementer å vise fra lister"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Maks antall linjer å vise fra notater"
+    },
+    {
+      "name": "medium",
+      "value": "Middels"
+    },
+    {
+      "name": "monospace",
+      "value": "Fastbreddeskrift"
+    },
+    {
+      "name": "none",
+      "value": "Ikke vis"
+    },
+    {
+      "name": "note",
+      "value": "Notat"
+    },
+    {
+      "name": "notes",
+      "value": "Notater"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Notatene vil bli sikkerhetskopiert til den interne lagringen hver dag.\\n\\nDette fungerer muligens ikke hvis strømsparingsmodus er aktivert"
+    },
+    {
+      "name": "open_link",
+      "value": "Åpne lenke"
+    },
+    {
+      "name": "others",
+      "value": "Annet"
+    },
+    {
+      "name": "pin",
+      "value": "Fest"
+    },
+    {
+      "name": "pinned",
+      "value": "Festet"
+    },
+    {
+      "name": "please_grant_notally_notification",
+      "value": "Gi Notally tillatelse til å sende varsler."
+    },
+    {
+      "name": "rate",
+      "value": "Vurder denne appen"
+    },
+    {
+      "name": "restore",
+      "value": "Gjenopprett"
+    },
+    {
+      "name": "save",
+      "value": "Lagre"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Lagre til enheten"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Lagret til enheten"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Lagret i Notally"
+    },
+    {
+      "name": "search",
+      "value": "Søk"
+    },
+    {
+      "name": "select_note",
+      "value": "Velg notat"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Send tilbakemelding"
+    },
+    {
+      "name": "settings",
+      "value": "Innstillinger"
+    },
+    {
+      "name": "share",
+      "value": "Del"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Enkelt notat eller liste"
+    },
+    {
+      "name": "small",
+      "value": "Liten"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Noe gikk galt. Prøv igjen."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Gjennomstreket"
+    },
+    {
+      "name": "take_note",
+      "value": "Ta et notat"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Trykk for å konfigurere"
+    },
+    {
+      "name": "text_size",
+      "value": "Skriftstørrelse"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "title",
+      "value": "Tittel"
+    },
+    {
+      "name": "unarchive",
+      "value": "Fjern fra arkivet"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Ukjent feil"
+    },
+    {
+      "name": "unknown_name",
+      "value": "Ukjent navn"
+    },
+    {
+      "name": "unpin",
+      "value": "Løsne"
+    },
+    {
+      "name": "view",
+      "value": "Visning"
+    },
+    {
+      "name": "view_file",
+      "value": "Se fil"
+    },
+    {
+      "name": "view_note",
+      "value": "Se notat"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Notatene assosiert med etikketten vil ikke bli slettet."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "android_xml_resource": "xml/data_rules.xml",
+  "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<data-extraction-rules>\n    <cloud-backup>\n        <exclude\n            domain=\"sharedpref\"\n            path=\".\" />\n        <exclude\n            domain=\"root\"\n            path=\"./app_webview\" />\n        <exclude\n            domain=\"root\"\n            path=\"./app_textures\" />\n    </cloud-backup>\n    <device-transfer>\n        <exclude\n            domain=\"sharedpref\"\n            path=\".\" />\n        <exclude\n            domain=\"root\"\n            path=\"./app_webview\" />\n        <exclude\n            domain=\"root\"\n            path=\"./app_textures\" />\n    </device-transfer>\n</data-extraction-rules>"
+}

@@ -1,0 +1,440 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Om"
+    },
+    {
+      "name": "add_images",
+      "value": "Legg til bilete"
+    },
+    {
+      "name": "add_item",
+      "value": "Legg til element"
+    },
+    {
+      "name": "add_label",
+      "value": "Legg til etikett"
+    },
+    {
+      "name": "adding_images",
+      "value": "Legg til bilete"
+    },
+    {
+      "name": "appearance",
+      "value": "Utsjånad"
+    },
+    {
+      "name": "archive",
+      "value": "Arkivér"
+    },
+    {
+      "name": "archived",
+      "value": "Arkiv"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Sikkerheitskopiér automatisk"
+    },
+    {
+      "name": "backup",
+      "value": "Sikkerheitskopiering"
+    },
+    {
+      "name": "bold",
+      "value": "Feit"
+    },
+    {
+      "name": "calculating",
+      "value": "Bereknar…"
+    },
+    {
+      "name": "cancel",
+      "value": "Avbryt"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Finn ikkje mappa. Den kan ha blitt flytta eller sletta"
+    },
+    {
+      "name": "cant_find_note",
+      "value": "Finn ikkje notat. Den kan ha blitt sletta"
+    },
+    {
+      "name": "cant_load_image",
+      "value": "Kan ikkje lasta inn biletet. Det kan ha blitt flytta eller sletta"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Kan ikkje opna lenkja"
+    },
+    {
+      "name": "change_color",
+      "value": "Endra farge"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Vel ei anna mappe"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Vel mappe"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Fjern formatering"
+    },
+    {
+      "name": "content_density",
+      "value": "Innhaldstettleik"
+    },
+    {
+      "name": "continue_",
+      "value": "Fortsett"
+    },
+    {
+      "name": "create_new",
+      "value": "Ingen etikettar. Vil du oppretta ein?"
+    },
+    {
+      "name": "dark",
+      "value": "Mørkt"
+    },
+    {
+      "name": "date",
+      "value": "Dato"
+    },
+    {
+      "name": "date_format",
+      "value": "Datoformat"
+    },
+    {
+      "name": "delete",
+      "value": "Slett"
+    },
+    {
+      "name": "delete_all",
+      "value": "Slett alle"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Vil du sletta alle notata?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Slett for godt"
+    },
+    {
+      "name": "delete_image_forever",
+      "value": "Vil du sletta biletet for godt?"
+    },
+    {
+      "name": "delete_label",
+      "value": "Vil du sletta etiketten?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Vil du sletta notatet for godt?"
+    },
+    {
+      "name": "deleted",
+      "value": "Papirkorg"
+    },
+    {
+      "name": "deleting_images",
+      "value": "Slettar bilete"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Slå av automatisk sikkerheitskopiering"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Drahandtak"
+    },
+    {
+      "name": "edit",
+      "value": "Rediger"
+    },
+    {
+      "name": "edit_label",
+      "value": "Rediger etikett"
+    },
+    {
+      "name": "empty_list",
+      "value": "Tom liste"
+    },
+    {
+      "name": "empty_note",
+      "value": "Tomt notat"
+    },
+    {
+      "name": "error_while_renaming_image",
+      "value": "Feil under endring av biletenamn"
+    },
+    {
+      "name": "export",
+      "value": "Eksportér"
+    },
+    {
+      "name": "export_backup",
+      "value": "Eksportér sikkerheitskopi"
+    },
+    {
+      "name": "exporting_backup",
+      "value": "Eksporterer sikkerheitskopi"
+    },
+    {
+      "name": "filter",
+      "value": "Filtrér"
+    },
+    {
+      "name": "follow_system",
+      "value": "Følg systemet"
+    },
+    {
+      "name": "grid",
+      "value": "Rutenett"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Bileteformatet er ikkje støtta"
+    },
+    {
+      "name": "import_backup",
+      "value": "Importér sikkerheitskopi"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Importert sikkerheitskopi"
+    },
+    {
+      "name": "importing_backup",
+      "value": "Importerer sikkerheitskopi"
+    },
+    {
+      "name": "insert_an_sd_card_images",
+      "value": "Sett inn eit SD-kort for å legga til bilete"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Installer ein nettlesar for å opna lenkja"
+    },
+    {
+      "name": "install_an_email",
+      "value": "Installer ein e-postapp for å senda ein tilbakemelding"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Ugyldeg sikkerheitskopi"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Ugyldeg bilete"
+    },
+    {
+      "name": "italic",
+      "value": "Kursiv"
+    },
+    {
+      "name": "item",
+      "value": "Element"
+    },
+    {
+      "name": "label_exists",
+      "value": "Etiketten finst allereie"
+    },
+    {
+      "name": "labels",
+      "value": "Etikettar"
+    },
+    {
+      "name": "large",
+      "value": "Stor"
+    },
+    {
+      "name": "libraries",
+      "value": "Tredjepartsbibliotek"
+    },
+    {
+      "name": "light",
+      "value": "Lyst"
+    },
+    {
+      "name": "link",
+      "value": "Lenkje"
+    },
+    {
+      "name": "list",
+      "value": "Liste"
+    },
+    {
+      "name": "make_list",
+      "value": "Lag ei liste"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Maks antal element å visa frå lister"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Maks antal linjer å visa frå notat"
+    },
+    {
+      "name": "medium",
+      "value": "Middels"
+    },
+    {
+      "name": "monospace",
+      "value": "Fastbreiddskrift"
+    },
+    {
+      "name": "none",
+      "value": "Ikkje vis"
+    },
+    {
+      "name": "note",
+      "value": "Notat"
+    },
+    {
+      "name": "notes",
+      "value": "Notat"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Notata vil bli sikkerheitskopiert til den interne lagringa kvar dag.\\n\\nDette fungerer muligens ikkje viss strømsparingsmodus er aktivert"
+    },
+    {
+      "name": "open_link",
+      "value": "Opna lenkje"
+    },
+    {
+      "name": "others",
+      "value": "Anna"
+    },
+    {
+      "name": "pin",
+      "value": "Fest"
+    },
+    {
+      "name": "pinned",
+      "value": "Festa"
+    },
+    {
+      "name": "please_grant_notally_notification",
+      "value": "Gi Notally tillating til å senda varsel. Dette brukas for å visa fremdrifta viss handlinger som å sletta bilete eller importera sikkerheitskopier tar tid"
+    },
+    {
+      "name": "rate",
+      "value": "Vurder denne appen"
+    },
+    {
+      "name": "restore",
+      "value": "Gjenopprett"
+    },
+    {
+      "name": "save",
+      "value": "Lagra"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Lagra til eininga"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Lagra til eininga"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Lagra i Notally"
+    },
+    {
+      "name": "search",
+      "value": "Søk"
+    },
+    {
+      "name": "select_note",
+      "value": "Vel notat"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Send tilbakemelding"
+    },
+    {
+      "name": "settings",
+      "value": "Innstillingar"
+    },
+    {
+      "name": "share",
+      "value": "Del"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Enkelt notat eller liste"
+    },
+    {
+      "name": "small",
+      "value": "Liten"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Noko gjekk gale. Prøv igjen."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Gjennomstreka"
+    },
+    {
+      "name": "take_note",
+      "value": "Ta eit notat"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Trykk for å konfigurera"
+    },
+    {
+      "name": "text_size",
+      "value": "Skriftstorleik"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "title",
+      "value": "Tittel"
+    },
+    {
+      "name": "unarchive",
+      "value": "Fjern frå arkivet"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Ukjend feil"
+    },
+    {
+      "name": "unknown_name",
+      "value": "Ukjend namn"
+    },
+    {
+      "name": "unpin",
+      "value": "Løys"
+    },
+    {
+      "name": "view",
+      "value": "Visning"
+    },
+    {
+      "name": "view_file",
+      "value": "Sjå fil"
+    },
+    {
+      "name": "view_note",
+      "value": "Sjå notat"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Notata assosiert med etikketten vil ikkje bli sletta."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "android_xml_resource": "xml/widget.xml",
+  "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<appwidget-provider xmlns:android=\"http://schemas.android.com/apk/res/android\"\n    android:configure=\"com.omgodse.notally.activities.ConfigureWidget\"\n    android:initialLayout=\"@layout/widget\"\n    android:minWidth=\"100dp\"\n    android:minHeight=\"100dp\"\n    android:previewImage=\"@mipmap/widget_preview\"\n    android:previewLayout=\"@layout/widget_preview\"\n    android:resizeMode=\"horizontal|vertical\"\n    android:targetCellWidth=\"4\"\n    android:targetCellHeight=\"2\" />"
+}

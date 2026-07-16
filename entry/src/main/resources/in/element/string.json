@@ -1,0 +1,308 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Tentang"
+    },
+    {
+      "name": "add_item",
+      "value": "Tambah Item"
+    },
+    {
+      "name": "add_label",
+      "value": "Tambah label"
+    },
+    {
+      "name": "appearance",
+      "value": "Penampilan"
+    },
+    {
+      "name": "archive",
+      "value": "Arsipkan"
+    },
+    {
+      "name": "archived",
+      "value": "Diarsipkan"
+    },
+    {
+      "name": "backup",
+      "value": "Cadangan"
+    },
+    {
+      "name": "bold",
+      "value": "Tebal"
+    },
+    {
+      "name": "cancel",
+      "value": "Batal"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Tidak bisa membuka tautan"
+    },
+    {
+      "name": "change_color",
+      "value": "Ubah warna"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Hapus pemformatan"
+    },
+    {
+      "name": "content_density",
+      "value": "Kerapatan konten"
+    },
+    {
+      "name": "create_new",
+      "value": "Belum ada label. Buat baru?"
+    },
+    {
+      "name": "dark",
+      "value": "Gelap"
+    },
+    {
+      "name": "date",
+      "value": "Tanggal"
+    },
+    {
+      "name": "date_format",
+      "value": "Format tanggal"
+    },
+    {
+      "name": "delete",
+      "value": "Hapus"
+    },
+    {
+      "name": "delete_all",
+      "value": "Hapus semua"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Hapus semua catatan?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Hapus selamanya"
+    },
+    {
+      "name": "delete_label",
+      "value": "Hapus label?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Hapus catatan selamanya?"
+    },
+    {
+      "name": "deleted",
+      "value": "Dihapus"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Handel Seret"
+    },
+    {
+      "name": "edit",
+      "value": "Sunting"
+    },
+    {
+      "name": "edit_label",
+      "value": "Sunting label"
+    },
+    {
+      "name": "empty_list",
+      "value": "Daftar kosong"
+    },
+    {
+      "name": "empty_note",
+      "value": "Catatan kosong"
+    },
+    {
+      "name": "export",
+      "value": "Ekspor"
+    },
+    {
+      "name": "export_backup",
+      "value": "Ekspor cadangan"
+    },
+    {
+      "name": "follow_system",
+      "value": "Ikuti sistem"
+    },
+    {
+      "name": "grid",
+      "value": "Kotak"
+    },
+    {
+      "name": "import_backup",
+      "value": "Impor cadangan"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Cadangan yang diimpor"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Pasang peramban untuk membuka tautan ini"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Cadangan tidak valid"
+    },
+    {
+      "name": "italic",
+      "value": "Miring"
+    },
+    {
+      "name": "item",
+      "value": "Item"
+    },
+    {
+      "name": "label_exists",
+      "value": "Label sudah ada"
+    },
+    {
+      "name": "labels",
+      "value": "Label"
+    },
+    {
+      "name": "libraries",
+      "value": "Pustaka"
+    },
+    {
+      "name": "light",
+      "value": "Terang"
+    },
+    {
+      "name": "link",
+      "value": "Tautan"
+    },
+    {
+      "name": "list",
+      "value": "Daftar"
+    },
+    {
+      "name": "make_list",
+      "value": "Buat daftar"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Item maks yang ditampilkan dalam daftar"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Baris maks yang ditampilkan dalam catatan"
+    },
+    {
+      "name": "monospace",
+      "value": "Monospace"
+    },
+    {
+      "name": "none",
+      "value": "Tidak ada"
+    },
+    {
+      "name": "note",
+      "value": "Catatan"
+    },
+    {
+      "name": "notes",
+      "value": "Catatan"
+    },
+    {
+      "name": "open_link",
+      "value": "Buka tautan"
+    },
+    {
+      "name": "others",
+      "value": "Lainnya"
+    },
+    {
+      "name": "pin",
+      "value": "Semat"
+    },
+    {
+      "name": "pinned",
+      "value": "Tersemat"
+    },
+    {
+      "name": "rate",
+      "value": "Nilai apl ini"
+    },
+    {
+      "name": "restore",
+      "value": "Pulihkan"
+    },
+    {
+      "name": "save",
+      "value": "Simpan"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Simpan ke perangkat"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Disimpan ke perangkat"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Disimpan ke Notally"
+    },
+    {
+      "name": "search",
+      "value": "Cari"
+    },
+    {
+      "name": "settings",
+      "value": "Pengaturan"
+    },
+    {
+      "name": "share",
+      "value": "Bagikan"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Telah terjadi kesalahan. Silakan coba lagi."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Coret"
+    },
+    {
+      "name": "take_note",
+      "value": "Buat catatan"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "title",
+      "value": "Judul"
+    },
+    {
+      "name": "unarchive",
+      "value": "Batal arsip"
+    },
+    {
+      "name": "unpin",
+      "value": "Buang semat"
+    },
+    {
+      "name": "view",
+      "value": "Tampilan"
+    },
+    {
+      "name": "view_file",
+      "value": "Lihat berkas"
+    },
+    {
+      "name": "view_note",
+      "value": "Lihat catatan…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Catatan anda yang terkait dengan label ini tidak akan dihapus"
+    }
+  ]
+}

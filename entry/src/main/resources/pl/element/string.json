@@ -1,0 +1,564 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "O aplikacji"
+    },
+    {
+      "name": "add_images",
+      "value": "Dodaj obrazy"
+    },
+    {
+      "name": "add_item",
+      "value": "Dodaj element"
+    },
+    {
+      "name": "add_label",
+      "value": "Dodaj etykietę"
+    },
+    {
+      "name": "adding_images",
+      "value": "Dodawanie obrazów"
+    },
+    {
+      "name": "appearance",
+      "value": "Wygląd"
+    },
+    {
+      "name": "archive",
+      "value": "Zarchwizuj"
+    },
+    {
+      "name": "archived",
+      "value": "Zarchiwizowane"
+    },
+    {
+      "name": "audio_recordings",
+      "value": "Nagrania dźwiękowe"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Automatyczna kopia zapasowa"
+    },
+    {
+      "name": "backup",
+      "value": "Kopia zapasowa"
+    },
+    {
+      "name": "bold",
+      "value": "Pogrubienie"
+    },
+    {
+      "name": "calculating",
+      "value": "Obliczanie…"
+    },
+    {
+      "name": "cancel",
+      "value": "Anuluj"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "Nie można znaleźć katalogu. Być może został przeniesiony lub usunięty"
+    },
+    {
+      "name": "cant_find_note",
+      "value": "Nie można znaleźć notatki. Mogła zostać usunięta"
+    },
+    {
+      "name": "cant_load_image",
+      "value": "Nie można załadować obrazu. Mógł zostać przeniesiony lub usunięty"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Nie można otworzyć odnośnika"
+    },
+    {
+      "name": "change_color",
+      "value": "Zmień kolor"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "Wybierz inny katalog"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Wybierz katalog"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Usuń formatowanie"
+    },
+    {
+      "name": "content_density",
+      "value": "Zagęszczenie treści"
+    },
+    {
+      "name": "continue_",
+      "value": "Kontynuuj"
+    },
+    {
+      "name": "create_new",
+      "value": "Nie masz jeszcze etykiet? Stworzyć jedną?"
+    },
+    {
+      "name": "daily",
+      "value": "Codziennie"
+    },
+    {
+      "name": "dark",
+      "value": "Ciemny"
+    },
+    {
+      "name": "date",
+      "value": "Data"
+    },
+    {
+      "name": "date_format",
+      "value": "Format daty"
+    },
+    {
+      "name": "delete",
+      "value": "Usuń"
+    },
+    {
+      "name": "delete_all",
+      "value": "Usuń wszystkie"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Usunąć wszystkie notatki?"
+    },
+    {
+      "name": "delete_audio_recording_forever",
+      "value": "Usunąć nagranie audio na stałe?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Usunąć na zawsze?"
+    },
+    {
+      "name": "delete_image_forever",
+      "value": "Usunąć obraz bezpowrotnie?"
+    },
+    {
+      "name": "delete_label",
+      "value": "Usunąć etykietę?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Usunąć notatkę na zawsze?"
+    },
+    {
+      "name": "delete_selected_notes",
+      "value": "Usunąć zaznaczone notatki?"
+    },
+    {
+      "name": "deleted",
+      "value": "Usunięte"
+    },
+    {
+      "name": "deleting_images",
+      "value": "Usuwanie obrazów"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "Wyłącz automatyczną kopię zapasową"
+    },
+    {
+      "name": "discard",
+      "value": "Odrzuć"
+    },
+    {
+      "name": "does_not_repeat",
+      "value": "Nie powtarza się"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Punkt zaczepienia"
+    },
+    {
+      "name": "edit",
+      "value": "Edytuj"
+    },
+    {
+      "name": "edit_label",
+      "value": "Edytuj etykietę"
+    },
+    {
+      "name": "empty_list",
+      "value": "Pusta lista"
+    },
+    {
+      "name": "empty_note",
+      "value": "Pusta notatka"
+    },
+    {
+      "name": "error_while_renaming_image",
+      "value": "Błąd podczas zmiany nazwy obrazu"
+    },
+    {
+      "name": "export",
+      "value": "Eksportuj"
+    },
+    {
+      "name": "export_backup",
+      "value": "Wykonaj kopię zapasową"
+    },
+    {
+      "name": "exporting_backup",
+      "value": "Wykonywanie kopii zapasowej"
+    },
+    {
+      "name": "filter",
+      "value": "Filtruj"
+    },
+    {
+      "name": "follow_system",
+      "value": "Systemowy"
+    },
+    {
+      "name": "grid",
+      "value": "Siatka"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "Format obrazu nie jest obsługiwany"
+    },
+    {
+      "name": "import_backup",
+      "value": "Przywróć kopię zapasową"
+    },
+    {
+      "name": "imported_backup",
+      "value": "Kopia zapasowa została przywrócona"
+    },
+    {
+      "name": "importing_backup",
+      "value": "Przywracanie kopii zapasowej"
+    },
+    {
+      "name": "insert_an_sd_card_audio",
+      "value": "Włóż kartę SD, aby móc nagrywać dźwięk"
+    },
+    {
+      "name": "insert_an_sd_card_images",
+      "value": "Włóż kartę SD, aby dodać obrazy"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "Zainstaluj przeglądarkę, aby móc otworzyć ten odnośnik"
+    },
+    {
+      "name": "install_an_email",
+      "value": "Zainstaluj aplikację do obsługi e-maili, aby móc wysłać opinię"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "Niewłaściwy plik kopii zapasowej"
+    },
+    {
+      "name": "invalid_image",
+      "value": "Niewłaściwy obraz"
+    },
+    {
+      "name": "italic",
+      "value": "Kursywa"
+    },
+    {
+      "name": "item",
+      "value": "Element"
+    },
+    {
+      "name": "label_exists",
+      "value": "Etykieta już istnieje"
+    },
+    {
+      "name": "labels",
+      "value": "Etykieta"
+    },
+    {
+      "name": "large",
+      "value": "Duży"
+    },
+    {
+      "name": "libraries",
+      "value": "Biblioteki"
+    },
+    {
+      "name": "light",
+      "value": "Jasny"
+    },
+    {
+      "name": "link",
+      "value": "Odnośnik"
+    },
+    {
+      "name": "list",
+      "value": "Lista"
+    },
+    {
+      "name": "make_a_copy",
+      "value": "Utwórz kopię"
+    },
+    {
+      "name": "make_list",
+      "value": "Utwórz listę"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Maksymalna ilość wyświetlanych elementów na liście"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Maksymalna ilość wyświetlanych linii w notatce"
+    },
+    {
+      "name": "max_lines_to_display_title",
+      "value": "Maksymalna ilość wyświetlanych linii w tytule"
+    },
+    {
+      "name": "medium",
+      "value": "Średni"
+    },
+    {
+      "name": "monospace",
+      "value": "Monospace"
+    },
+    {
+      "name": "monthly",
+      "value": "Miesięcznie"
+    },
+    {
+      "name": "none",
+      "value": "Brak"
+    },
+    {
+      "name": "note",
+      "value": "Notatka"
+    },
+    {
+      "name": "notes",
+      "value": "Notatki"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "Notatki będą codziennie zapisywane w wewnętrznej pamięci telefonu.\\n\\nTo może nie działać, jeśli masz włączony tryb oszczędzania energii."
+    },
+    {
+      "name": "open_link",
+      "value": "Otwórz odnośnik"
+    },
+    {
+      "name": "others",
+      "value": "Pozostałe"
+    },
+    {
+      "name": "pause",
+      "value": "Wstrzymaj"
+    },
+    {
+      "name": "paused",
+      "value": "Wstrzymano"
+    },
+    {
+      "name": "pin",
+      "value": "Przypnij"
+    },
+    {
+      "name": "pinned",
+      "value": "Przypięte"
+    },
+    {
+      "name": "play",
+      "value": "Odtwórz"
+    },
+    {
+      "name": "please_grant_notally_alarm",
+      "value": "Przyznaj programowi Notally uprawnienia do ustawiania alarmów"
+    },
+    {
+      "name": "please_grant_notally_audio",
+      "value": "Udziel programowi Notally pozwolenia na nagrywanie dźwięku. Nagrania są zachowywane lokalnie na twoim urządzeniu"
+    },
+    {
+      "name": "please_grant_notally_notification",
+      "value": "Przyznaj programowi Notally uprawnienia do wysyłania powiadomień"
+    },
+    {
+      "name": "rate",
+      "value": "Oceń aplikację"
+    },
+    {
+      "name": "ready_to_record",
+      "value": "Można nagrywać"
+    },
+    {
+      "name": "record_audio",
+      "value": "Nagraj notatkę dźwiękową"
+    },
+    {
+      "name": "recording",
+      "value": "Nagrywanie…"
+    },
+    {
+      "name": "repeats_daily",
+      "value": "%1$s, powtórzeń dziennie"
+    },
+    {
+      "name": "repeats_monthly",
+      "value": "%1$s, powtórzeń miesięcznie"
+    },
+    {
+      "name": "restore",
+      "value": "Przywróć"
+    },
+    {
+      "name": "resume",
+      "value": "Wznów"
+    },
+    {
+      "name": "save",
+      "value": "Zapisz"
+    },
+    {
+      "name": "save_recording",
+      "value": "Zachować nagranie?"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Zapisz w urządzeniu"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Zapisano w urządzeniu"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Zapisano w Notally"
+    },
+    {
+      "name": "search",
+      "value": "Szukaj"
+    },
+    {
+      "name": "select_frequency",
+      "value": "Zaznacz częstotliwość"
+    },
+    {
+      "name": "select_labels",
+      "value": "Zaznacz etykiety"
+    },
+    {
+      "name": "select_note",
+      "value": "Wybierz notatkę"
+    },
+    {
+      "name": "send_feedback",
+      "value": "Wyślij opinię"
+    },
+    {
+      "name": "set_reminder",
+      "value": "Ustaw przypomnienie"
+    },
+    {
+      "name": "settings",
+      "value": "Ustawienia"
+    },
+    {
+      "name": "share",
+      "value": "Udostępnij"
+    },
+    {
+      "name": "single_note_or_list",
+      "value": "Pojedyncza notatka lub lista"
+    },
+    {
+      "name": "small",
+      "value": "Mały"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Coś poszło nie tak. Spróbuj ponownie."
+    },
+    {
+      "name": "something_went_wrong_audio",
+      "value": "Coś poszło nie tak. Nagranie audio mogło zostać przeniesione lub usunięte.\\n\\nBłąd: (%1$d, %2$d)"
+    },
+    {
+      "name": "start",
+      "value": "Uruchom"
+    },
+    {
+      "name": "stop",
+      "value": "Zatrzymaj"
+    },
+    {
+      "name": "strikethrough",
+      "value": "Przekreślenie"
+    },
+    {
+      "name": "take_note",
+      "value": "Utwórz notatkę"
+    },
+    {
+      "name": "tap_for_more_options",
+      "value": "Dotknij, aby zobaczyć więcej możliwości"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "Dotknij, aby ustawić"
+    },
+    {
+      "name": "text_size",
+      "value": "Rozmiar tekstu"
+    },
+    {
+      "name": "theme",
+      "value": "Motyw"
+    },
+    {
+      "name": "time",
+      "value": "Czas"
+    },
+    {
+      "name": "title",
+      "value": "Tytuł"
+    },
+    {
+      "name": "to_record_audio",
+      "value": "Aby móc nagrywać dźwięk, zezwól aplikacji Notally na dostęp do mikrofonu. Wejdź do sekcji uprawnień w ustawieniach swojego urządzenia i zezwól programowi Notally na dostęp do mikrofonu"
+    },
+    {
+      "name": "unarchive",
+      "value": "Cofnij archiwizację"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Nieznany błąd"
+    },
+    {
+      "name": "unknown_name",
+      "value": "Nieznana nazwa"
+    },
+    {
+      "name": "unpin",
+      "value": "Odepnij"
+    },
+    {
+      "name": "view",
+      "value": "Widok"
+    },
+    {
+      "name": "view_file",
+      "value": "Zobacz plik"
+    },
+    {
+      "name": "view_note",
+      "value": "Zobacz notatkę…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Notatki z tą etykietą nie zostaną usunięte"
+    }
+  ]
+}

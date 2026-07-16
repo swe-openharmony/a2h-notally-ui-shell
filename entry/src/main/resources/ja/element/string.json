@@ -1,0 +1,296 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "このアプリについて"
+    },
+    {
+      "name": "add_item",
+      "value": "アイテムを追加"
+    },
+    {
+      "name": "add_label",
+      "value": "新規ラベル"
+    },
+    {
+      "name": "appearance",
+      "value": "外観"
+    },
+    {
+      "name": "archive",
+      "value": "アーカイブ"
+    },
+    {
+      "name": "archived",
+      "value": "アーカイブ"
+    },
+    {
+      "name": "backup",
+      "value": "バックアップ"
+    },
+    {
+      "name": "bold",
+      "value": "太字"
+    },
+    {
+      "name": "cancel",
+      "value": "キャンセル"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "リンクを開けません"
+    },
+    {
+      "name": "change_color",
+      "value": "色を変更"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "書式を削除"
+    },
+    {
+      "name": "content_density",
+      "value": "プレビュー"
+    },
+    {
+      "name": "create_new",
+      "value": "新規作成"
+    },
+    {
+      "name": "dark",
+      "value": "ダーク"
+    },
+    {
+      "name": "date",
+      "value": "日時"
+    },
+    {
+      "name": "date_format",
+      "value": "日付の表示"
+    },
+    {
+      "name": "delete",
+      "value": "削除"
+    },
+    {
+      "name": "delete_all",
+      "value": "全て削除"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "ごみ箱のノートを全て削除しますか？"
+    },
+    {
+      "name": "delete_forever",
+      "value": "完全に削除"
+    },
+    {
+      "name": "delete_label",
+      "value": "削除しますか？"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "ノートを完全に削除しますか？"
+    },
+    {
+      "name": "deleted",
+      "value": "ごみ箱"
+    },
+    {
+      "name": "drag_handle",
+      "value": "ドラッグハンドル"
+    },
+    {
+      "name": "edit",
+      "value": "編集"
+    },
+    {
+      "name": "edit_label",
+      "value": "ラベルを編集"
+    },
+    {
+      "name": "empty_list",
+      "value": "空のリスト"
+    },
+    {
+      "name": "empty_note",
+      "value": "空のノート"
+    },
+    {
+      "name": "export",
+      "value": "ファイルに出力"
+    },
+    {
+      "name": "export_backup",
+      "value": "バックアップを作成"
+    },
+    {
+      "name": "follow_system",
+      "value": "システムのテーマを使用"
+    },
+    {
+      "name": "grid",
+      "value": "グリッド"
+    },
+    {
+      "name": "import_backup",
+      "value": "バックアップを読み込む"
+    },
+    {
+      "name": "italic",
+      "value": "斜体"
+    },
+    {
+      "name": "item",
+      "value": "アイテム"
+    },
+    {
+      "name": "label_exists",
+      "value": "ラベルの存在"
+    },
+    {
+      "name": "labels",
+      "value": "ラベル"
+    },
+    {
+      "name": "libraries",
+      "value": "ライブラリ"
+    },
+    {
+      "name": "light",
+      "value": "ライト"
+    },
+    {
+      "name": "link",
+      "value": "リンク"
+    },
+    {
+      "name": "list",
+      "value": "リスト"
+    },
+    {
+      "name": "make_list",
+      "value": "リスト"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "プレビューするリストの数"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "プレビューするノートの行数"
+    },
+    {
+      "name": "monospace",
+      "value": "等幅"
+    },
+    {
+      "name": "none",
+      "value": "表示しない"
+    },
+    {
+      "name": "note",
+      "value": "ノート"
+    },
+    {
+      "name": "notes",
+      "value": "ノート"
+    },
+    {
+      "name": "open_link",
+      "value": "リンクを開く"
+    },
+    {
+      "name": "others",
+      "value": "その他"
+    },
+    {
+      "name": "pin",
+      "value": "ピン"
+    },
+    {
+      "name": "pinned",
+      "value": "ピン済み"
+    },
+    {
+      "name": "rate",
+      "value": "アプリを評価"
+    },
+    {
+      "name": "restore",
+      "value": "元に戻す"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "save_to_device",
+      "value": "端末に保存"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "端末に保存されました"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Notallyに保存されました"
+    },
+    {
+      "name": "search",
+      "value": "検索"
+    },
+    {
+      "name": "settings",
+      "value": "設定"
+    },
+    {
+      "name": "share",
+      "value": "共有"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "不具合が発生しました やり直してください"
+    },
+    {
+      "name": "strikethrough",
+      "value": "打ち消し線"
+    },
+    {
+      "name": "take_note",
+      "value": "ノート"
+    },
+    {
+      "name": "theme",
+      "value": "テーマ"
+    },
+    {
+      "name": "title",
+      "value": "タイトル"
+    },
+    {
+      "name": "unarchive",
+      "value": "復元"
+    },
+    {
+      "name": "unpin",
+      "value": "ピンを削除"
+    },
+    {
+      "name": "view",
+      "value": "ノートの並べ方"
+    },
+    {
+      "name": "view_file",
+      "value": "ファイルを参照"
+    },
+    {
+      "name": "view_note",
+      "value": "ノートを見る…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "ラベルに関連付けられたメモは削除されません"
+    }
+  ]
+}

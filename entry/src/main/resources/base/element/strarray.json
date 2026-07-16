@@ -1,0 +1,68 @@
+{
+  "strarray": [
+    {
+      "name": "frequencies",
+      "value": [
+        {
+          "value": "@string/does_not_repeat"
+        },
+        {
+          "value": "@string/daily"
+        },
+        {
+          "value": "@string/monthly"
+        }
+      ]
+    },
+    {
+      "name": "reminder",
+      "value": [
+        {
+          "value": "@string/edit"
+        },
+        {
+          "value": "@string/delete"
+        }
+      ]
+    },
+    {
+      "name": "textSize",
+      "value": [
+        {
+          "value": "@string/small"
+        },
+        {
+          "value": "@string/medium"
+        },
+        {
+          "value": "@string/large"
+        }
+      ]
+    },
+    {
+      "name": "theme",
+      "value": [
+        {
+          "value": "@string/dark"
+        },
+        {
+          "value": "@string/light"
+        },
+        {
+          "value": "@string/follow_system"
+        }
+      ]
+    },
+    {
+      "name": "view",
+      "value": [
+        {
+          "value": "@string/list"
+        },
+        {
+          "value": "@string/grid"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "plural": [
+    {
+      "name": "cant_add_images",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "%d slika ni bila dodana."
+        },
+        {
+          "quantity": "two",
+          "value": "%d sliki nista bili dodani."
+        },
+        {
+          "quantity": "few",
+          "value": "%d slike niso bile dodane."
+        },
+        {
+          "quantity": "other",
+          "value": "%d slik ni bilo dodanih."
+        }
+      ]
+    }
+  ]
+}

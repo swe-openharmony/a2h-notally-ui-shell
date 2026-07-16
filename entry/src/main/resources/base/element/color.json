@@ -1,0 +1,112 @@
+{
+  "color": [
+    {
+      "name": "Black",
+      "value": "#ff000000"
+    },
+    {
+      "name": "Blossom",
+      "value": "#ffF5E2DC"
+    },
+    {
+      "name": "Blue50",
+      "value": "#ffE3F2FD"
+    },
+    {
+      "name": "Clay",
+      "value": "#ffE9E3D3"
+    },
+    {
+      "name": "Coral",
+      "value": "#ffFAAFA9"
+    },
+    {
+      "name": "Default",
+      "value": "#ffFFFFFF"
+    },
+    {
+      "name": "Dusk",
+      "value": "#ffD3BFDB"
+    },
+    {
+      "name": "Flower",
+      "value": "#ffF8BBD0"
+    },
+    {
+      "name": "Fog",
+      "value": "#ffD3E4EC"
+    },
+    {
+      "name": "Grey100",
+      "value": "#ffF5F5F5"
+    },
+    {
+      "name": "Indigo100",
+      "value": "#ffC5CAE9"
+    },
+    {
+      "name": "LightBlue100",
+      "value": "#ffB3E5fC"
+    },
+    {
+      "name": "LightBlue500",
+      "value": "#ff03A9F4"
+    },
+    {
+      "name": "Mint",
+      "value": "#ffE2F6D3"
+    },
+    {
+      "name": "Orange",
+      "value": "#ffFFCC80"
+    },
+    {
+      "name": "Sage",
+      "value": "#ffB4DED4"
+    },
+    {
+      "name": "Sand",
+      "value": "#ffFFF8B9"
+    },
+    {
+      "name": "Storm",
+      "value": "#ffAFCCDC"
+    },
+    {
+      "name": "Transparent",
+      "value": "#00000000"
+    },
+    {
+      "name": "chip_background",
+      "value": "#ff000000"
+    },
+    {
+      "name": "chip_ripple",
+      "value": "#3d03A9F4"
+    },
+    {
+      "name": "chip_stroke",
+      "value": "#33000000"
+    },
+    {
+      "name": "highlight",
+      "value": "#4c000000"
+    },
+    {
+      "name": "navigation_view_item",
+      "value": "#ff000000"
+    },
+    {
+      "name": "stop_background",
+      "value": "#0f000000"
+    },
+    {
+      "name": "stop_text",
+      "value": "#ff000000"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#ffffffff"
+    }
+  ]
+}

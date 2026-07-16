@@ -1,0 +1,264 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Tungkol"
+    },
+    {
+      "name": "add_item",
+      "value": "Magdagdag ng item"
+    },
+    {
+      "name": "add_label",
+      "value": "Magdagdag ng label"
+    },
+    {
+      "name": "appearance",
+      "value": "Itsura"
+    },
+    {
+      "name": "archive",
+      "value": "Archive"
+    },
+    {
+      "name": "archived",
+      "value": "Mga Na-archive"
+    },
+    {
+      "name": "backup",
+      "value": "Backup"
+    },
+    {
+      "name": "bold",
+      "value": "Bold"
+    },
+    {
+      "name": "cancel",
+      "value": "Kanselahin"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Hindi mabuksan ang link"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Tanggalin ang formatting"
+    },
+    {
+      "name": "content_density",
+      "value": "Siksikan ng laman"
+    },
+    {
+      "name": "create_new",
+      "value": "Wala pang mga tatak. Gumawa ng isa?"
+    },
+    {
+      "name": "dark",
+      "value": "Madilim"
+    },
+    {
+      "name": "date",
+      "value": "Petsa"
+    },
+    {
+      "name": "delete",
+      "value": "Tanggalin"
+    },
+    {
+      "name": "delete_all",
+      "value": "Tanggalin lahat"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Tanggalin lahat ng tala?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Tanggalin habambuhay"
+    },
+    {
+      "name": "delete_label",
+      "value": "Tanggalin ang tatak?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Tanggalin ang tala habambuhay?"
+    },
+    {
+      "name": "deleted",
+      "value": "Mga Tinanggal"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Hawakan sa pag-drag"
+    },
+    {
+      "name": "edit",
+      "value": "I-edit"
+    },
+    {
+      "name": "edit_label",
+      "value": "I-edit ang tatak"
+    },
+    {
+      "name": "empty_list",
+      "value": "Walang laman na listahan"
+    },
+    {
+      "name": "empty_note",
+      "value": "Walang laman na tala"
+    },
+    {
+      "name": "export",
+      "value": "I-export"
+    },
+    {
+      "name": "follow_system",
+      "value": "Sundin ang System"
+    },
+    {
+      "name": "grid",
+      "value": "Grid"
+    },
+    {
+      "name": "italic",
+      "value": "Italic"
+    },
+    {
+      "name": "item",
+      "value": "Bagong Item"
+    },
+    {
+      "name": "label_exists",
+      "value": "Ang tatak ay mayroon na"
+    },
+    {
+      "name": "labels",
+      "value": "Tatak"
+    },
+    {
+      "name": "libraries",
+      "value": "Mga Library"
+    },
+    {
+      "name": "light",
+      "value": "Maliwanag"
+    },
+    {
+      "name": "link",
+      "value": "Link"
+    },
+    {
+      "name": "list",
+      "value": "Listahan"
+    },
+    {
+      "name": "make_list",
+      "value": "Gumawa ng listahan"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Pinamadaming item na ipapakita sa listahan"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Pinamadaming linya na ipapakita sa tala"
+    },
+    {
+      "name": "monospace",
+      "value": "Monospace"
+    },
+    {
+      "name": "note",
+      "value": "Tala"
+    },
+    {
+      "name": "notes",
+      "value": "Mga Tala"
+    },
+    {
+      "name": "pin",
+      "value": "Pin"
+    },
+    {
+      "name": "pinned",
+      "value": "Mga na-pin"
+    },
+    {
+      "name": "rate",
+      "value": "Markahan ang app na ito"
+    },
+    {
+      "name": "restore",
+      "value": "Ibalik"
+    },
+    {
+      "name": "save",
+      "value": "Isalba"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Isalba"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Nakasalba sa device"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Nakasalba sa Notally"
+    },
+    {
+      "name": "search",
+      "value": "Hanapin"
+    },
+    {
+      "name": "settings",
+      "value": "Mga Setting"
+    },
+    {
+      "name": "share",
+      "value": "Ibahagi"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "May nangyari na mali. Pakiulit muli."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Strikethrough"
+    },
+    {
+      "name": "take_note",
+      "value": "Gumawa ng tala"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "title",
+      "value": "Pamagat"
+    },
+    {
+      "name": "unarchive",
+      "value": "Tanggalin sa archive"
+    },
+    {
+      "name": "unpin",
+      "value": "Tanggalin ang pin"
+    },
+    {
+      "name": "view",
+      "value": "Tignan"
+    },
+    {
+      "name": "view_note",
+      "value": "Tignan ang tala…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Ang mga tala na nakaugnay sa tatak na ito ay hindi tatanggalin"
+    }
+  ]
+}

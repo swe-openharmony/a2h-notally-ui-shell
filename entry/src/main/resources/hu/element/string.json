@@ -1,0 +1,264 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Névjegy"
+    },
+    {
+      "name": "add_item",
+      "value": "Elem hozzáadása"
+    },
+    {
+      "name": "add_label",
+      "value": "Címke létrehozása"
+    },
+    {
+      "name": "appearance",
+      "value": "Megjelenés"
+    },
+    {
+      "name": "archive",
+      "value": "Archiválás"
+    },
+    {
+      "name": "archived",
+      "value": "Archivált"
+    },
+    {
+      "name": "backup",
+      "value": "Biztonsági mentés"
+    },
+    {
+      "name": "bold",
+      "value": "Félkövér"
+    },
+    {
+      "name": "cancel",
+      "value": "Mégse"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "A hivatkozás nem nyitható meg"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Formázás törlése"
+    },
+    {
+      "name": "content_density",
+      "value": "Tartalom sűrűsége"
+    },
+    {
+      "name": "create_new",
+      "value": "Nincsenek címkék. Szeretnél készíteni egyet?"
+    },
+    {
+      "name": "dark",
+      "value": "Sötét"
+    },
+    {
+      "name": "date",
+      "value": "Dátum"
+    },
+    {
+      "name": "delete",
+      "value": "Törlés"
+    },
+    {
+      "name": "delete_all",
+      "value": "Törli mind?"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Törli az összes jegyzetet?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Végleges törlés"
+    },
+    {
+      "name": "delete_label",
+      "value": "Törölni szeretnéd a címkét?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Véglegesen törölni szeretné a jegyzetet?"
+    },
+    {
+      "name": "deleted",
+      "value": "Kuka"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Megfogó nyél"
+    },
+    {
+      "name": "edit",
+      "value": "Szerkesztés"
+    },
+    {
+      "name": "edit_label",
+      "value": "Címke szerkesztése"
+    },
+    {
+      "name": "empty_list",
+      "value": "Üres lista"
+    },
+    {
+      "name": "empty_note",
+      "value": "Üres jegyzet"
+    },
+    {
+      "name": "export",
+      "value": "Exportálás"
+    },
+    {
+      "name": "follow_system",
+      "value": "Rendszer követése"
+    },
+    {
+      "name": "grid",
+      "value": "Rács"
+    },
+    {
+      "name": "italic",
+      "value": "Dőlt"
+    },
+    {
+      "name": "item",
+      "value": "Elem"
+    },
+    {
+      "name": "label_exists",
+      "value": "A címke már létezik"
+    },
+    {
+      "name": "labels",
+      "value": "Címkék"
+    },
+    {
+      "name": "libraries",
+      "value": "Könyvtárak"
+    },
+    {
+      "name": "light",
+      "value": "Világos"
+    },
+    {
+      "name": "link",
+      "value": "Hivatkozás"
+    },
+    {
+      "name": "list",
+      "value": "Lista"
+    },
+    {
+      "name": "make_list",
+      "value": "Lista"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Elemek száma egy listában"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Sorok száma egy jegyzetben"
+    },
+    {
+      "name": "monospace",
+      "value": "Állandó szélességű"
+    },
+    {
+      "name": "note",
+      "value": "Jegyzet"
+    },
+    {
+      "name": "notes",
+      "value": "Jegyzetek"
+    },
+    {
+      "name": "pin",
+      "value": "Rögzítés"
+    },
+    {
+      "name": "pinned",
+      "value": "Kitűzve"
+    },
+    {
+      "name": "rate",
+      "value": "Értékeld ezt az alkalmazást"
+    },
+    {
+      "name": "restore",
+      "value": "Visszaállítás"
+    },
+    {
+      "name": "save",
+      "value": "Mentés"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Mentés az eszközre"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Elmentve az eszközre"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Elmentve a Notally -ban"
+    },
+    {
+      "name": "search",
+      "value": "Keresés"
+    },
+    {
+      "name": "settings",
+      "value": "Beállítások"
+    },
+    {
+      "name": "share",
+      "value": "Megosztás"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Valami elromlott. Kérlek próbáld újra"
+    },
+    {
+      "name": "strikethrough",
+      "value": "Áthúzás"
+    },
+    {
+      "name": "take_note",
+      "value": "Feljegyzés"
+    },
+    {
+      "name": "theme",
+      "value": "Téma"
+    },
+    {
+      "name": "title",
+      "value": "Cím"
+    },
+    {
+      "name": "unarchive",
+      "value": "Archiválás visszavonása"
+    },
+    {
+      "name": "unpin",
+      "value": "Feloldás"
+    },
+    {
+      "name": "view",
+      "value": "Nézet"
+    },
+    {
+      "name": "view_note",
+      "value": "Megtekintés…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "A jegyzetek ezzel a címkével nem kerülnek törlésre"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "app": {
+    "bundleName": "com.omgodse.notally",
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:notally_layered_image",
+    "label": "$string:app_name"
+  }
+}

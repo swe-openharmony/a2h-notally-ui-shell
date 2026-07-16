@@ -1,0 +1,17 @@
+{
+  "plural": [
+    {
+      "name": "cant_add_images",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "Kan ikkje legga til %d bilete"
+        },
+        {
+          "quantity": "other",
+          "value": "Kan ikkje legga til %d bilete"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "အ​ကြောင်း"
+    },
+    {
+      "name": "add_images",
+      "value": "ရုပ်ပုံများထည့်မည်"
+    },
+    {
+      "name": "add_item",
+      "value": "အိုင်တမ် အသစ်ထည့်မည်"
+    },
+    {
+      "name": "add_label",
+      "value": "အမှတ်အသား တက်မည်"
+    },
+    {
+      "name": "appearance",
+      "value": "အက်ပ် အသွင်အပြင်"
+    },
+    {
+      "name": "archive",
+      "value": "သိမ်းဆည်းမည်"
+    },
+    {
+      "name": "archived",
+      "value": "သိမ်းဆည်းထား​သော"
+    },
+    {
+      "name": "auto_backup",
+      "value": "Auto backup"
+    },
+    {
+      "name": "backup",
+      "value": "Backup"
+    },
+    {
+      "name": "bold",
+      "value": "စာထူ"
+    },
+    {
+      "name": "cancel",
+      "value": "ပယ်ဖျက်ပါ"
+    },
+    {
+      "name": "cant_find_folder",
+      "value": "ဖိုဒါကို ရှာမ​တွေ့ပါ။ဖိုဒါဖျက်ခံရတာ သို့မဟုတ် နေရာ​ပြောင်းတာဖြစ်နိုင်ပါတယ်။"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "လင့်ကိုမဖွင့်နိုင်ပါ။"
+    },
+    {
+      "name": "change_color",
+      "value": "အ​ရောင်​ပြောင်းမည်"
+    },
+    {
+      "name": "choose_another_folder",
+      "value": "အခြား ဖိုဒါကို​ရွေးပါ။"
+    },
+    {
+      "name": "choose_folder",
+      "value": "ဖိုဒါ ရွေးပါ"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "ပုံစံချထားသည်များ ဖျက်မည်"
+    },
+    {
+      "name": "content_density",
+      "value": "စာစု"
+    },
+    {
+      "name": "create_new",
+      "value": "အမှတ်အသား မရှိ​သေးပါ။တစ်ခု ဖန်တီးမလား။"
+    },
+    {
+      "name": "dark",
+      "value": "အ​​မှောင်"
+    },
+    {
+      "name": "date",
+      "value": "နေ့ရက်"
+    },
+    {
+      "name": "date_format",
+      "value": "နေ့ရက်ပုံစံ"
+    },
+    {
+      "name": "delete",
+      "value": "ဖျက်မည်"
+    },
+    {
+      "name": "delete_all",
+      "value": "အားလုံးကိုဖျက်မည်"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Delete all notes?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "အပြီးဖျက်မည်"
+    },
+    {
+      "name": "delete_label",
+      "value": "အမှတ်အသားကိုဖျက်မည်လား။"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "မှတ်စုကို အပြီးဖျက်မည်"
+    },
+    {
+      "name": "deleted",
+      "value": "ဖျက်ထား​သော"
+    },
+    {
+      "name": "disable_auto_backup",
+      "value": "အလိုအ​လျောက်အရန်သိမ်းဆည်းခြင်းကိုပိတ်မည်"
+    },
+    {
+      "name": "drag_handle",
+      "value": "ဟန်ယ်ကို ရွှေ့မည်"
+    },
+    {
+      "name": "edit",
+      "value": "တည်းဖြတ်မည်"
+    },
+    {
+      "name": "edit_label",
+      "value": "အမှတ်အသားကို ပြင်မည်"
+    },
+    {
+      "name": "empty_list",
+      "value": "စာရင်းအလွတ်"
+    },
+    {
+      "name": "empty_note",
+      "value": "မှတ်စုအလွတ်"
+    },
+    {
+      "name": "export",
+      "value": "ထုတ်မည်"
+    },
+    {
+      "name": "export_backup",
+      "value": "မှတ်စုများထုတ်မည်"
+    },
+    {
+      "name": "filter",
+      "value": "စစ်ထုတ်မှု"
+    },
+    {
+      "name": "follow_system",
+      "value": "ဖုန်းအတိုင်း"
+    },
+    {
+      "name": "grid",
+      "value": "ဂရပ်ပုံစံ"
+    },
+    {
+      "name": "image_format_not_supported",
+      "value": "ဤရုပ်ပုံဖိုင်အမျိုးအစားအား လက်မခံပါ။"
+    },
+    {
+      "name": "import_backup",
+      "value": "မှတ်စုများ သွင်းမည်"
+    },
+    {
+      "name": "imported_backup",
+      "value": "အရန်သိမ်းထားသည်များ သွင်းမည်။"
+    },
+    {
+      "name": "install_a_browser",
+      "value": "လင့်ဖွင့်ရန် ဘ​ရောက်ဇာတစ်ခု အရင်သွင်းပါ။"
+    },
+    {
+      "name": "install_an_email",
+      "value": "တုံ့ပြန်ချက်​ပေးပို့ရန် အီး​မေးလ်အက်ပ် တစ်ခုအရင်သွင်းပါ"
+    },
+    {
+      "name": "invalid_backup",
+      "value": "အရန်သိမ်းဖိုင်မှားနေသည်။"
+    },
+    {
+      "name": "invalid_image",
+      "value": "ရုပ်ပုံမှား​နေသည်။"
+    },
+    {
+      "name": "italic",
+      "value": "စာတွန့်"
+    },
+    {
+      "name": "item",
+      "value": "အိုင်တမ်"
+    },
+    {
+      "name": "label_exists",
+      "value": "အမှတ်အသား မှတ်ပြီးသား"
+    },
+    {
+      "name": "labels",
+      "value": "အမှတ်အသားများ"
+    },
+    {
+      "name": "large",
+      "value": "ကြီးမား"
+    },
+    {
+      "name": "libraries",
+      "value": "လိုက်ဘရီများ"
+    },
+    {
+      "name": "light",
+      "value": "အလင်း"
+    },
+    {
+      "name": "link",
+      "value": "လင့်"
+    },
+    {
+      "name": "list",
+      "value": "စာရင်းပုံစံ"
+    },
+    {
+      "name": "make_list",
+      "value": "အမှတ်ခြစ်စာရင်း"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "အမှတ်ခြစ်စာရင်းထဲတွင် အများဆုံးပြရမည့်အိုင်တမ်အ​ရေအတွက်"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "မှတ်စုတစ်ခုထဲတွင်အများဆုံးပြရမည့်စာ​ကြောင်း​ရေ"
+    },
+    {
+      "name": "medium",
+      "value": "အ​နေ​တော်"
+    },
+    {
+      "name": "monospace",
+      "value": "မိုနိုစ​ပေ့စ်"
+    },
+    {
+      "name": "none",
+      "value": "ဘာမှမရှိ"
+    },
+    {
+      "name": "note",
+      "value": "မှတ်စု"
+    },
+    {
+      "name": "notes",
+      "value": "မှတ်စုများ"
+    },
+    {
+      "name": "notes_will_be",
+      "value": "မှတ်စု​ဖိုင်များသည်သင့် ဖုန်းထဲသို့​နေ့စဥ်အရန်သိမ်းမည်ဖြစ်သည်။သင့်ဖုန်းမှာဘက်ထ္ထရီ​ချွေတာ​ရေးလုပ်​ဆောင်ချက် ဖွင့်ထားရင်အလုပ်မလုပ်နိုင်ပါ။"
+    },
+    {
+      "name": "open_link",
+      "value": "လင့်ကိုဖွင့်မည်"
+    },
+    {
+      "name": "others",
+      "value": "အခြား"
+    },
+    {
+      "name": "pin",
+      "value": "ပင်တွဲမည်"
+    },
+    {
+      "name": "pinned",
+      "value": "ပင်တွဲပြီး"
+    },
+    {
+      "name": "rate",
+      "value": "အက်ပ်ကို အဆင့်သတ်မှတ်မည်"
+    },
+    {
+      "name": "restore",
+      "value": "ပြန်ယူမည်"
+    },
+    {
+      "name": "save",
+      "value": "သိမ်းမည်"
+    },
+    {
+      "name": "save_to_device",
+      "value": "ဖုန်းထဲကိုသိမ်းမည်"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "ဖုန်းထဲသို့သိမ်းပြီး"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "အက်ပ်ထဲသို့သိမ်းပြီး။"
+    },
+    {
+      "name": "search",
+      "value": "ရှာရန်"
+    },
+    {
+      "name": "send_feedback",
+      "value": "တုံ့ပြန်ချက်​ပေးပို့မည်"
+    },
+    {
+      "name": "settings",
+      "value": "ချိန်ညှိစရာများ"
+    },
+    {
+      "name": "share",
+      "value": "မျှ​ဝေမည်"
+    },
+    {
+      "name": "small",
+      "value": "သေးငယ်"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "တစ်စုံတစ်ခုမှားယွင်း​နေသည်။ထပ်မံကြိုးစားပါ။"
+    },
+    {
+      "name": "strikethrough",
+      "value": "ဖျက်မှတ်"
+    },
+    {
+      "name": "take_note",
+      "value": "မှတ်စု"
+    },
+    {
+      "name": "tap_to_set_up",
+      "value": "ချိန်ညှိရန် နှိပ်ပါ"
+    },
+    {
+      "name": "text_size",
+      "value": "စာလလုံးအရွယ်အစား"
+    },
+    {
+      "name": "theme",
+      "value": "နောက်ခံပုံစံ"
+    },
+    {
+      "name": "title",
+      "value": "ခေါင်းစဥ်"
+    },
+    {
+      "name": "unarchive",
+      "value": "မသိမ်းဆည်း​တော့ပါ"
+    },
+    {
+      "name": "unpin",
+      "value": "ပင်ဖြုတ်မည်"
+    },
+    {
+      "name": "view",
+      "value": "ဖတ်မည်"
+    },
+    {
+      "name": "view_file",
+      "value": "ဖိုင်ကိုကြည့်မည်"
+    },
+    {
+      "name": "view_note",
+      "value": "မှတ်စုကိုဖတ်မည်…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "ဒီတံဆိပ်တပ်ထားတဲ့ မှတ်စုက ပျက်သွားမှာမဟုတ်ပါ။"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Про програму"
+    },
+    {
+      "name": "add_item",
+      "value": "Додати елемент"
+    },
+    {
+      "name": "add_label",
+      "value": "Додати мітку"
+    },
+    {
+      "name": "appearance",
+      "value": "Зовнішній вигляд"
+    },
+    {
+      "name": "archive",
+      "value": "Архів"
+    },
+    {
+      "name": "archived",
+      "value": "Архівовані"
+    },
+    {
+      "name": "backup",
+      "value": "Резервне копіювання"
+    },
+    {
+      "name": "bold",
+      "value": "Напівжирний"
+    },
+    {
+      "name": "cancel",
+      "value": "Відмінити"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Неможливо відкрити посилання"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Очистити форматування"
+    },
+    {
+      "name": "content_density",
+      "value": "Щільність вмісту"
+    },
+    {
+      "name": "create_new",
+      "value": "Мітки відсутні. Створити?"
+    },
+    {
+      "name": "dark",
+      "value": "Темна"
+    },
+    {
+      "name": "date",
+      "value": "Дата"
+    },
+    {
+      "name": "delete",
+      "value": "Видалити"
+    },
+    {
+      "name": "delete_all",
+      "value": "Видалити все"
+    },
+    {
+      "name": "delete_all_notes",
+      "value": "Видалити всі нотатки?"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Видалити назавжди"
+    },
+    {
+      "name": "delete_label",
+      "value": "Видалити мітку?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Видалити запис назавжди?"
+    },
+    {
+      "name": "deleted",
+      "value": "Видалені"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Перетягніть вручну"
+    },
+    {
+      "name": "edit",
+      "value": "Редагувати"
+    },
+    {
+      "name": "edit_label",
+      "value": "Редагувати мітку"
+    },
+    {
+      "name": "empty_list",
+      "value": "Пустий список"
+    },
+    {
+      "name": "empty_note",
+      "value": "Пустий запис"
+    },
+    {
+      "name": "export",
+      "value": "Експорт"
+    },
+    {
+      "name": "follow_system",
+      "value": "Системні налаштування"
+    },
+    {
+      "name": "grid",
+      "value": "Сітка"
+    },
+    {
+      "name": "italic",
+      "value": "Курсив"
+    },
+    {
+      "name": "item",
+      "value": "Елементи"
+    },
+    {
+      "name": "label_exists",
+      "value": "Мітка вже існує"
+    },
+    {
+      "name": "labels",
+      "value": "Мітки"
+    },
+    {
+      "name": "libraries",
+      "value": "Бібліотеки"
+    },
+    {
+      "name": "light",
+      "value": "Світла"
+    },
+    {
+      "name": "link",
+      "value": "Посилання"
+    },
+    {
+      "name": "list",
+      "value": "Список"
+    },
+    {
+      "name": "make_list",
+      "value": "Створити список"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Максимальна кількількість елементів в списку"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Максимальна кількість рядків в нотатці"
+    },
+    {
+      "name": "monospace",
+      "value": "Монопростір"
+    },
+    {
+      "name": "note",
+      "value": "Запис"
+    },
+    {
+      "name": "notes",
+      "value": "Нотатки"
+    },
+    {
+      "name": "pin",
+      "value": "Закріпити"
+    },
+    {
+      "name": "pinned",
+      "value": "Закріплено"
+    },
+    {
+      "name": "rate",
+      "value": "Цінити цей додаток"
+    },
+    {
+      "name": "restore",
+      "value": "Відновити"
+    },
+    {
+      "name": "save",
+      "value": "Зберегти"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Зберегти на пристрої"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Збережено на пристрій"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Збережено в Notally"
+    },
+    {
+      "name": "search",
+      "value": "Пошук"
+    },
+    {
+      "name": "settings",
+      "value": "Налаштування"
+    },
+    {
+      "name": "share",
+      "value": "Надіслати"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Щось пішло не так. Будь ласка спробуйте ще раз."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Перекреслити"
+    },
+    {
+      "name": "take_note",
+      "value": "Взяти до відома"
+    },
+    {
+      "name": "theme",
+      "value": "Тема"
+    },
+    {
+      "name": "title",
+      "value": "Назва"
+    },
+    {
+      "name": "unarchive",
+      "value": "Розархівувати"
+    },
+    {
+      "name": "unpin",
+      "value": "Відкріпити"
+    },
+    {
+      "name": "view",
+      "value": "Вигляд"
+    },
+    {
+      "name": "view_note",
+      "value": "Переглянути…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Ваші нотатки, пов’язані з цією міткою, не будуть видалені"
+    }
+  ]
+}

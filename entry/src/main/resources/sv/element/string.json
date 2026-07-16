@@ -1,0 +1,256 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Om"
+    },
+    {
+      "name": "add_item",
+      "value": "Lägg till objekt"
+    },
+    {
+      "name": "add_label",
+      "value": "Lägg till etikett"
+    },
+    {
+      "name": "appearance",
+      "value": "Utseende"
+    },
+    {
+      "name": "archive",
+      "value": "Arkivera"
+    },
+    {
+      "name": "archived",
+      "value": "Arkiverad"
+    },
+    {
+      "name": "backup",
+      "value": "Säkerhetskopiering"
+    },
+    {
+      "name": "bold",
+      "value": "Fet"
+    },
+    {
+      "name": "cancel",
+      "value": "Avbryt"
+    },
+    {
+      "name": "cant_open_link",
+      "value": "Kan inte öppna länken"
+    },
+    {
+      "name": "clear_formatting",
+      "value": "Rensa formatering"
+    },
+    {
+      "name": "content_density",
+      "value": "Innehållstäthet"
+    },
+    {
+      "name": "create_new",
+      "value": "Inga etiketter än. Skapa en?"
+    },
+    {
+      "name": "dark",
+      "value": "Mörk"
+    },
+    {
+      "name": "date",
+      "value": "Datum"
+    },
+    {
+      "name": "delete",
+      "value": "Radera"
+    },
+    {
+      "name": "delete_forever",
+      "value": "Radera för alltid"
+    },
+    {
+      "name": "delete_label",
+      "value": "Radera etikett?"
+    },
+    {
+      "name": "delete_note_forever",
+      "value": "Radera anteckning för alltid?"
+    },
+    {
+      "name": "deleted",
+      "value": "Raderat"
+    },
+    {
+      "name": "drag_handle",
+      "value": "Grepphandtag"
+    },
+    {
+      "name": "edit",
+      "value": "Redigera"
+    },
+    {
+      "name": "edit_label",
+      "value": "Redigera etikett"
+    },
+    {
+      "name": "empty_list",
+      "value": "Tom lista"
+    },
+    {
+      "name": "empty_note",
+      "value": "Tom anteckning"
+    },
+    {
+      "name": "export",
+      "value": "Exportera"
+    },
+    {
+      "name": "follow_system",
+      "value": "Följ systemet"
+    },
+    {
+      "name": "grid",
+      "value": "Rutnät"
+    },
+    {
+      "name": "italic",
+      "value": "Kursiv"
+    },
+    {
+      "name": "item",
+      "value": "Objekt"
+    },
+    {
+      "name": "label_exists",
+      "value": "Etiketten finns redan"
+    },
+    {
+      "name": "labels",
+      "value": "Etiketter"
+    },
+    {
+      "name": "libraries",
+      "value": "Tredjepartsbibliotek"
+    },
+    {
+      "name": "light",
+      "value": "Ljus"
+    },
+    {
+      "name": "link",
+      "value": "Länk"
+    },
+    {
+      "name": "list",
+      "value": "Lista"
+    },
+    {
+      "name": "make_list",
+      "value": "Skapa lista"
+    },
+    {
+      "name": "max_items_to_display",
+      "value": "Max antal objekt att visa i lista"
+    },
+    {
+      "name": "max_lines_to_display",
+      "value": "Max antal rader att visa i anteckning"
+    },
+    {
+      "name": "monospace",
+      "value": "Fast bredd"
+    },
+    {
+      "name": "note",
+      "value": "Anteckning"
+    },
+    {
+      "name": "notes",
+      "value": "Anteckningar"
+    },
+    {
+      "name": "pin",
+      "value": "Fäst"
+    },
+    {
+      "name": "pinned",
+      "value": "Fästa"
+    },
+    {
+      "name": "rate",
+      "value": "Betygsätt denna app"
+    },
+    {
+      "name": "restore",
+      "value": "Återställ"
+    },
+    {
+      "name": "save",
+      "value": "Spara"
+    },
+    {
+      "name": "save_to_device",
+      "value": "Spara till enhet"
+    },
+    {
+      "name": "saved_to_device",
+      "value": "Sparad till enhet"
+    },
+    {
+      "name": "saved_to_notally",
+      "value": "Sparad till Notally"
+    },
+    {
+      "name": "search",
+      "value": "Sök"
+    },
+    {
+      "name": "settings",
+      "value": "Inställningar"
+    },
+    {
+      "name": "share",
+      "value": "Dela"
+    },
+    {
+      "name": "something_went_wrong",
+      "value": "Ett fel uppstod. Var vänligt försök igen."
+    },
+    {
+      "name": "strikethrough",
+      "value": "Genomstruken"
+    },
+    {
+      "name": "take_note",
+      "value": "Skapa anteckning"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "title",
+      "value": "Titel"
+    },
+    {
+      "name": "unarchive",
+      "value": "Avarkivera"
+    },
+    {
+      "name": "unpin",
+      "value": "Ta bort"
+    },
+    {
+      "name": "view",
+      "value": "Visa"
+    },
+    {
+      "name": "view_note",
+      "value": "Se anteckning…"
+    },
+    {
+      "name": "your_notes_associated",
+      "value": "Dina anteckningar som är associerad till denna etikett kommer inte raderas"
+    }
+  ]
+}
